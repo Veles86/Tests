@@ -1,0 +1,7 @@
+.idea
+Icons/Thumbs.db
+__pycache__
+DataLocalOnly/
+Backup/
+/Code/.vscode/
+#/Project/Index/
