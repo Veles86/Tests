@@ -1,0 +1,23 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File
+4555      200PIK     41.88433   677.  22  -1.34  0101            ARI44.DAT.raw
+ 200PIK     2ARL     20.40174   432.  12  -1.60  0101            ARI46.DAT.raw
+   2ARL     3ARL     18.75854   356.  10  -2.75  1023            ARI33.DAT.raw
+   3ARL     4ARL     -2.74561   250.   7   0.50  0101            ARI34.DAT.raw
+   4ARL     5ARL    -22.43608   400.  12   0.26  0101            ARI37.DAT.raw
+   5ARL  4240MPI     49.93121   984.  27  -2.54  0101            ARI45.DAT.raw
+4240MPI  4375MPI     25.40946   827.  18   1.15  1029            ARI41.DAT.raw
+4375MPI      ARIL    13.28361   324.  10   1.22  1028            ARI39.DAT.raw
+    ARIL  100PIK     38.90835   554.  20  -2.00  0101            ARI30.DAT.raw
+ 100PIK     3AREL    23.08182   723.  21  -1.33  0101            ARI31.DAT.raw
+   3AREL 4234MPI    -36.35128   492.  21   0.53  0101            ARI24.DAT.raw
+4234MPI  4068MPI    -25.70916  1236.  28   1.03  0101            ARI19.DAT.raw
+4068MPI      ARIL     0.07183    19.   5  -0.40  0101            ARI08.DAT.raw
+    ARIL 4232MPI      5.12516   853.  25  -1.35  0619            ARI23.DAT.raw
+4232MPI  4230MPI     -0.97307   188.   6   0.80  0101            ARI17.DAT.raw
+4230MPI  4231MPI      4.61816   145.   4  -0.97  0101            ARI18.DAT.raw
+4231MPI     4YOSH    22.03860  1004.  20   0.94  0101            ARI13.DAT.raw
+   4YOSH 4235MPI     -7.62387   346.   8   0.06  0101            ARI11.DAT.raw
+4235MPI  4234MPI      2.45274   184.   4   0.66  0101            ARI02.DAT.raw
+4234MPI  4233MPI     -9.21302   176.   6   2.24  0101            ARI03.DAT.raw
+4233MPI  4232MPI    -11.29660   262.   6  -0.23  0501            ARI04.DAT.raw
+4234MPI     4YOSH     5.16979   541.  10   0.08  0101            ARI25.DAT.raw

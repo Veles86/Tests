@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 17 July 2025 7:29:32</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\AdjsutMeasurements.py", line 4, in &lt;module&gt;
+﻿    from arcgis.features import FeatureLayer, GetParameterAsText
+﻿ImportError: cannot import name 'GetParameterAsText' from 'arcgis.features' (C:\Users\ilyak\AppData\Local\ESRI\conda\envs\arcgispro-py3-clone\Lib\site-packages\arcgis\features\__init__.py)
+</msg><msg code="0" type="0">Failed script Network Adjustment...</msg><msg code="-2147467259" type="100">Failed to execute (NetworkAdjustment).</msg><msg code="0" type="3">Failed at Thursday, 17 July 2025 7:29:54 (Elapsed Time: 21.85 seconds)</msg></messages>

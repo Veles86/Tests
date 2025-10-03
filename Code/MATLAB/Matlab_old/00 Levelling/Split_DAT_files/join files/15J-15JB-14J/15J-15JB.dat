@@ -1,0 +1,10 @@
+For M5|Adr     1|TO  15J-15JB.dat               |                      |                      |                      
+For M5|Adr     2|TO  160119 MARWAN              |                      |                      |                      
+For M5|Adr     3|TO  745100 70303 70303 1111    |                      |                      |                      
+For M5|Adr     4|TO  Start-Line         BF    2L|                      |                      |                      
+For M5|Adr   274|KD1      15J      13:58:38   2L|                      |                      |Z        16.17642 m   
+For M5|Adr   283|KD1      15J      14:16:503  2L|Rb        1.65651 m   |HD         11.779 m   |                      
+For M5|Adr   284|KD1     15JB      14:17:333  2L|Rf        1.80079 m   |HD         11.348 m   |                      
+For M5|Adr   285|KD1     15JB      14:17:33   2L|                      |                      |Z        16.03214 m   
+For M5|Adr   286|KD1     15JB                 2L|Sh       -0.14428 m   |                      |                      
+For M5|Adr   287|KD2     15JB        1        2L|Db          11.78 m   |Df          11.35 m   |Z        16.03214 m   

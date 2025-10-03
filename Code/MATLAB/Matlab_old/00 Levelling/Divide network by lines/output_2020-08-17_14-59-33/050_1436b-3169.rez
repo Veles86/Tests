@@ -1,0 +1,11 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source
+1436b    1227b       12.83703   2214.   43   -2.83  0403                  929.RAW                     luba
+1227b    1226b      -14.21648    762.   16    0.34  0203                  929.RAW                     luba
+1226b    1246b        1.28908    660.   14   -0.96  0203                  929.RAW                     luba
+1246b    1247b      -22.70074   1282.   25   -0.14  0203                  929.RAW                     luba
+1247b    1249b      -10.01605    781.   14   -0.05  0203                  929.RAW                     luba
+1249b    1254b       -0.01788    842.   14   -1.92  0203                  929.RAW                     luba
+1254b    3282MPI     -3.61521   1715.   28   -1.01  0703                  929.RAW                     luba
+3282MPI  1329b        9.42035   2073.   37    2.30  0703                  929.RAW                     luba
+1329b    1328b       -2.72537    637.   14    1.86  0603                  929.RAW                     luba
+1328b    3169         3.23301   2446.   46   -1.10  0603                  929.RAW                     luba

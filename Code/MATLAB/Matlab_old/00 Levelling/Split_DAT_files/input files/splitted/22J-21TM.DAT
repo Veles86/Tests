@@ -1,0 +1,35 @@
+For M5|Adr     1|TO  22J-21TM.dat               |                      |                      |                      | 
+For M5|Adr     2|TO  230818 FADI                |                      |                      |                      | 
+For M5|Adr     3|TO 743261 58086 58086 1111    |                      |                      |                      | 
+For M5|Adr     4|TO  Start-Line         BF    11|                      |                      |                      | 
+For M5|Adr   198|KD1      22J                 11|                      |                      |Z        97.59099 m   | 
+For M5|Adr   199|KD1      22J      04:05:383  11|Rb        0.74256 m   |HD         18.148 m   |                      | 
+For M5|Adr   200|KD1       1P      04:06:383  11|Rf        1.46809 m   |HD         19.177 m   |                      | 
+For M5|Adr   201|KD1       1P      04:06:38   11|                      |                      |Z        96.86546 m   | 
+For M5|Adr   202|KD1       1P      04:07:323  11|Rb        1.43727 m   |HD         19.026 m   |                      | 
+For M5|Adr   203|KD1       2P      04:08:143  11|Rf        1.52314 m   |HD         19.563 m   |                      | 
+For M5|Adr   204|KD1       2P      04:08:14   11|                      |                      |Z        96.77959 m   | 
+For M5|Adr   205|KD1       2P      04:09:203  11|Rb        1.82421 m   |HD         19.214 m   |                      | 
+For M5|Adr   206|KD1       3P      04:10:033  11|Rf        0.37224 m   |HD         18.741 m   |                      | 
+For M5|Adr   207|KD1       3P      04:10:03   11|                      |                      |Z        98.23156 m   | 
+For M5|Adr   208|KD1       3P      04:11:363  11|Rb        1.82335 m   |HD         17.228 m   |                      | 
+For M5|Adr   209|KD1       4P      04:12:183  11|Rf        1.10538 m   |HD         17.365 m   |                      | 
+For M5|Adr   210|KD1       4P      04:12:18   11|                      |                      |Z        98.94953 m   | 
+For M5|Adr   211|KD1       4P      04:13:343  11|Rb        1.49494 m   |HD         17.730 m   |                      | 
+For M5|Adr   212|KD1       5P      04:14:173  11|Rf        1.22877 m   |HD         17.382 m   |                      | 
+For M5|Adr   213|KD1       5P      04:14:17   11|                      |                      |Z        99.21570 m   | 
+For M5|Adr   214|KD1       5P      04:15:293  11|Rb        1.51057 m   |HD         18.242 m   |                      | 
+For M5|Adr   215|KD1       6P      04:16:093  11|Rf        1.19902 m   |HD         17.788 m   |                      | 
+For M5|Adr   216|KD1       6P      04:16:09   11|                      |                      |Z        99.52725 m   | 
+For M5|Adr   217|KD1       6P      04:17:233  11|Rb        1.50720 m   |HD         16.981 m   |                      | 
+For M5|Adr   218|KD1       7P      04:18:173  11|Rf        1.21917 m   |HD         17.794 m   |                      | 
+For M5|Adr   219|KD1       7P      04:18:17   11|                      |                      |Z        99.81528 m   | 
+For M5|Adr   220|KD1       7P      04:19:143  11|Rb        1.55099 m   |HD         17.710 m   |                      | 
+For M5|Adr   221|KD1       8P      04:19:553  11|Rf        1.24307 m   |HD         17.305 m   |                      | 
+For M5|Adr   222|KD1       8P      04:19:55   11|                      |                      |Z       100.12320 m   | 
+For M5|Adr   223|KD1       8P      04:21:203  11|Rb        1.35360 m   |HD         11.359 m   |                      | 
+For M5|Adr   224|KD1     21TM      04:21:453  11|Rf        1.47634 m   |HD          8.849 m   |                      | 
+For M5|Adr   225|KD1     21TM      04:21:45   11|                      |                      |Z       100.00046 m   | 
+For M5|Adr   226|KD1     21TM                 11|Sh        2.40947 m   |dz       -0.00046 m   |Z       100.00000 m   | 
+For M5|Adr   227|KD2     21TM        9        11|Db         155.64 m   |Df         153.96 m   |Z       100.00046 m   | 
+For M5|Adr   228|TO  End-Line                 11|                      |                      |                      | 

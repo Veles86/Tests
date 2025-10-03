@@ -1,0 +1,4 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+  39U    4354MPI     -9.77975   2167.   47    0.52  0419          39U-4354MPI.raw                     3728         717_39U-6011.rez
+4354MPI  4353MPI      5.97546   1178.   27    1.24  0419      4353MPI-4354MPI.raw                     3728         717_39U-6011.rez
+4353MPI  6011       -11.64550   1741.   35    0.98  0319         6011-4353MPI.raw                     3728         717_39U-6011.rez

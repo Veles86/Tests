@@ -1,0 +1,87 @@
+clc
+clear all
+
+% % open the file
+% fileID = fopen('input.rez');
+% 
+% % read the data
+% data = textscan(fileID, '%s %s %f %f %d %d');
+% 
+% % close the file
+% fclose(fileID);
+% 
+% % Create a table from the cell array
+% T = table(data{1},data{2},data{3},data{4},data{5},data{6},...
+%     'VariableNames',{'A','B','dH','dist','n','diff'});
+% 
+% % create the graph
+% G = digraph(T.A, T.B, T.dH);
+% 
+% % plot the graph
+% figure;
+% plot(G);
+
+
+
+function scc = tarjan(adj_mat)
+global k;
+global ks;
+global S;
+global inS;
+global lowlink;
+global index;
+global adj_mat_global;
+
+adj_mat_global=adj_mat;
+k = 0;
+ks = 0;
+S = java.util.Stack();
+inS = false(1, size(adj_mat, 2));
+lowlink = -1*ones(1, size(adj_mat, 2));
+index = zeros(1, size(adj_mat, 2));
+scc = {};
+
+for v = 1:size(adj_mat, 2)
+    if index(v) == 0
+        strongconnect(v);
+    end
+end
+
+    function strongconnect(v)
+        global k;
+        global ks;
+        global S;
+        global inS;
+        global lowlink;
+        global index;
+        global adj_mat_global;
+        
+        ks = ks+1;
+        index(v) = ks;
+        lowlink(v) = ks;
+        S.push(v);
+        inS(v) = true;
+        
+        for w = find(adj_mat_global(v, :))
+            if index(w)==0
+                strongconnect(w);
+                lowlink(v) = min(lowlink(v), lowlink(w));
+            elseif inS(w)
+                lowlink(v) = min(lowlink(v), index(w));
+            end
+        end
+        
+        if lowlink(v) == index(v)
+            scc{k+1} = [];
+            while 1
+                w = S.pop();
+                inS(w) = false;
+                scc{k+1} = [scc{k+1}, w];
+                if w==v
+                    break;
+                end
+            end
+            k = k+1;
+        end
+    end
+end

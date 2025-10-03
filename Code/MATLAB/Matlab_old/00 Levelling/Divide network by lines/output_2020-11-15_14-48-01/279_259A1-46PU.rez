@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 259A1    259A        2.30086    951.   13    0.60  0786                     2016                  1998-r1       279_259A1-46PU.rez
+ 259A    35171       -0.53729    837.   11    4.10  0786                     2016                  1998-r1       279_259A1-46PU.rez
+35171    3517        -2.74718   1179.   15   -4.40  0786                     2016                  1998-r1       279_259A1-46PU.rez
+3517     35181        5.05065   1756.   22    1.30  0786                     2016                  1998-r1       279_259A1-46PU.rez
+35181      46PU       1.29446   1221.   15   -0.50  0786                     2016                  1998-r1       279_259A1-46PU.rez

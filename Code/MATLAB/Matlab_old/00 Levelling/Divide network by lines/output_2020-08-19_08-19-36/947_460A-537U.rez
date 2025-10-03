@@ -1,0 +1,8 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 460A    7140b        5.12063   3202.   57   -3.81  1299                  998.RAW                     luba        947_460A-537U.rez
+7140b     533U       66.05837   2811.   58    0.01  0200                  998.RAW                     luba        947_460A-537U.rez
+ 533U    7142b     -119.58621   1501.   68    5.31  1199                  998.RAW                     luba        947_460A-537U.rez
+7142b     534U      -87.44102   1709.   50   -2.37  0200                  998.RAW                     luba        947_460A-537U.rez
+ 534U     535U      -86.00871   4001.   84    3.56  1299                  998.RAW                     luba        947_460A-537U.rez
+ 535U     536U       -8.38557    943.   18    0.94  0599                  998.RAW                     luba        947_460A-537U.rez
+ 536U     537U       78.50292   3564.   80   -0.35  0999                  998.RAW                     luba        947_460A-537U.rez

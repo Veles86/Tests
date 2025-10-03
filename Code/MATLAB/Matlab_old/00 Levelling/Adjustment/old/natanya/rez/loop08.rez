@@ -1,0 +1,7 @@
+﻿Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File
+  62L      63L        1.04830   469.   9  -0.92  0119             loop08-2.raw
+  63L      64L       -1.88857   316.   7  -0.02  0119             loop08-2.raw
+  64L      65L        1.50810   383.   7   0.33  0119             loop08-2.raw
+  65L      47M        5.36040   314.   7  -0.54  0119             loop08-2.raw
+  47M      49M       -0.62779   300.   6  -0.50  0119             loop08-2.raw
+  49M      62L       -5.39814   497.   9   0.25  0119             loop08-2.raw

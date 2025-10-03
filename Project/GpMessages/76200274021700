@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 26 October 2024 00:42:38</msg><msg code="0" type="0">Independent cycles in the graph:</msg><msg code="0" type="0">Independent cycles in the graph:</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 61, in &lt;module&gt;
+﻿    find_loops(levelling_lines_input, source_points_input, loops_type, loops_output)
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 36, in find_loops
+﻿    full_names = [G.nodes[node]['full_name'] for node in cycle]
+﻿                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 36, in &lt;listcomp&gt;
+﻿    full_names = [G.nodes[node]['full_name'] for node in cycle]
+﻿                  ~~~~~~~~~~~~~^^^^^^^^^^^^^
+﻿KeyError: 'full_name'
+</msg><msg code="0" type="0">Failed script Find Loops...</msg><msg code="-2147467259" type="100">Failed to execute (FindLoops).</msg><msg code="0" type="3">Failed at Saturday, 26 October 2024 00:42:39 (Elapsed Time: 0.75 seconds)</msg></messages>

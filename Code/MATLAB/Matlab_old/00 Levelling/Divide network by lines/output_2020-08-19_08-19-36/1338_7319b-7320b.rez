@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+7319b    4188MPI     -2.78612   1868.   43    0.21  0120    7319B-4188MPI.DAT.raw              3786-area_b     1338_7319b-7320b.rez
+4188MPI  4189MPI    -18.88442    935.   25    0.98  0120  4188MPI-4189MPI.DAT.raw              3786-area_b     1338_7319b-7320b.rez
+4189MPI  4190MPI      8.06195    678.   19   -0.02  0120  4189MPI-4190MPI.DAT.raw              3786-area_b     1338_7319b-7320b.rez
+4190MPI  1517JAD      8.46567   1098.   36    0.26  0320  4190MPI-1517JAD.DAT.raw              3786-area_b     1338_7319b-7320b.rez
+1517JAD  7320b       -6.07362   1094.   32   -0.07  0320    1517JAD-7320B.DAT.raw              3786-area_b     1338_7319b-7320b.rez

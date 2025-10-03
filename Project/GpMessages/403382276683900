@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 1 July 2025 20:59:40</msg><msg code="-2147467259" type="100">﻿  File "E:\git\LevellingThesis\Code\Tests\FlipPolyline.py", line 11
+    from E:\git\LevellingThesis\Code\Data Update\TurnAllLinesByCodeDirection.py
+          ^
+﻿SyntaxError: invalid syntax
+</msg><msg code="0" type="0">Failed script Flip Polylines...</msg><msg code="-2147467259" type="100">Failed to execute (FlipPolylines).</msg><msg code="0" type="3">Failed at Tuesday, 1 July 2025 20:59:40 (Elapsed Time: 0.28 seconds)</msg></messages>

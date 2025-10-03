@@ -1,0 +1,52 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 157U    4159MPI      5.15532    644.   14   -1.45  0517           UnionFiles.raw                     3707       0104_157U-219U.rez
+4159MPI   161U       62.23049   2011.   59    0.97  0517           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 161U    4187MPI    -33.68036   3476.   66    2.02  0517           UnionFiles.raw                     3707       0104_157U-219U.rez
+4187MPI   164U        2.51302   1888.   34    0.00  0517           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 164U     166U      -19.66107   3467.   70    1.50  0417           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 166U    4186MPI    -23.33997   1937.   34   -0.65  0417           UnionFiles.raw                     3707       0104_157U-219U.rez
+4186MPI  4185MPI    -24.89134   3819.   66   -0.51  0417           UnionFiles.raw                     3707       0104_157U-219U.rez
+4185MPI  4184MPI     -8.70770   1660.   30    1.44  0417           UnionFiles.raw                     3707       0104_157U-219U.rez
+4184MPI  4183MPI    -14.31125   2099.   36    1.03  0417           UnionFiles.raw                     3707       0104_157U-219U.rez
+4183MPI   172U        3.91571   1998.   36   -2.90  0417           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 172U    4182MPI    -13.33571   2165.   44   -0.57  0417           UnionFiles.raw                     3707       0104_157U-219U.rez
+4182MPI  4181MPI    -18.63863   1827.   38    1.24  0417           UnionFiles.raw                     3707       0104_157U-219U.rez
+4181MPI   176U      -23.18301   3448.   64    2.16  0417           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 176U    4033MPI     14.45119   2297.   40   -0.98  0317           UnionFiles.raw                     3707       0104_157U-219U.rez
+4033MPI  4180MPI    -32.38599   3124.   60   -1.91  0317           UnionFiles.raw                     3707       0104_157U-219U.rez
+4180MPI   180U      -14.16108   2167.   38   -0.37  0317           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 180U        PARA    -0.32011     66.    2    0.00  0317           UnionFiles.raw                     3707       0104_157U-219U.rez
+    PARA  266U        8.06380   2052.   40    0.32  0317           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 266U     265U       43.33135   2504.   56    0.82  0317           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 265U     264U        8.65284   2712.   62   -2.29  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 264U     263U       22.05551   2545.   53    0.31  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 263U     835U       -4.37355    598.   19    0.31  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 835U    4158MPI      7.80257   2960.   68   -1.35  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+4158MPI   261U       34.75997   1753.   50   -0.95  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 261U    4157MPI      3.09176   1562.   46    0.92  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+4157MPI  4026MPI    -10.23920   2625.   62    1.45  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+4026MPI   259U       18.92898   1792.   30   -0.65  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 259U     834U       20.53875   1927.   36   -1.81  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 834U     258U       -9.64293   2991.   58   -0.81  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 258U    4156MPI      8.82352   1096.   39   -1.19  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+4156MPI   257U       79.64435   2800.   74    0.33  0117           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 257U     256U      226.10216   3666.  142   -3.80  1116           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 256U        SAGI    42.86647    525.   27   -0.45  1116           UnionFiles.raw                     3707       0104_157U-219U.rez
+    SAGI 4155MPI     11.74489   1884.   41   -0.95  1116           UnionFiles.raw                     3707       0104_157U-219U.rez
+4155MPI  4154MPI   -136.03300   2757.   96    1.93  1116           UnionFiles.raw                     3707       0104_157U-219U.rez
+4154MPI   254U     -104.16630   2363.   90   -0.38  1116           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 254U    4153MPI     80.56741   1766.   61   -0.81  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+4153MPI   253U      -21.72473   1629.   52   -0.74  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 253U    4152MPI    -50.20565   1319.   42   -1.71  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+4152MPI   252U      -40.79634   2094.   57    0.41  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 252U    4151MPI    101.71144   1734.   65   -0.66  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+4151MPI   251U      -88.25965   1767.   62   -0.07  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 251U    4150MPI    105.18959   1878.   77    0.88  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+4150MPI   250U       70.99924   1734.   44   -1.21  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 250U        MARA     4.54791    254.    6   -0.72  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+    MARA 3815MPI      0.20591     71.    2   -0.09  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+3815MPI   249U      -22.78547   2795.   50    1.79  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 249U     248U     -135.92380   2582.   82    2.71  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 248U     247U      121.92582   2419.   78   -0.04  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 247U     246U      111.87804   2747.  105   -3.60  0916           UnionFiles.raw                     3707       0104_157U-219U.rez
+ 246U     219U        3.07559    121.    5   -0.58  0916           UnionFiles.raw                     3707       0104_157U-219U.rez

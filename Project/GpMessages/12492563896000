@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 18 February 2025 12:40:44</msg><msg code="0" type="0">Adding MeasFileGroupName to Segments...</msg><msg code="539" type="100">ERROR 000539: ﻿Traceback (most recent call last):
+﻿  File "&lt;expression&gt;", line 1, in &lt;module&gt;
+﻿NameError: name 'get_group_name' is not defined
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Tuesday, 18 February 2025 12:40:46 (Elapsed Time: 1.67 seconds)</msg></messages>

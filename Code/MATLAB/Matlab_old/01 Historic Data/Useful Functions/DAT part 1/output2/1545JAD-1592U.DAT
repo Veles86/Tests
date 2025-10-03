@@ -1,0 +1,118 @@
+For M5|Adr     1|TO  1545JAD-1592U.DAT          |                      |                      |                      | 
+For M5|Adr     2|TO  080822 RUDIEN              |                      |                      |                      | 
+For M5|Adr     3|TO  743261  72270 70303 1111   |                      |                      |                      |
+For M5|Adr     4|TO  Start-Line       BFFB   87F|                      |                      |                      | 
+For M5|Adr    17|KD1  1545JAD                87F|                      |                      |Z       100.00000 m   | 
+For M5|Adr    18|KD1  1545JAD      27.0 C  3 87F|Rb        1.54962 m   |HD          9.499 m   |                      | 
+For M5|Adr    21|KD1    1823R      27.0 C  3 87F|Rf        1.28198 m   |HD          9.284 m   |                      | 
+For M5|Adr    22|KD1    1823R      27.0 C  3 87F|Rf        1.31347 m   |HD          9.315 m   |                      | 
+For M5|Adr    23|KD1  1545JAD      27.0 C  3 87F|Rb        1.58098 m   |HD          9.445 m   |                      | 
+For M5|Adr    24|KD1    1823R      27.0 C    87F|                      |                      |Z       100.26757 m   | 
+For M5|Adr    25|KD1    1823R      27.0 C  3 87F|Rb        1.46169 m   |HD         24.302 m   |                      | 
+For M5|Adr    26|KD1    1824R      27.0 C  3 87F|Rf        1.15243 m   |HD         25.028 m   |                      | 
+For M5|Adr    27|KD1    1824R      27.0 C  3 87F|Rf        1.19783 m   |HD         25.018 m   |                      | 
+For M5|Adr    28|KD1    1823R      27.0 C  3 87F|Rb        1.50719 m   |HD         24.274 m   |                      | 
+For M5|Adr    29|KD1    1824R      27.0 C    87F|                      |                      |Z       100.57689 m   | 
+For M5|Adr    30|KD1    1824R      27.0 C  3 87F|Rb        1.43417 m   |HD         25.208 m   |                      | 
+For M5|Adr    31|KD1    1825R      27.0 C  3 87F|Rf        1.22373 m   |HD         25.844 m   |                      | 
+For M5|Adr    32|KD1    1825R      27.0 C  3 87F|Rf        1.25519 m   |HD         25.851 m   |                      | 
+For M5|Adr    33|KD1    1824R      27.0 C  3 87F|Rb        1.46571 m   |HD         25.212 m   |                      | 
+For M5|Adr    34|KD1    1825R      27.0 C    87F|                      |                      |Z       100.78737 m   | 
+For M5|Adr    35|KD1    1825R      27.0 C  3 87F|Rb        1.48435 m   |HD         25.377 m   |                      | 
+For M5|Adr    36|KD1    1826R      27.0 C  3 87F|Rf        1.16076 m   |HD         24.619 m   |                      | 
+For M5|Adr    37|KD1    1826R      27.0 C  3 87F|Rf        1.19669 m   |HD         24.628 m   |                      | 
+For M5|Adr    38|KD1    1825R      27.0 C  3 87F|Rb        1.52031 m   |HD         25.368 m   |                      | 
+For M5|Adr    39|KD1    1826R      27.0 C    87F|                      |                      |Z       101.11097 m   | 
+For M5|Adr    40|KD1    1826R      27.0 C  3 87F|Rb        1.42134 m   |HD         24.602 m   |                      | 
+For M5|Adr    41|KD1    1827R      27.0 C  3 87F|Rf        1.19754 m   |HD         24.993 m   |                      | 
+For M5|Adr    42|KD1    1827R      27.0 C  3 87F|Rf        1.25749 m   |HD         25.019 m   |                      | 
+For M5|Adr    43|KD1    1826R      27.0 C  3 87F|Rb        1.48125 m   |HD         24.592 m   |                      | 
+For M5|Adr    44|KD1    1827R      27.0 C    87F|                      |                      |Z       101.33475 m   | 
+For M5|Adr    45|KD1    1827R      27.0 C  3 87F|Rb        1.38115 m   |HD         24.291 m   |                      | 
+For M5|Adr    48|KD1    1828R      27.0 C  3 87F|Rf        1.22458 m   |HD         24.033 m   |                      | 
+For M5|Adr    49|KD1    1828R      27.0 C  3 87F|Rf        1.27950 m   |HD         24.031 m   |                      | 
+For M5|Adr    50|KD1    1827R      27.0 C  3 87F|Rb        1.43601 m   |HD         24.289 m   |                      | 
+For M5|Adr    51|KD1    1828R      27.0 C    87F|                      |                      |Z       101.49129 m   | 
+For M5|Adr    52|KD1    1828R      27.0 C  3 87F|Rb        1.44918 m   |HD         26.557 m   |                      | 
+For M5|Adr    53|KD1    1829R      27.0 C  3 87F|Rf        1.23655 m   |HD         25.559 m   |                      | 
+For M5|Adr    54|KD1    1829R      27.0 C  3 87F|Rf        1.29409 m   |HD         25.676 m   |                      | 
+For M5|Adr    55|KD1    1828R      27.0 C  3 87F|Rb        1.50670 m   |HD         26.574 m   |                      | 
+For M5|Adr    56|KD1    1829R      27.0 C    87F|                      |                      |Z       101.70391 m   | 
+For M5|Adr    57|KD1    1829R      27.0 C  3 87F|Rb        1.69927 m   |HD         26.529 m   |                      | 
+For M5|Adr    58|KD1    1830R      27.0 C  3 87F|Rf        0.98922 m   |HD         26.290 m   |                      | 
+For M5|Adr    59|KD1    1830R      27.0 C  3 87F|Rf        1.04012 m   |HD         26.306 m   |                      | 
+For M5|Adr    60|KD1    1829R      27.0 C  3 87F|Rb        1.75016 m   |HD         26.528 m   |                      | 
+For M5|Adr    61|KD1    1830R      27.0 C    87F|                      |                      |Z       102.41396 m   | 
+For M5|Adr    62|KD1    1830R      28.0 C  3 87F|Rb        1.88093 m   |HD         22.832 m   |                      | 
+For M5|Adr    65|KD1    1831R      28.0 C  3 87F|Rf        0.64977 m   |HD         23.042 m   |                      | 
+For M5|Adr    66|KD1    1831R      28.0 C  3 87F|Rf        0.58274 m   |HD         23.012 m   |                      | 
+For M5|Adr    67|KD1    1830R      28.0 C  3 87F|Rb        1.81392 m   |HD         22.851 m   |                      | 
+For M5|Adr    68|KD1    1831R      28.0 C    87F|                      |                      |Z       103.64513 m   | 
+For M5|Adr    69|KD1    1831R      28.0 C  3 87F|Rb        1.83215 m   |HD         16.894 m   |                      | 
+For M5|Adr    70|KD1    1832R      28.0 C  3 87F|Rf        0.70973 m   |HD         16.976 m   |                      | 
+For M5|Adr    71|KD1    1832R      28.0 C  3 87F|Rf        0.75557 m   |HD         16.925 m   |                      | 
+For M5|Adr    72|KD1    1831R      28.0 C  3 87F|Rb        1.87801 m   |HD         16.966 m   |                      | 
+For M5|Adr    73|KD1    1832R      28.0 C    87F|                      |                      |Z       104.76756 m   | 
+For M5|Adr    74|KD1    1832R      28.0 C  3 87F|Rb        1.77944 m   |HD         17.171 m   |                      | 
+For M5|Adr    77|KD1    1833R      28.0 C  3 87F|Rf        0.82279 m   |HD         17.001 m   |                      | 
+For M5|Adr    78|KD1    1833R      28.0 C  3 87F|Rf        0.85783 m   |HD         17.003 m   |                      | 
+For M5|Adr    79|KD1    1832R      28.0 C  3 87F|Rb        1.81449 m   |HD         17.170 m   |                      | 
+For M5|Adr    80|KD1    1833R      28.0 C    87F|                      |                      |Z       105.72421 m   | 
+For M5|Adr    81|KD1    1833R      28.0 C  3 87F|Rb        1.85365 m   |HD         16.135 m   |                      | 
+For M5|Adr    82|KD1    1834R      28.0 C  3 87F|Rf        0.54920 m   |HD         16.965 m   |                      | 
+For M5|Adr    83|KD1    1834R      28.0 C  3 87F|Rf        0.59038 m   |HD         16.970 m   |                      | 
+For M5|Adr    84|KD1    1833R      28.0 C  3 87F|Rb        1.89492 m   |HD         16.132 m   |                      | 
+For M5|Adr    85|KD1    1834R      28.0 C    87F|                      |                      |Z       107.02871 m   | 
+For M5|Adr    88|KD1    1834R      28.0 C  3 87F|Rb        1.71321 m   |HD         13.499 m   |                      | 
+For M5|Adr    91|KD1    1835R      28.0 C  3 87F|Rf        0.61565 m   |HD         13.216 m   |                      | 
+For M5|Adr    92|KD1    1835R      28.0 C  3 87F|Rf        0.66024 m   |HD         13.234 m   |                      | 
+For M5|Adr    93|KD1    1834R      28.0 C  3 87F|Rb        1.75766 m   |HD         13.484 m   |                      | 
+For M5|Adr    94|KD1    1835R      28.0 C    87F|                      |                      |Z       108.12620 m   | 
+For M5|Adr    95|KD1    1835R      29.0 C  3 87F|Rb        1.85028 m   |HD         11.272 m   |                      | 
+For M5|Adr    96|KD1    1836R      29.0 C  3 87F|Rf        0.72796 m   |HD         11.950 m   |                      | 
+For M5|Adr    97|KD1    1836R      29.0 C  3 87F|Rf        0.74956 m   |HD         11.921 m   |                      | 
+For M5|Adr    98|KD1    1835R      29.0 C  3 87F|Rb        1.87188 m   |HD         11.296 m   |                      | 
+For M5|Adr    99|KD1    1836R      29.0 C    87F|                      |                      |Z       109.24852 m   | 
+For M5|Adr   100|KD1    1836R      29.0 C  3 87F|Rb        1.82350 m   |HD         12.134 m   |                      | 
+For M5|Adr   101|KD1    1837R      29.0 C  3 87F|Rf        0.67221 m   |HD         12.557 m   |                      | 
+For M5|Adr   102|KD1    1837R      29.0 C  3 87F|Rf        0.71977 m   |HD         12.568 m   |                      | 
+For M5|Adr   103|KD1    1836R      29.0 C  3 87F|Rb        1.87106 m   |HD         12.133 m   |                      | 
+For M5|Adr   104|KD1    1837R      29.0 C    87F|                      |                      |Z       110.39981 m   | 
+For M5|Adr   105|KD1    1837R      29.0 C  3 87F|Rb        1.83685 m   |HD         11.729 m   |                      | 
+For M5|Adr   106|KD1    1838R      29.0 C  3 87F|Rf        0.74637 m   |HD         11.885 m   |                      | 
+For M5|Adr   107|KD1    1838R      29.0 C  3 87F|Rf        0.78823 m   |HD         11.890 m   |                      | 
+For M5|Adr   108|KD1    1837R      29.0 C  3 87F|Rb        1.87860 m   |HD         11.716 m   |                      | 
+For M5|Adr   109|KD1    1838R      29.0 C    87F|                      |                      |Z       111.49023 m   | 
+For M5|Adr   118|KD1    1838R      29.0 C  3 87F|Rb        1.83327 m   |HD         13.161 m   |                      | 
+For M5|Adr   119|KD1    1839R      29.0 C  3 87F|Rf        0.70697 m   |HD         12.594 m   |                      | 
+For M5|Adr   120|KD1    1839R      29.0 C  3 87F|Rf        0.75449 m   |HD         12.596 m   |                      | 
+For M5|Adr   121|KD1    1838R      29.0 C  3 87F|Rb        1.88070 m   |HD         13.145 m   |                      | 
+For M5|Adr   122|KD1    1839R      29.0 C    87F|                      |                      |Z       112.61649 m   | 
+For M5|Adr   123|KD1    1839R      29.0 C  3 87F|Rb        1.84131 m   |HD         13.531 m   |                      | 
+For M5|Adr   124|KD1    1840R      29.0 C  3 87F|Rf        0.62303 m   |HD         13.985 m   |                      | 
+For M5|Adr   125|KD1    1840R      29.0 C  3 87F|Rf        0.65756 m   |HD         13.981 m   |                      | 
+For M5|Adr   126|KD1    1839R      29.0 C  3 87F|Rb        1.87586 m   |HD         13.527 m   |                      | 
+For M5|Adr   127|KD1    1840R      29.0 C    87F|                      |                      |Z       113.83478 m   | 
+For M5|Adr   128|KD1    1840R      29.0 C  3 87F|Rb        1.69456 m   |HD         12.156 m   |                      | 
+For M5|Adr   129|KD1    1841R      29.0 C  3 87F|Rf        0.96246 m   |HD         12.594 m   |                      | 
+For M5|Adr   132|KD1    1841R      29.0 C  3 87F|Rf        0.99294 m   |HD         12.620 m   |                      | 
+For M5|Adr   133|KD1    1840R      29.0 C  3 87F|Rb        1.72504 m   |HD         12.131 m   |                      | 
+For M5|Adr   134|KD1    1841R      29.0 C    87F|                      |                      |Z       114.56688 m   | 
+For M5|Adr   135|KD1    1841R      29.0 C  3 87F|Rb        1.83053 m   |HD         12.992 m   |                      | 
+For M5|Adr   136|KD1    1842R      29.0 C  3 87F|Rf        0.62489 m   |HD         13.387 m   |                      | 
+For M5|Adr   137|KD1    1842R      29.0 C  3 87F|Rf        0.67501 m   |HD         13.407 m   |                      | 
+For M5|Adr   138|KD1    1841R      29.0 C  3 87F|Rb        1.88057 m   |HD         12.958 m   |                      | 
+For M5|Adr   139|KD1    1842R      29.0 C    87F|                      |                      |Z       115.77248 m   | 
+For M5|Adr   140|KD1    1842R      29.0 C  3 87F|Rb        1.42879 m   |HD          4.597 m   |                      | 
+For M5|Adr   141|KD1    1843R      29.0 C  3 87F|Rf        1.08478 m   |HD          3.954 m   |                      | 
+For M5|Adr   142|KD1    1843R      29.0 C  3 87F|Rf        1.13788 m   |HD          3.958 m   |                      | 
+For M5|Adr   143|KD1    1842R      29.0 C  3 87F|Rb        1.48186 m   |HD          4.595 m   |                      | 
+For M5|Adr   144|KD1    1843R      29.0 C    87F|                      |                      |Z       116.11647 m   | 
+For M5|Adr   151|KD1    1843R      30.0 C  3 87F|Rb        1.69677 m   |HD          7.158 m   |                      | 
+For M5|Adr   152|KD1    1592U      30.0 C  3 87F|Rf        1.21263 m   |HD          5.725 m   |                      | 
+For M5|Adr   153|KD1    1592U      30.0 C  3 87F|Rf        1.22724 m   |HD          5.724 m   |                      | 
+For M5|Adr   154|KD1    1843R      30.0 C  3 87F|Rb        1.71138 m   |HD          7.162 m   |                      | 
+For M5|Adr   155|KD1    1592U      30.0 C    87F|                      |                      |Z       116.60061 m   | 
+For M5|Adr   156|KD1    1592U                87F|Sh       16.60061 m   |dz      -16.60061 m   |Z       100.00000 m   | 
+For M5|Adr   157|KD2    1592U       22       87F|Db         371.59 m   |Df         371.57 m   |Z       116.60061 m   | 
+For M5|Adr   158|TO  End-Line                87F|                      |                      |                      | 

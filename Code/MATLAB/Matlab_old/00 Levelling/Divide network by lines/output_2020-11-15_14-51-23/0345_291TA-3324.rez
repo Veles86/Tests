@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 291TA    402A       -9.43347    690.   13    0.50  0489                     2050                  1998-r1      0345_291TA-3324.rez
+ 402A     402A1       9.43899   1219.   21    0.04  0389                     2050                  1998-r1      0345_291TA-3324.rez
+ 402A1    403A        2.23287   1451.   24    1.50  0389                     2050                  1998-r1      0345_291TA-3324.rez
+ 403A    4427         0.00944    631.   12   -0.20  0389                     2050                  1998-r1      0345_291TA-3324.rez
+4427     3324         4.35439   1446.   24    2.50  0389                     2050                  1998-r1      0345_291TA-3324.rez

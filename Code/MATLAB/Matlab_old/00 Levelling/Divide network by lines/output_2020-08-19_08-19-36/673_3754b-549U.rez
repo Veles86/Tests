@@ -1,0 +1,9 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+3754b    7474b      -10.42024   2579.   60    0.53  0301                  915.RAW                     luba       673_3754b-549U.rez
+7474b    7472b       14.89923   1865.   42   -1.75  0301                  915.RAW                     luba       673_3754b-549U.rez
+7472b    3294b       10.85155    888.   20    0.44  0301                  915.RAW                     luba       673_3754b-549U.rez
+3294b    7470b        1.04665    729.   16    0.14  0301                  915.RAW                     luba       673_3754b-549U.rez
+7470b    3336b      -25.80095   1047.   29   -0.14  0301                  915.RAW                     luba       673_3754b-549U.rez
+3336b    3338b        2.80082   1925.   46    0.84  0301                  915.RAW                     luba       673_3754b-549U.rez
+3338b    3340b       11.26805   1468.   30    1.51  0301                  915.RAW                     luba       673_3754b-549U.rez
+3340b     549U        2.03464    423.   10   -0.14  0401                  915.RAW                     luba       673_3754b-549U.rez

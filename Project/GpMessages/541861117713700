@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 28 January 2025 1:38:32</msg><msg code="0" type="0">2 features will be updated with theoretical G values.</msg><msg code="0" type="0">Starting editing session...E:\git\LevellingThesis\Data\LevellingDB.gdb</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Data Update\AddTheoreticalGValue.py", line 49, in &lt;module&gt;
+﻿    update_theoretical_grav_value(points_fc)
+﻿  File "E:\git\LevellingThesis\Code\Data Update\AddTheoreticalGValue.py", line 33, in update_theoretical_grav_value
+﻿    editor = start_editing(wc)
+﻿             ^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Helpers.py", line 56, in start_editing
+﻿    editor.startOperation()
+﻿SystemError: &lt;method 'startOperation' of 'Workspace Editor' objects&gt; returned NULL without setting an exception
+</msg><msg code="0" type="0">Failed script Add Theoretic G Value...</msg><msg code="-2147467259" type="100">Failed to execute (AddTheoreticGValue).</msg><msg code="0" type="3">Failed at Tuesday, 28 January 2025 1:38:35 (Elapsed Time: 3.34 seconds)</msg></messages>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 15 July 2025 15:32:21</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Validations\CheckProperLineFlipping.py", line 66, in &lt;module&gt;
+﻿    check_proper_line_flipping(levelling_lines, points_data)
+﻿  File "E:\git\LevellingThesis\Code\Validations\CheckProperLineFlipping.py", line 24, in check_proper_line_flipping
+﻿    points_dict = {row[1]: row[0] for row in point_cursor}
+﻿                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Validations\CheckProperLineFlipping.py", line 24, in &lt;dictcomp&gt;
+﻿    points_dict = {row[1]: row[0] for row in point_cursor}
+﻿                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿RuntimeError: Cannot find field 'PointCode'
+</msg><msg code="0" type="0">Failed script Check Proper Line Flipping...</msg><msg code="-2147467259" type="100">Failed to execute (CheckProperLineFlipping).</msg><msg code="0" type="3">Failed at Tuesday, 15 July 2025 15:32:21 (Elapsed Time: 0.65 seconds)</msg></messages>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 1 July 2025 20:59:58</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Tests\FlipPolyline.py", line 8, in &lt;module&gt;
+﻿    from Utils.Helpers import extract_coordinates_from_external_source,start_editing, stop_editing, reverse_line_segments, get_first_segment_with_point, add_segment, delete_segment,get_last_segment_end_point_code
+﻿ImportError: cannot import name 'extract_coordinates_from_external_source' from 'Utils.Helpers' (E:\git\LevellingThesis\Code\Utils\Helpers.py)
+</msg><msg code="0" type="0">Failed script Flip Polylines...</msg><msg code="-2147467259" type="100">Failed to execute (FlipPolylines).</msg><msg code="0" type="3">Failed at Tuesday, 1 July 2025 20:59:58 (Elapsed Time: 0.25 seconds)</msg></messages>

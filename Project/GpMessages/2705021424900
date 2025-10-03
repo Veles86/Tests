@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Sunday, 16 February 2025 0:22:06</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Data Update\CalculateGravimetricCorrections.py", line 18, in &lt;module&gt;
+﻿    calculate_gravimetric_corrections(lines_fc, points_fc)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Gravimetry.py", line 46, in calculate_gravimetric_corrections
+﻿    stop_editing(editor)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Helpers.py", line 84, in stop_editing
+﻿    editor.stopEditing(save_changes = save)
+﻿RuntimeError: Cannot acquire a lock.
+</msg><msg code="0" type="0">Failed script Calculate Gravimetric Correction...</msg><msg code="-2147467259" type="100">Failed to execute (CalculateGravCorrection).</msg><msg code="0" type="3">Failed at Sunday, 16 February 2025 0:22:07 (Elapsed Time: 1.07 seconds)</msg></messages>

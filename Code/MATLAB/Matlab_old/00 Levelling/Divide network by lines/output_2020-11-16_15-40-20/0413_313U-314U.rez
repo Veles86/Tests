@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 313U    7352MPI      1.18281    351.    9    0.32  0616           UnionFiles.raw                     3707       0413_313U-314U.rez
+7352MPI  3739b        3.23842   1000.   23   -2.68  0616           UnionFiles.raw                     3707       0413_313U-314U.rez
+3739b     820U        5.70000   1599.   35    0.13  0516           UnionFiles.raw                     3707       0413_313U-314U.rez
+ 820U    3745b        2.08644    214.    7   -1.02  0516           UnionFiles.raw                     3707       0413_313U-314U.rez
+3745b     314U        5.15845    884.   21   -1.07  0516           UnionFiles.raw                     3707       0413_313U-314U.rez

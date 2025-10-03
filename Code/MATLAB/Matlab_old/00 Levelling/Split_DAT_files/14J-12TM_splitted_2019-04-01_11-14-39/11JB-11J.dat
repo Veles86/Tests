@@ -1,0 +1,10 @@
+For M5|Adr     1|TO  11BJ-11J.dat               |                      |                      |                      
+For M5|Adr     2|TO  060818 FADI                |                      |                      |                      
+For M5|Adr     3|TO  743261 58086 58086 1111    |                      |                      |                      
+For M5|Adr     4|TO  Start-Line         BF     3|                      |                      |                      
+For M5|Adr   389|KD1     11JB      11:14:14    3|                      |                      |Z        77.36397 m   
+For M5|Adr   390|KD1     11JB      11:14:533   3|Rb        1.44210 m   |HD         10.935 m   |                      
+For M5|Adr   391|KD1      11J      11:15:303   3|Rf        1.37802 m   |HD          7.700 m   |                      
+For M5|Adr   392|KD1      11J      11:15:30    3|                      |                      |Z        77.42805 m   
+For M5|Adr   393|KD1      11J                  3|Sh        0.06408 m   |                      |                      
+For M5|Adr   394|KD2      11J        1         3|Db          10.94 m   |Df            7.7 m   |Z        77.42805 m   

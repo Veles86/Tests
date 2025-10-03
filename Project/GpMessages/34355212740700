@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 10 July 2025 11:41:46</msg><msg code="0" type="0">Starting the generalization process...</msg><msg code="0" type="0">Classifying points...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 86, in &lt;module&gt;
+﻿    generalize_segments(levelling_segments_input, source_points_input, points_classification_output, sorted_segments_output, generalized_lines_output)
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 24, in generalize_segments
+﻿    junction_points_codes, regular_points_codes, dead_end_points_codes = classify_points(levelling_segments_input, source_points_input, points_classification_output, print_messages = True)
+﻿                                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 675, in classify_points
+﻿    xy, name = point_cache[point_code]["SHAPE@XY"], point_cache[point_code]["Name"]        
+﻿               ~~~~~~~~~~~^^^^^^^^^^^^
+﻿KeyError: 562901
+</msg><msg code="0" type="0">Failed script Generalize Segments By Junctions...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegmentsByJunctions).</msg><msg code="0" type="3">Failed at Thursday, 10 July 2025 11:41:55 (Elapsed Time: 8.67 seconds)</msg></messages>

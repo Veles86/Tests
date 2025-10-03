@@ -1,0 +1,10 @@
+For M5|Adr     1|TO  22BJ-22J.dat               |                      |                      |                      
+For M5|Adr     2|TO  230818 JERIES              |                      |                      |                      
+For M5|Adr     3|TO  749230 69031 69031 1111    |                      |                      |                      
+For M5|Adr     4|TO  Start-Line         BF    2L|                      |                      |                      
+For M5|Adr   218|KD1     22JB      11:39:00   2L|                      |                      |Z        97.88232 m   
+For M5|Adr   219|KD1     22JB      11:39:463  2L|Rb        1.13031 m   |HD          9.282 m   |                      
+For M5|Adr   220|KD1      22J      11:40:153  2L|Rf        1.42134 m   |HD         11.385 m   |                      
+For M5|Adr   221|KD1      22J      11:40:15   2L|                      |                      |Z        97.59129 m   
+For M5|Adr   222|KD1      22J                 2L|Sh       -0.29103 m   |                      |                      
+For M5|Adr   223|KD2      22J        1        2L|Db           9.28 m   |Df          11.39 m   |Z        97.59129 m   

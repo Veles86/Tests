@@ -1,0 +1,5 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 324A    1678b      -37.12488   2980.   58   -0.06  1119           324A-1678b.raw            3786 - line 3       0500_324A-338A.rez
+1678b      80U      -10.55893    714.   17    0.96  0120          80U-1678MPI.raw            3786 - line 3       0500_324A-338A.rez
+  80U    6029MPI     -4.43735   1723.   34    0.40  0120          80U-6029MPI.raw            3786 - line 3       0500_324A-338A.rez
+6029MPI   338A       18.05350   2104.   39    1.28  0120         6029MPI-338A.raw            3786 - line 3       0500_324A-338A.rez

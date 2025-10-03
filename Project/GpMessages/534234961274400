@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 22 February 2025 4:00:57</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Data Update\TurnAllLinesByCodeDirection.py", line 37, in &lt;module&gt;
+﻿    turn_lines_by_code_direction(lines_fc)
+﻿  File "E:\git\LevellingThesis\Code\Data Update\TurnAllLinesByCodeDirection.py", line 26, in turn_lines_by_code_direction
+﻿    reverse_segments(lines_to_reverse)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Lines.py", line 128, in reverse_segments
+﻿    cursor.updateRow(row)
+﻿RuntimeError: The table was not found. [{059256E1-8F7D-477B-9534-229B0CC650EA}]
+</msg><msg code="0" type="0">Failed script Turn All Lines By Code Direction...</msg><msg code="-2147467259" type="100">Failed to execute (TurnAllLinesByCodeDirection).</msg><msg code="0" type="3">Failed at Saturday, 22 February 2025 4:01:01 (Elapsed Time: 3.72 seconds)</msg></messages>

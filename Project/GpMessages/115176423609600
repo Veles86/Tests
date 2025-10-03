@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 15 July 2025 15:12:31</msg><msg code="0" type="0">Starting the generalization process...</msg><msg code="0" type="0">Classifying points...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 93, in &lt;module&gt;
+﻿    generalize_segments(levelling_segments_input, source_points_input, points_classification_output, sorted_segments_output, generalized_lines_output)
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 24, in generalize_segments
+﻿    junction_points_codes, regular_points_codes, dead_end_points_codes = classify_points(levelling_segments_input, source_points_input, points_classification_output, print_messages = True)
+﻿                                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 673, in classify_points
+﻿    point_cache = create_points_dictionary(point_coordinates, ["SHAPE@XY", "Code", "Name"])
+﻿                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Points.py", line 224, in create_points_dictionary
+﻿    for row in cursor:
+﻿RuntimeError: Cannot find field 'Code'
+</msg><msg code="0" type="0">Failed script Generalize Segments By Junctions...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegmentsByJunctions).</msg><msg code="0" type="3">Failed at Tuesday, 15 July 2025 15:12:54 (Elapsed Time: 23.12 seconds)</msg></messages>

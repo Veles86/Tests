@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 1 February 2025 4:27:55</msg><msg code="0" type="0">Reading codes from levelling lines...</msg><msg code="0" type="0">Filtering control points...</msg><msg code="0" type="0">Calculating gg coordinates...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 97, in &lt;module&gt;
+﻿    filter_control_points(levelling_lines_fc, control_points_fc, output_fc, calc_gg_coordinates, calc_norm_g, fill_missing_heights, known_points_query, calc_grav_corr)
+﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 43, in filter_control_points
+﻿    calculate_geographic_coordinates(filtered_points_fc)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Points.py", line 34, in calculate_geographic_coordinates
+﻿    gg_dictionary = project_IG0512_to_IGD0512_dict(control_points_fc)
+﻿                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Points.py", line 102, in project_IG0512_to_IGD0512_dict
+﻿    AddXY(projected_points)
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 6017, in AddXY
+﻿    raise e
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 6014, in AddXY
+﻿    retval = convertArcObjectToPythonObject(gp.AddXY_management(*gp_fixargs((in_features,), True)))
+﻿                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 532, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: ERROR 000499: table is not editable
+Failed to execute (AddXY).
+
+</msg><msg code="0" type="0">Failed script Create Filtered Control Points Feature Class...</msg><msg code="-2147467259" type="100">Failed to execute (CreateFilteredControlPointsFeatureClass).</msg><msg code="0" type="3">Failed at Saturday, 1 February 2025 4:28:00 (Elapsed Time: 5.82 seconds)</msg></messages>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 19 July 2025 8:26:45</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Data Update\FillMissingHeights.py", line 6, in &lt;module&gt;
+﻿    from Utils.Calculations import calculate_missing_heights
+﻿  File "E:\git\LevellingThesis\Code\Utils\Calculations.py", line 21, in &lt;module&gt;
+﻿    from Utils.Helpers import count_features, feature_class_to_dataframe
+﻿ImportError: cannot import name 'feature_class_to_dataframe' from 'Utils.Helpers' (E:\git\LevellingThesis\Code\Utils\Helpers.py)
+</msg><msg code="0" type="0">Failed script Fill Missing Heights...</msg><msg code="-2147467259" type="100">Failed to execute (FillMissingHeights).</msg><msg code="0" type="3">Failed at Saturday, 19 July 2025 8:27:11 (Elapsed Time: 25.22 seconds)</msg></messages>

@@ -1,0 +1,5 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+4431      608U        1.75573    112.    4   -0.24  0201                  910.RAW                     luba        917_4431-611U.rez
+ 608U    7411b      -10.94184   1369.   21   -0.77  0201                  910.RAW                     luba        917_4431-611U.rez
+7411b    7412b        2.78142   1820.   30   -1.35  0201                  910.RAW                     luba        917_4431-611U.rez
+7412b     611U        7.08593   1675.   27    1.56  0101                  910.RAW                     luba        917_4431-611U.rez

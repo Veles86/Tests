@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 1 February 2025 12:30:47</msg><msg code="0" type="0">Starting the generalization process...</msg><msg code="0" type="0">Classifying points...</msg><msg code="0" type="0">Found 1 junction points, 7 regular points and 3 dead-end points.</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 63, in &lt;module&gt;
+﻿    generalize_segments(levelling_segments_input, source_points_input, points_classification_output, sorted_segments_output, generalized_lines_output)
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 24, in generalize_segments
+﻿    point_coordinates, junction_points_codes, regular_points_codes, dead_end_points_codes = classify_points(levelling_segments_input, source_points_input, points_classification_output)
+﻿    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿ValueError: not enough values to unpack (expected 4, got 3)
+</msg><msg code="0" type="0">Failed script Generalize Segments...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegments).</msg><msg code="0" type="3">Failed at Saturday, 1 February 2025 12:30:49 (Elapsed Time: 2.00 seconds)</msg></messages>

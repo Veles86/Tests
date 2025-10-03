@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 19 May 2025 23:12:50</msg><msg code="0" type="0">Starting the generalization process...</msg><msg code="0" type="0">Classifying points...</msg><msg code="0" type="0">Found 34 junction points, 37 regular points and 3 dead-end points.</msg><msg code="0" type="0">Sorting segments...</msg><msg code="0" type="0">Calling MATLAB function to sort segments...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 80, in &lt;module&gt;
+﻿    generalize_segments(levelling_segments_input, source_points_input, points_classification_output, sorted_segments_output, generalized_lines_output)
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 28, in generalize_segments
+﻿    sorted_segments = sort_segments_matlab(levelling_segments_input, source_points_input, junction_points_codes, regular_points_codes, dead_end_points_codes, sorted_segments_output, print_messages = True)
+﻿                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 452, in sort_segments_matlab
+﻿    add_segment(sorted_segments, row[1], line_num)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Lines.py", line 399, in add_segment
+﻿    AddField(segment_for_addition, "line_num", "SHORT")
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 7953, in AddField
+﻿    raise e
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 7933, in AddField
+﻿    gp.AddField_management(
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 533, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: Failed to execute. Parameters are not valid.
+ERROR 000732: Input Table: Dataset 1 does not exist or is not supported
+Failed to execute (AddField).
+
+</msg><msg code="0" type="0">Failed script Generalize Segments By Junctions...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegmentsByJunctions).</msg><msg code="0" type="3">Failed at Monday, 19 May 2025 23:13:15 (Elapsed Time: 24.81 seconds)</msg></messages>

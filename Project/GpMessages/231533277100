@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 15 February 2025 23:40:52</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Data Update\CalculateGravimetricCorrections.py", line 16, in &lt;module&gt;
+﻿    calculate_gravimetric_corrections(lines_fc, points_fc)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Gravimetry.py", line 39, in calculate_gravimetric_corrections
+﻿    grav_correction = get_gravimetric_correction(points_dict[from_code]["H"], dH, points_dict[from_code]["NormG"], points_dict[to_code]["NormG"])
+﻿                                                                                                                   ~~~~~~~~~~~^^^^^^^^^
+﻿KeyError: 568401
+</msg><msg code="0" type="0">Failed script Calculate Gravimetric Correction...</msg><msg code="-2147467259" type="100">Failed to execute (CalculateGravCorrection).</msg><msg code="0" type="3">Failed at Saturday, 15 February 2025 23:40:57 (Elapsed Time: 4.33 seconds)</msg></messages>

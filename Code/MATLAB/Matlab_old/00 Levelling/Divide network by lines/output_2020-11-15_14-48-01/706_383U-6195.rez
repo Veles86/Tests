@@ -1,0 +1,5 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 383U    2687b        3.74556   2447.   64   -2.56  0101                  911.RAW                     luba        706_383U-6195.rez
+2687b    2682b       -4.96199   1057.   28    1.03  0101                  911.RAW                     luba        706_383U-6195.rez
+2682b    2680b        1.98923   1053.   28   -1.15  0101                  911.RAW                     luba        706_383U-6195.rez
+2680b    6195         1.41809   2447.   65    2.57  0101                  911.RAW                     luba        706_383U-6195.rez

@@ -1,0 +1,18 @@
+For M5|Adr     1|TO  4070MPI-DRTA.DAT           |                      |                      |                      | 
+For M5|Adr     2|TO  160522 RUDIEN              |                      |                      |                      | 
+For M5|Adr     3|TO  748188  70303 72270 1111   |                      |                      |                      | 
+For M5|Adr     4|TO  Start-Line       BFFB    7L|                      |                      |                      | 
+For M5|Adr    20|KD1  4070MPI                 7L|                      |                      |Z       100.00000 m   | 
+For M5|Adr    21|KD1  4070MPI      35.0 C  3  7L|Rb        1.08395 m   |HD          4.951 m   |                      | 
+For M5|Adr    22|KD1      76R      35.0 C  3  7L|Rf        1.29918 m   |HD          4.960 m   |                      | 
+For M5|Adr    23|KD1      76R      35.0 C  3  7L|Rf        1.32443 m   |HD          4.961 m   |                      | 
+For M5|Adr    24|KD1  4070MPI      35.0 C  3  7L|Rb        1.10913 m   |HD          4.944 m   |                      | 
+For M5|Adr    25|KD1      76R      35.0 C     7L|                      |                      |Z        99.78473 m   | 
+For M5|Adr    40|KD1      76R      35.0 C  3  7L|Rb        1.39939 m   |HD          4.791 m   |                      | 
+For M5|Adr    41|KD1     DRTA      35.0 C  3  7L|Rf        1.13299 m   |HD          4.313 m   |                      | 
+For M5|Adr    42|KD1     DRTA      36.0 C  3  7L|Rf        0.99641 m   |HD          4.301 m   |                      | 
+For M5|Adr    43|KD1      76R      36.0 C  3  7L|Rb        1.26294 m   |HD          4.743 m   |                      | 
+For M5|Adr    44|KD1     DRTA      36.0 C     7L|                      |                      |Z       100.05120 m   | 
+For M5|Adr    45|KD1     DRTA                 7L|Sh        0.05120 m   |dz       -0.05120 m   |Z       100.00000 m   | 
+For M5|Adr    46|KD2     DRTA        2        7L|Db           9.71 m   |Df           9.27 m   |Z       100.05120 m   | 
+For M5|Adr    47|TO  End-Line                 7L|                      |                      |                      | 

@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source
+ 550U    3522b        0.70780    643.   14    0.17  0801                  915.RAW                     luba
+3522b    3526b       17.86070   1160.   24   -0.95  0801                  915.RAW                     luba
+3526b    3527b      -19.25515    913.   22   -0.42  0801                  915.RAW                     luba
+3527b    3528b       -1.57753   1856.   40   -0.39  0901                  915.RAW                     luba
+3528b     964        28.45672    850.   18   -0.64  0801                  915.RAW                     luba

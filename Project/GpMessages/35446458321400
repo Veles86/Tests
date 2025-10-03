@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 18 February 2025 07:47:14</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Data Update\AddGeographicCoordinates.py", line 12, in &lt;module&gt;
+﻿    calculate_geographic_coordinates(points_fc)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Points.py", line 49, in calculate_geographic_coordinates
+﻿    stop_editing(editor)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Helpers.py", line 84, in stop_editing
+﻿    editor.stopEditing(save_changes = save)
+﻿RuntimeError: Cannot acquire a lock.
+</msg><msg code="0" type="0">Failed script Add Geographic Coordinates...</msg><msg code="-2147467259" type="100">Failed to execute (AddGeographicCoordinates).</msg><msg code="0" type="3">Failed at Tuesday, 18 February 2025 07:47:18 (Elapsed Time: 4.62 seconds)</msg></messages>

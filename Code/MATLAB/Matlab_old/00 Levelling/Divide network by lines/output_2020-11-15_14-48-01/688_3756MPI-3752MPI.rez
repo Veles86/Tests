@@ -1,0 +1,4 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+3756MPI  3755MPI     61.32290   1177.   51    0.89  0220      3755MPI-3756MPI.raw            3786 - line 7  688_3756MPI-3752MPI.rez
+3755MPI  5475MPI    156.25831   2315.  105   -0.82  0520      5475MPI-3755MPI.raw            3786 - line 7  688_3756MPI-3752MPI.rez
+5475MPI  3752MPI    210.67279   2500.  136    0.67  0520      3752MPI-5475MPI.raw            3786 - line 7  688_3756MPI-3752MPI.rez

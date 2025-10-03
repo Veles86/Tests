@@ -1,0 +1,9 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 119U    3777MPI    109.41128   1669.   77    2.24  0220         119U-3777MPI.raw            3786 - line 7    0068_119U-3757MPI.rez
+3777MPI  5467MPI    164.82640   2595.  113    1.40  1219      3777MPI-5467MPI.raw            3786 - line 7    0068_119U-3757MPI.rez
+5467MPI  5468MPI    135.40388   2243.   99    2.75  1219      5467MPI-5468MPI.raw            3786 - line 7    0068_119U-3757MPI.rez
+5468MPI  3932MPI     97.44347   1284.   60    1.67  1119      5468MPI-3932MPI.raw            3786 - line 7    0068_119U-3757MPI.rez
+3932MPI  5469MPI     52.94260   1239.   48    0.92  0220      5469MPI-3932MPI.raw            3786 - line 7    0068_119U-3757MPI.rez
+5469MPI  3747MPI     28.85019   1704.   55    1.97  0220      3747MPI-5469MPI.raw            3786 - line 7    0068_119U-3757MPI.rez
+3747MPI  3749MPI     92.72165   1198.  134   -0.70  1119      3749MPI-3747MPI.raw            3786 - line 7    0068_119U-3757MPI.rez
+3749MPI  3757MPI    203.80453   2686.  127    0.45  1119      3757MPI-3749MPI.raw            3786 - line 7    0068_119U-3757MPI.rez

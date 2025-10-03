@@ -1,0 +1,7 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+  20F    6246      -125.96199   2884.   96    0.00  0903                  932.RAW                     luba        0184_20F-6131.rez
+6246     6245       -61.67813   1088.   42    1.33  0403                  932.RAW                     luba        0184_20F-6131.rez
+6245     6244       -97.58578   2999.  114    1.45  0403                  932.RAW                     luba        0184_20F-6131.rez
+6244     6243       -96.76813   2011.   72    0.34  0403                  932.RAW                     luba        0184_20F-6131.rez
+6243     3542       -27.06730   1293.   30   -0.33  0403                  932.RAW                     luba        0184_20F-6131.rez
+3542     6131         4.19119   2491.   52   -0.42  0403                  932.RAW                     luba        0184_20F-6131.rez

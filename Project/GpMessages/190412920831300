@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 20 May 2025 0:48:31</msg><msg code="0" type="0">Starting the generalization process...</msg><msg code="0" type="0">Classifying points...</msg><msg code="0" type="0">Found 34 junction points, 37 regular points and 3 dead-end points.</msg><msg code="0" type="0">Sorting segments...</msg><msg code="0" type="0">Calling MATLAB function to sort segments...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 80, in &lt;module&gt;
+﻿    generalize_segments(levelling_segments_input, source_points_input, points_classification_output, sorted_segments_output, generalized_lines_output)
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 28, in generalize_segments
+﻿    sorted_segments = sort_segments_matlab(levelling_segments_input, source_points_input, junction_points_codes, regular_points_codes, dead_end_points_codes, sorted_segments_output, print_messages = True)
+﻿                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 438, in sort_segments_matlab
+﻿    fields = ["SHAPE@"] + [f.name for f in arcpy.ListFields(segments_input_copy) if f.type != "OID"]
+﻿                                                            ^^^^^^^^^^^^^^^^^^^
+﻿NameError: name 'segments_input_copy' is not defined
+</msg><msg code="0" type="0">Failed script Generalize Segments By Junctions...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegmentsByJunctions).</msg><msg code="0" type="3">Failed at Tuesday, 20 May 2025 0:48:57 (Elapsed Time: 25.51 seconds)</msg></messages>

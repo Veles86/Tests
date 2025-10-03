@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 1 February 2025 1:25:24</msg><msg code="0" type="0">Reading codes from levelling lines...</msg><msg code="0" type="0">Filtering control points...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 44, in &lt;module&gt;
+﻿    filter_control_points(levelling_lines_fc, control_points_fc, output_fc)
+﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 27, in filter_control_points
+﻿    temp_fc = extract_coordinates_from_external_source(levelling_lines_fc, control_points_fc, True)
+﻿              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Points.py", line 209, in extract_coordinates_from_external_source
+﻿    filtered_layer = SelectByAttribute(control_points_source, "NEW_SELECTION", query)
+﻿                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 16477, in SelectLayerByAttribute
+﻿    raise e
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 16471, in SelectLayerByAttribute
+﻿    gp.SelectLayerByAttribute_management(
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 532, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: ERROR 160144: An expected Field was not found or could not be retrieved properly.
+Failed to execute (SelectLayerByAttribute).
+
+</msg><msg code="0" type="0">Failed script Create Filtered Control Points Feature Class...</msg><msg code="-2147467259" type="100">Failed to execute (CreateFilteredControlPointsFeatureClass).</msg><msg code="0" type="3">Failed at Saturday, 1 February 2025 1:25:24 (Elapsed Time: 0.39 seconds)</msg></messages>

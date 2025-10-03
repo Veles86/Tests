@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 12 May 2025 11:51:54</msg><msg code="0" type="0">Starting the generalization process...</msg><msg code="0" type="0">Classifying points...</msg><msg code="0" type="0">Found 430 junction points, 2101 regular points and 28 dead-end points.</msg><msg code="0" type="0">Sorting segments...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 80, in &lt;module&gt;
+﻿    generalize_segments(levelling_segments_input, source_points_input, points_classification_output, sorted_segments_output, generalized_lines_output)
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 28, in generalize_segments
+﻿    sorted_segments = sort_segments(levelling_segments_input, source_points_input, junction_points_codes, regular_points_codes, dead_end_points_codes, sorted_segments_output, print_messages = True)
+﻿                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 401, in sort_segments
+﻿    sorted_segments = CreateFeatureclass(out_path=out_path, out_name=out_name,geometry_type="POLYLINE",template=segments,spatial_reference=sr)
+﻿                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 5659, in CreateFeatureclass
+﻿    raise e
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 5636, in CreateFeatureclass
+﻿    gp.CreateFeatureclass_management(
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 532, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: Failed to execute. Parameters are not valid.
+ERROR 000732: Feature Class Location: Dataset E:\git\LevellingThesis\Data\Adj2025.gdb does not exist or is not supported
+Failed to execute (CreateFeatureclass).
+
+</msg><msg code="0" type="0">Failed script Generalize Segments By Junctions...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegmentsByJunctions).</msg><msg code="0" type="3">Failed at Monday, 12 May 2025 11:51:58 (Elapsed Time: 3.85 seconds)</msg></messages>

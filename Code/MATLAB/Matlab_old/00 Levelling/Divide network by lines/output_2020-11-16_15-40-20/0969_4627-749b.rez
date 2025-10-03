@@ -1,0 +1,5 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+4627      101         1.02348   1706.   24    0.40  1288                     2050                  1998-r1       0969_4627-749b.rez
+ 101     32171        8.77564   1134.   14    0.30  0189                     2050                  1998-r1       0969_4627-749b.rez
+32171    3217        12.66611   1083.   16    1.90  0189                     2050                  1998-r1       0969_4627-749b.rez
+3217      749b       -5.84280    611.   10    0.09  1288                     2050                  1998-r1       0969_4627-749b.rez

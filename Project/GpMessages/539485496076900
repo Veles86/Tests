@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 28 January 2025 0:58:56</msg><msg code="0" type="0">557205 features will be updated with theoretical G values.</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Data Update\AddTheoreticalGValue.py", line 48, in &lt;module&gt;
+﻿    update_theoretical_grav_value(points_fc)
+﻿  File "E:\git\LevellingThesis\Code\Data Update\AddTheoreticalGValue.py", line 34, in update_theoretical_grav_value
+﻿    with UpdateCursor(points_fc, ["NormG", "Latitude"]) as cursor:
+﻿         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿TypeError: cannot update join table
+</msg><msg code="0" type="0">Failed script Add Theoretic G Value...</msg><msg code="-2147467259" type="100">Failed to execute (AddTheoreticGValue).</msg><msg code="0" type="3">Failed at Tuesday, 28 January 2025 0:59:05 (Elapsed Time: 8.37 seconds)</msg></messages>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 15 February 2025 20:32:05</msg><msg code="0" type="0">Reading codes from levelling lines...</msg><msg code="0" type="0">Filtering control points...</msg><msg code="0" type="0">Calculating gg coordinates...</msg><msg code="0" type="0">Geographic coordinates have been calculated</msg><msg code="0" type="0">Calculating theoretic normal gravity...</msg><msg code="0" type="0">Theoretic normal gravity has been calculated</msg><msg code="0" type="0">Filling missing heights...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 103, in &lt;module&gt;
+﻿    filter_control_points(levelling_lines_fc, control_points_fc, output_fc, calc_gg_coordinates, calc_norm_g, fill_missing_heights, known_points_query, calc_grav_corr)
+﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 58, in filter_control_points
+﻿    calculate_missing_heights(levelling_lines_fc, filtered_points_fc, known_points_query)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Calculations.py", line 349, in calculate_missing_heights
+﻿    sorted_segments = sort_segments(lines_with_missing_heights, filtered_coordinates,  junction_points_codes, regular_points_codes, dead_end_points_codes, sorted_segments_output=None, print_messages = False )
+﻿                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 397, in sort_segments
+﻿    #_#_# AddMessage(f"points are equal, need to reverse")
+﻿                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Lines.py", line 81, in reverse_line_segments
+﻿    row[4] = row[3] + " to " + row[2]
+﻿             ~~~~~~~^~~~~~~~
+﻿TypeError: unsupported operand type(s) for +: 'NoneType' and 'str'
+</msg><msg code="0" type="0">Failed script Create Filtered Control Points Feature Class...</msg><msg code="-2147467259" type="100">Failed to execute (CreateFilteredControlPointsFeatureClass).</msg><msg code="0" type="3">Failed at Saturday, 15 February 2025 20:32:10 (Elapsed Time: 4.17 seconds)</msg></messages>

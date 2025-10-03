@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 18 February 2025 22:59:42</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Data Update\EnsureDuplications.py", line 98, in &lt;module&gt;
+﻿    compare_layers(layer_a, layer_b, compare_fields, output_table)
+﻿  File "E:\git\LevellingThesis\Code\Data Update\EnsureDuplications.py", line 31, in compare_layers
+﻿    for row_b in b_cursor:
+﻿RuntimeError: Cannot find field 'OBJECTID'
+</msg><msg code="0" type="0">Failed script Ensure Duplications...</msg><msg code="-2147467259" type="100">Failed to execute (EnsureDuplications).</msg><msg code="0" type="3">Failed at Tuesday, 18 February 2025 22:59:44 (Elapsed Time: 1.44 seconds)</msg></messages>

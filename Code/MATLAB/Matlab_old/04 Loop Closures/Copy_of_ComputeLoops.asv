@@ -1,0 +1,167 @@
+clc
+clear all
+close all
+addpath('functions\')
+
+[fileName,path] = uigetfile('*.csv','Select Merged CSV file');
+
+opts = detectImportOptions(strcat(path,fileName),'Delimiter',',');
+opts.VariableTypes(2) = {'char'};
+opts.VariableTypes(3) = {'char'};
+opts.VariableTypes(9) = {'char'};
+opts.VariableTypes(10) = {'char'};
+opts.VariableTypes(13) = {'double'};
+opts.VariableTypes(14) = {'double'};
+opts.VariableTypes(17) = {'char'};
+opts.VariableTypes(22) = {'char'};
+inputFile = readtable(strcat(path,fileName),opts);
+inputFile = inputFile(inputFile.year>1995,:);
+% duplicates = FindDuplicates(inputFile);
+fileName = fileName(1:end-4);
+
+[fileNameXYH,path] = uigetfile('*.csv','Select coordinates file',path);
+inputFileCoordinates = readtable(strcat(path,fileNameXYH));
+
+
+
+%%
+
+EdgeTable = table([string(inputFile.A),string(inputFile.B)],inputFile.dist,ones(height(inputFile),1),'VariableNames',{'EndNodes','Weight','Order'});
+EdgeTable = [EdgeTable,inputFile];
+
+% %ordering points in the order in which they appear in the edges table so
+% %that the edges order will remain similar to the order from the input
+% pointsOrder = unique([inputFile.codeA;inputFile.codeB],'stable');
+% [~,ind] = ismember(pointsOrder, inputFileCoordinates.code);
+
+NodeTable = table(inputFileCoordinates.name(ind),'VariableNames',{'Name'});
+NodeTable = [NodeTable,inputFileCoordinates(ind,:)];
+G = graph(EdgeTable,NodeTable);
+
+%marking rows in which matlab reversed the direction of the measured line
+edgesOrderInGraph = G.Edges.EndNodes;
+edgesOrderInTable = [G.Edges.A,G.Edges.B];
+idx = (string(edgesOrderInGraph(:,1))==string(edgesOrderInTable(:,1)) & string(edgesOrderInGraph(:,2))==string(edgesOrderInTable(:,2))
+)
+
+
+% G = graph(inputFile.A, inputFile.B, inputFile.dist);
+% G.Edges.dH = inputFile.dH;
+% G.Edges.dist = inputFile.dist;
+% G.Edges.n = inputFile.n;
+% G.Edges.diff = inputFile.diff;
+% G.Edges.date = inputFile.date;
+
+p = plot(G,'EdgeLabel',G.Edges.Weight);
+
+p.XData = inputFileCoordinates.Y(ind);
+p.YData = inputFileCoordinates.X(ind);
+
+[T,pred] = minspantree(G);
+highlight(p,T)
+
+[~,ind] = ismember(T.Edges.num, G.Edges.num);
+S = rmedge(G,ind); %remained part besides the span tree
+
+At = incidence(T)';
+At = At(:,1:end-1);
+Ac = incidence(S)';
+Ac = Ac(:,1:end-1);
+Af = [At;Ac];
+
+Bt = -Ac/(At);
+Bf = [Bt,eye(size(Bt,1))];
+%%
+edgesOrderInAf = [T.Edges.num;S.Edges.num];
+[~,ind] = ismember(G.Edges.num,edgesOrderInAf);
+
+A = Af(ind,:);
+B = Bf(:,ind);
+
+
+
+%%
+[basisCycles,basisEdgeCycles] = cyclebasis(G);
+n = height(basisCycles);
+
+%%
+loopData = cell(n,1);
+for i = 1 : n
+loopData{i} = GetLoopData(string(basisCycles{i}),inputFile);
+end
+%%
+loopSummary = SummarizeLoops(loopData);
+
+function [loopSummary] = SummarizeLoops(loopData)
+
+k = height(loopData);
+
+loopSummary = table('Size',[k 5],'VariableTypes',{'double','double','double','double','double'},'VariableNames',["number","num_of_points","length_km","misc_mm_wo_grav","misc_mm_w_grav"]);
+
+
+for i = 1 : k
+
+temp = loopData{i};
+loopSummary.number(i) = i;
+loopSummary.num_of_points(i) = height(temp);
+loopSummary.length_km(i) = round(sum(temp.dist)/1000,1);
+loopSummary.misc_mm_wo_grav(i) = round(sum(temp.dH)*1000,2);
+loopSummary.misc_mm_w_grav(i) = 0;
+
+
+
+
+end
+
+end
+
+
+% function [loopDataWithG] = AddGravData(loopData,gravData)
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% end
+
+
+
+
+function [duplicates] = FindDuplicates(inputFile)
+
+duplicates = [];
+num_of_duplicates = 0;
+
+index = 1;
+
+while index<=height(inputFile)
+
+    temp1 = fullData((fullData.A==loop(i)) & ((fullData.B==loop(i+1))),:);
+    temp2 = fullData((fullData.A==loop(i+1)) & ((fullData.B==loop(i))),:);
+
+    temp = [temp1;InvertRows(temp2)];
+
+
+end
+end
+
+function cycles = find_loops(graph)
+  edge_list = cyclebasis(graph);
+  cycles = [];
+  for i = 1:length(edge_list)
+    new_cycle = edge_list(i);
+    for j = 1:length(cycles)
+      if setxor(new_cycle, cycles(j)) == []
+        break;
+      end
+    end
+    if j == length(cycles)
+      cycles = [cycles new_cycle];
+    end
+  end
+end
+
+

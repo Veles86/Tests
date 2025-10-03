@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 5 October 2024 22:14:15</msg><msg code="0" type="0">Starting the generalization process...</msg><msg code="0" type="0">Classifying points...</msg><msg code="0" type="0">Found 416 junction points, 782 regular points, 52 dead-end points.</msg><msg code="0" type="0">Creating output points feature class...</msg><msg code="0" type="0">Output points feature class created: E:\OneDrive\Research\GIS\Data\Research_Results.gdb\municipal_temp_points_classification</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\OneDrive\Research\GIS\Code\GeneralizeSegments.py", line 99, in &lt;module&gt;
+﻿    generalized_lines, attributes = generalize_segments(input_fc, junction_points)
+﻿                                    ^^^^^^^^^^^^^^^^^^^
+﻿NameError: name 'generalize_segments' is not defined
+</msg><msg code="0" type="0">Failed script Generalize Segments...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegments).</msg><msg code="0" type="3">Failed at Saturday, 5 October 2024 22:14:33 (Elapsed Time: 17.83 seconds)</msg></messages>

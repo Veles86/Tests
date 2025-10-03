@@ -1,0 +1,4 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+1079       58U        0.95567     76.    5   -0.10  1217             1079-58U.raw                     3728       023_1079-2481W.rez
+  58U    4073MPI    -73.75702   1971.   50    1.25  1217          58U-4073MPI.raw                     3728       023_1079-2481W.rez
+4073MPI  2481W       71.43443   1896.   46   -0.44  0118        2481W-4073MPI.raw                     3728       023_1079-2481W.rez

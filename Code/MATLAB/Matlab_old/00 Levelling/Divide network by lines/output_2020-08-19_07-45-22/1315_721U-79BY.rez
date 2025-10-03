@@ -1,0 +1,5 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 721U    4357MPI    -20.64874   1852.   56    1.92  0619         4357MPI-87BY.raw                     3728       1315_721U-79BY.rez
+4357MPI  4105MPI     18.76587   1906.   48    0.52  0520      4105MPI-4357MPI.raw                     3728       1315_721U-79BY.rez
+4105MPI  5453MPI    -27.75692   2513.   70    1.80  0320      4105MPI-5453MPI.raw                     3728       1315_721U-79BY.rez
+5453MPI    79BY       9.60201    805.   21    0.32  0320         5453MPI-79BY.raw                     3728       1315_721U-79BY.rez

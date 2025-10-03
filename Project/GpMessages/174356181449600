@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 24 October 2024 10:23:56</msg><msg code="0" type="0">Adding YYMM to LevellingSegments...</msg><msg code="539" type="100">ERROR 000539: ﻿Traceback (most recent call last):
+﻿  File "&lt;expression&gt;", line 1, in &lt;module&gt;
+﻿NameError: name 'year' is not defined
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Thursday, 24 October 2024 10:23:56 (Elapsed Time: 0.48 seconds)</msg></messages>

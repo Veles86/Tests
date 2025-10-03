@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 17 July 2025 7:58:56</msg><msg code="0" type="0">SQL Filter: Code = 568169</msg><msg code="0" type="0">Starting MATLAB engine...</msg><msg code="0" type="0">MATLAB engine started successfully.</msg><msg code="0" type="0">
+Calling 'adjustLevelingNetwork' in MATLAB...</msg><msg code="0" type="0">Adjustment complete. Processing results in Python.</msg><msg code="0" type="0">
+Adjustment Type: Constrained, Degrees of Freedom: 363</msg><msg code="0" type="0">
+--- Adjusted Heights (as Pandas DataFrame) ---</msg><msg code="0" type="0">     Point_ID  Adjusted_Height
+0      1140.0      3109.110716
+1     20297.0      3895.886427
+2     21553.0      3719.592748
+3     22102.0      2809.462119
+4     26084.0      2729.118191
+..        ...              ...
+434  900011.0      2738.727165
+435  900012.0      3309.740564
+436  900013.0      2800.351631
+437  900014.0      3385.069665
+438  900016.0      3374.932126
+
+[439 rows x 2 columns]</msg><msg code="0" type="0">
+--- Statistical Analysis (as Pandas DataFrame) ---</msg><msg code="0" type="0">     Obs_ID  Residual  Redundancy  Normalized_Residual_W
+0       1.0 -0.045827    0.127409              -1.658071
+1       2.0 -0.006733    0.375038              -0.131471
+2       3.0  0.057360    0.322512               1.237197
+3       4.0 -0.001675    0.305861              -0.216419
+4       5.0  0.004531    0.537987               0.209290
+..      ...       ...         ...                    ...
+796   823.0  0.000531    0.516969               0.047376
+797   824.0 -0.000709    0.520474              -0.041682
+798   825.0  0.000363    0.155173               0.034707
+799   826.0 -0.006217    0.238581              -0.213910
+800   827.0 -0.027496    0.331885              -0.660155
+
+[801 rows x 4 columns]</msg><msg code="0" type="0">
+--- Example: Observation with max absolute residual ---</msg><msg code="0" type="0">Obs_ID                   477.000000
+Residual                  -0.752981
+Redundancy                 0.493785
+Normalized_Residual_W     -6.749867
+Name: 462, dtype: float64</msg><msg code="0" type="0">
+Stopping MATLAB engine.</msg><msg code="0" type="3">Succeeded at Thursday, 17 July 2025 8:00:00 (Elapsed Time: 1 minutes 4 seconds)</msg></messages>

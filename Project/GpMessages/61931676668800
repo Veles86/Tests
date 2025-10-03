@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 11 January 2025 19:37:53</msg><msg code="0" type="0">Independent cycles in the graph:</msg><msg code="0" type="0">Independent cycles in the graph:</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 196, in &lt;module&gt;
+﻿    find_loops(levelling_lines_input, source_points_input, loops_type, loops_output)
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 47, in find_loops
+﻿    cycle_coords = [G.nodes[node]['coord'] for node in cycle]
+﻿                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 47, in &lt;listcomp&gt;
+﻿    cycle_coords = [G.nodes[node]['coord'] for node in cycle]
+﻿                    ~~~~~~~~~~~~~^^^^^^^^^
+﻿KeyError: 'coord'
+</msg><msg code="0" type="0">Failed script Find Loops...</msg><msg code="-2147467259" type="100">Failed to execute (FindLoops).</msg><msg code="0" type="3">Failed at Saturday, 11 January 2025 19:38:00 (Elapsed Time: 7.08 seconds)</msg></messages>

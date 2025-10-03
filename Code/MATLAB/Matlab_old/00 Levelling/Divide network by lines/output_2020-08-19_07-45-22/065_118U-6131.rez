@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 118U    6258       -75.41633   1271.   50    0.87  1002                  925.RAW                     luba        065_118U-6131.rez
+6258     6240       -98.23312   2680.   60   -1.03  1002                  925.RAW                     luba        065_118U-6131.rez
+6240     3544         2.72284    242.    6    0.13  1202                  925.RAW                     luba        065_118U-6131.rez
+3544      117U       -1.62142    143.    4    0.35  1202                  925.RAW                     luba        065_118U-6131.rez
+ 117U    6131       -58.45155   3347.   70   -0.50  1202                  925.RAW                     luba        065_118U-6131.rez

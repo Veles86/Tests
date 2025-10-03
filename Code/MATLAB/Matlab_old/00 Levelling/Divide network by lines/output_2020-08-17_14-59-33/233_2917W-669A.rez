@@ -1,0 +1,9 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source
+2917W    3950b       10.72441   1656.   34   -0.70  1201                  919.RAW                     luba
+3950b    2914W       11.47804    955.   20   -0.47  1201                  919.RAW                     luba
+2914W    3954b       12.71180   1199.   24    0.60  1201                  919.RAW                     luba
+3954b    3955b       41.57755   1323.   40   -1.53  0102                  919.RAW                     luba
+3955b    3956b       24.86756   1036.   22    0.37  0102                  919.RAW                     luba
+3956b    3957b       38.55390   1478.   44    1.10  0102                  919.RAW                     luba
+3957b    3971b      -27.63314   3890.   86   -1.87  0202                  919.RAW                     luba
+3971b     669A       30.23956   3645.   86    1.27  0202                  919.RAW                     luba

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 10 July 2025 9:59:00</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Data Update\CalculateGravimetricCorrections.py", line 18, in &lt;module&gt;
+﻿    calculate_gravimetric_corrections(lines_fc, points_fc)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Gravimetry.py", line 30, in calculate_gravimetric_corrections
+﻿    points_dict = create_points_dictionary(control_points_fc,fields)
+﻿                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Points.py", line 224, in create_points_dictionary
+﻿    for row in cursor:
+﻿RuntimeError: Cannot find field 'Code'
+</msg><msg code="0" type="0">Failed script Calculate Gravimetric Correction...</msg><msg code="-2147467259" type="100">Failed to execute (CalculateGravCorrection).</msg><msg code="0" type="3">Failed at Thursday, 10 July 2025 9:59:17 (Elapsed Time: 17.03 seconds)</msg></messages>

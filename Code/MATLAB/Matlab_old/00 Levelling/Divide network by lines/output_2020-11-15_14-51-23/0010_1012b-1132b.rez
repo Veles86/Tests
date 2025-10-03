@@ -1,0 +1,4 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+1012b    5432MPI     -4.82697   1043.   23   -0.80  1119    1012B-5432MPI.DAT.raw            3786 - area b     0010_1012b-1132b.rez
+5432MPI  5504MPI     -1.70424    832.   16   -0.40  1219  5432MPI-5504MPI.DAT.raw            3786 - area b     0010_1012b-1132b.rez
+5504MPI  1132b       -1.86869   1674.   30   -0.26  1219    5504MPI-1132B.DAT.raw            3786 - area b     0010_1012b-1132b.rez

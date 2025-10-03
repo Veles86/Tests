@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 310A1   3471MPI    -12.75885    691.   14   -0.70  0605                  935.RAW                     luba      406_310A1-32061.rez
+3471MPI  3472MPI     16.51839   1003.   18    1.12  0605                  935.RAW                     luba      406_310A1-32061.rez
+3472MPI   714b       14.51996   1154.   20    0.31  0605                  935.RAW                     luba      406_310A1-32061.rez
+ 714b    3473MPI    -24.55802   2205.   37    0.52  0605                  935.RAW                     luba      406_310A1-32061.rez
+3473MPI  32061       -5.66760   1574.   28    0.44  0605                  935.RAW                     luba      406_310A1-32061.rez

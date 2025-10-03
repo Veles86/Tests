@@ -1,0 +1,8 @@
+For M5|Adr     1|TO  3J-3JB.dat                |                      |                      |                      
+For M5|Adr     2|TO  Start-Line         BF     1|                      |                      |                      
+For M5|Adr     3|KD1      3J                  1|                      |                      |Z       100.00000 m   
+For M5|Adr     4|KD1      3J      12:13:253   1|Rb        1.28303 m   |HD         13.566 m   |                      
+For M5|Adr     5|KD1     3JB      12:14:093   1|Rf        1.01538 m   |HD         16.684 m   |                      
+For M5|Adr     6|KD1     3JB      12:14:09    1|                      |                      |Z       100.26765 m   
+For M5|Adr     7|KD1     3JB                  1|Sh        0.26765 m   |                      |                      
+For M5|Adr     8|KD2     3JB        1         1|Db          13.57 m   |Df          16.68 m   |Z       100.26765 m   

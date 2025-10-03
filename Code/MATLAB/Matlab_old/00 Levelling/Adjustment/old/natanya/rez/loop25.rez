@@ -1,0 +1,7 @@
+﻿Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File
+  11S       5S        3.75954   378.   7  -1.01  0119             Loop25-2.raw
+   5S       1S       -3.13434   339.   7   0.99  0119             Loop25-2.raw
+   1S      51M       -6.27268   319.   9  -0.75  0119             Loop25-2.raw
+  51M      60M        2.64768   389.   8  -0.71  0119             Loop25-2.raw
+  60M      10S        2.82848   400.   8   4.22  0119             Loop25-2.raw
+  10S      11S        0.17014   279.   5     -2  0119             Loop25-2.raw

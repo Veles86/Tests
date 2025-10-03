@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 11 January 2025 8:42:52</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 5, in &lt;module&gt;
+﻿    from Utils.Helpers import extract_coordinates_from_external_source,start_editing, stop_editing
+﻿  File "E:\git\LevellingThesis\Code\Utils\Helpers.py", line 18, in &lt;module&gt;
+﻿    from Utils.Generalization import classify_points, sort_segments, generalize_sorted_segments
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 11, in &lt;module&gt;
+﻿    from Utils.Helpers import get_num_of_features, mmyy_int_to_yyyymm_str,start_editing, stop_editing
+﻿ImportError: cannot import name 'get_num_of_features' from partially initialized module 'Utils.Helpers' (most likely due to a circular import) (E:\git\LevellingThesis\Code\Utils\Helpers.py)
+</msg><msg code="0" type="0">Failed script Create Filtered Control Points Feature Class...</msg><msg code="-2147467259" type="100">Failed to execute (CreateFilteredControlPointsFeatureClass).</msg><msg code="0" type="3">Failed at Saturday, 11 January 2025 8:42:56 (Elapsed Time: 4.41 seconds)</msg></messages>

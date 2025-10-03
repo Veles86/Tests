@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 15 February 2025 20:51:57</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 210, in &lt;module&gt;
+﻿    find_loops(levelling_lines_input, source_points_input, loops_type, loops_output)
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 42, in find_loops
+﻿    Union(in_features=loops_output,out_feature_class=polygons_from_union,join_attributes="ALL",cluster_tolerance=None,gaps="GAPS")
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\analysis.py", line 1146, in Union
+﻿    raise e
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\analysis.py", line 1140, in Union
+﻿    gp.Union_analysis(
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 532, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: Failed to execute. Parameters are not valid.
+ERROR 000732: Input Features: Dataset E:\git\LevellingThesis\Data\Testing4.gdb\SegmentsAreaB_generalized_FindLoops does not exist or is not supported
+Failed to execute (Union).
+
+</msg><msg code="0" type="0">Failed script Find Loops...</msg><msg code="-2147467259" type="100">Failed to execute (FindLoops).</msg><msg code="0" type="3">Failed at Saturday, 15 February 2025 20:52:06 (Elapsed Time: 9.48 seconds)</msg></messages>

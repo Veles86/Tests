@@ -1,0 +1,4 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+1155b    1154b        5.19014   1199.   47   -0.22  1219      1154B-1155B.DAT.raw              3786-area_b     0048_1155b-1169b.rez
+1154b    1106b      -10.18165   1521.   50    1.00  1219      1106B-1154B.DAT.raw              3786-area_b     0048_1155b-1169b.rez
+1106b    1169b      -10.55265   1278.   33   -0.01  1119      1169B-1106B.DAT.raw              3786-area_b     0048_1155b-1169b.rez

@@ -1,0 +1,9 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source
+4496     4497       -58.35039   1642.   44   -0.68  0502                  921.RAW                     luba
+4497      130U      -42.85317    966.   28   -0.75  0502                  921.RAW                     luba
+ 130U    4498        -6.86570    198.    6    0.69  0502                  921.RAW                     luba
+4498     44991      -57.37928   2270.   62    0.31  0502                  921.RAW                     luba
+44991    4500       -23.98893   1944.   40   -0.45  0502                  921.RAW                     luba
+4500     45001       -6.36119   1017.   22   -1.14  0402                  921.RAW                     luba
+45001    4501        16.99230    822.   28   -0.76  0402                  921.RAW                     luba
+4501     4502        44.06920   2063.   42   -0.09  0402                  921.RAW                     luba

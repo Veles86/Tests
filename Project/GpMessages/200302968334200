@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Sunday, 6 July 2025 14:44:13</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\OptimizeLoop.py", line 15, in &lt;module&gt;
+﻿    from Utils.Loops import find_loops
+﻿ImportError: cannot import name 'find_loops' from 'Utils.Loops' (E:\git\LevellingThesis\Code\Utils\Loops.py)
+</msg><msg code="0" type="0">Failed script Optimize Loop...</msg><msg code="-2147467259" type="100">Failed to execute (OptimizeLoop).</msg><msg code="0" type="3">Failed at Sunday, 6 July 2025 14:44:24 (Elapsed Time: 11.19 seconds)</msg></messages>

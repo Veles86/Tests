@@ -1,0 +1,6 @@
+﻿Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File
+  52S      32S        2.35416   223.   5   0.48  0101            NAT89.DAT.raw
+  32S      31S        1.06044   137.   3   0.75  0321            NAT88.DAT.raw
+  31S      33S        3.15512   195.   7  -0.57  0101             NAT7.DAT.raw
+  33S      34S       -0.75686   164.   3   0.04  0101             NAT5.DAT.raw
+  34S      35S        1.56476   114.   3   0.53  0101             NAT3.DAT.raw

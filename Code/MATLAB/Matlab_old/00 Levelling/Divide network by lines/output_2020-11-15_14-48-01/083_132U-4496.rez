@@ -1,0 +1,9 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 132U     690A1      -1.68972     35.    2    0.23  0502                  921.RAW                     luba        083_132U-4496.rez
+ 690A1   4492         8.86008   1969.   48   -0.69  0502                  921.RAW                     luba        083_132U-4496.rez
+4492     44921        0.72379   2229.   48   -1.33  0502                  921.RAW                     luba        083_132U-4496.rez
+44921     131U       17.87010    634.   16    0.81  0502                  921.RAW                     luba        083_132U-4496.rez
+ 131U    4493        -4.88062    185.    6    0.06  0602                  921.RAW                     luba        083_132U-4496.rez
+4493     4494       -10.25176   1554.   34    0.08  0502                  921.RAW                     luba        083_132U-4496.rez
+4494     4495        10.73192   1648.   36    0.53  0502                  921.RAW                     luba        083_132U-4496.rez
+4495     4496        37.21747   2548.   54    0.67  0502                  921.RAW                     luba        083_132U-4496.rez

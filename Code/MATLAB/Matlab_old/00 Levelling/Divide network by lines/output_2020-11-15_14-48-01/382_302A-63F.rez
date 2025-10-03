@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 302A     785A      -23.78746   1297.   29    0.04  0288                     2031                  1998-r1         382_302A-63F.rez
+ 785A    4366        -8.20188    744.   16   -1.30  0288                     2031                  1998-r1         382_302A-63F.rez
+4366      789A       16.28343   1523.   27   -2.90  0288                     2031                  1998-r1         382_302A-63F.rez
+ 789A    1149b        2.19941   1091.   21    3.35  0388                     2027                  1998-r1         382_302A-63F.rez
+1149b      63F        1.60838    806.   13    0.28  0388                     2027                  1998-r1         382_302A-63F.rez

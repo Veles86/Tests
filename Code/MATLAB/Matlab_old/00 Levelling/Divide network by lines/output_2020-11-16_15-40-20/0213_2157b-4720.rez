@@ -1,0 +1,5 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+2157b    2127b       11.18014   1163.   25    0.14  0919          2157b-2127b.raw              3786-line_3      0213_2157b-4720.rez
+2127b    5441MPI      6.98158   1181.   23    0.77  0919        2127b-5441MPI.raw              3786-line_3      0213_2157b-4720.rez
+5441MPI  5442MPI    -10.47854   1067.   26    0.08  0919      5441MPI-5442MPI.raw              3786-line_3      0213_2157b-4720.rez
+5442MPI  4720       -10.17698    809.   29    1.02  0919         4720-5442MPI.raw              3786-line_3      0213_2157b-4720.rez

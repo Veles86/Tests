@@ -1,0 +1,4 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+4065     3773MPI    -99.17290   1497.   70   -0.52  0520         4065-3773MPI.raw                     3728        748_4065-6016.rez
+3773MPI  1529AFS     -4.45538   1391.   34    0.97  0218      1529AFS-3773MPI.raw                     3728        748_4065-6016.rez
+1529AFS  6016         9.60422   2317.   49    3.42  0218         6016-1529AFS.raw                     3728        748_4065-6016.rez

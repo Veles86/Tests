@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 5 October 2024 20:01:28</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\OneDrive\Research\GIS\Code\GeneralizeSegments.py", line 94, in &lt;module&gt;
+﻿    main(input_fc, output_fc)
+﻿  File "E:\OneDrive\Research\GIS\Code\GeneralizeSegments.py", line 76, in main
+﻿    junction_points, regular_points, dead_end_points = classify_points(input_fc)
+﻿                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\OneDrive\Research\GIS\Code\GeneralizeSegments.py", line 9, in classify_points
+﻿    start_point = line.firstPoint
+﻿                  ^^^^^^^^^^^^^^^
+﻿AttributeError: 'NoneType' object has no attribute 'firstPoint'
+</msg><msg code="0" type="0">Failed script Generalize Segments...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegments).</msg><msg code="0" type="3">Failed at Saturday, 5 October 2024 20:01:29 (Elapsed Time: 0.53 seconds)</msg></messages>

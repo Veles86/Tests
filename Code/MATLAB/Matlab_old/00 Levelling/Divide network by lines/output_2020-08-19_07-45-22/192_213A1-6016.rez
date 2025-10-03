@@ -1,0 +1,3 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 213A1   4108MPI      3.23848   1928.   41    1.77  0718        4108MPI-213A1.raw                     3728       192_213A1-6016.rez
+4108MPI  6016        -3.04334   1924.   35   -1.52  0718         6016-4108MPI.raw                     3728       192_213A1-6016.rez

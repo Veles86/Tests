@@ -1,0 +1,88 @@
+def get_group_name(code):
+    if code==1:
+        return "recent"
+    elif code==2:
+        return "municipal"
+    elif code==3:
+        return "dar3_external"
+    elif code==4:
+        return "luba_main"
+    elif code==5:
+        return "after1986"
+    elif code==6:
+        return "before1986"
+    elif code==7:
+        return "izun_b"
+    elif code==8:
+        return "dar3"
+    elif code==9:
+        return "dar1"
+    elif code==10:
+        return"dar2_main"
+    elif code==11:
+        return "dar2_additional"
+    elif code==12:
+        return "luba_additional"
+		
+		
+		
+		
+def get_meas_type(code):
+
+    if code in (1,5,6):
+        return 1
+    elif code==7:
+        return 3
+    elif code IN (2,3):
+        return 2
+    else:
+        return 5
+		
+		
+
+# Global variable to keep track of the current count.
+rec = 0
+
+def autoIncrement():
+    global rec
+    # Customize the start and interval values as desired.
+    pStart = 1
+    pInterval = 1
+    if rec == 0:
+        rec = pStart
+    else:
+        rec += pInterval
+    return rec
+
+
+group_dict = {}
+inc = 0
+
+def assign_group_id(code_value):
+    global inc
+    # If we've never seen this code_value before, increment the counter
+    # and store it in the dictionary
+    if code_value not in group_dict:
+        inc += 1
+        group_dict[code_value] = inc
+    return group_dict[code_value]
+	
+	
+	
+def allowed_mark(dist,miscBF):
+	basic_value = math.sqrt(dist/1000)
+	abs_miscBF = abs(miscBF)
+	if abs_miscBF<=3*basic_value:
+		return 21
+	elif abs_miscBF<=5*basic_value:
+		return 22
+	elif abs_miscBF<=10*basic_value:
+		return 23
+	elif abs_miscBF<=20*basic_value:
+		return 24
+	elif abs_miscBF<=30*basic_value:
+		return 25
+	elif abs_miscBF<=60*basic_value:
+		return 26
+	else:
+		return null

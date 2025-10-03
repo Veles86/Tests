@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+3193     1500JAD    -22.76053   1258.   51   -1.30  1019     3193-1500JAD.DAT.raw            3786 - area b        452_3193-429U.rez
+1500JAD  1501JAD    -19.40523   1490.   47    0.02  1019  1500JAD-1501JAD.DAT.raw            3786 - area b        452_3193-429U.rez
+1501JAD  1502JAD    -13.70891   1300.   27    1.33  1019  1501JAD-1502JAD.DAT.raw            3786 - area b        452_3193-429U.rez
+1502JAD  1504JAD      0.50685    821.   22    1.26  1119  1502JAD-1504JAD.DAT.raw            3786 - area b        452_3193-429U.rez
+1504JAD   429U      -10.32200   1563.   33    1.24  1119     1504JAD-429U.DAT.raw            3786 - area b        452_3193-429U.rez

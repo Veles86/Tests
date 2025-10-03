@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 8 July 2025 16:50:07</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Data Update\CalculateGravimetricCorrections.py", line 18, in &lt;module&gt;
+﻿    calculate_gravimetric_corrections(lines_fc, points_fc)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Gravimetry.py", line 39, in calculate_gravimetric_corrections
+﻿    grav_correction = get_gravimetric_correction(points_dict[from_code]["H"], dH, points_dict[from_code]["NormG"], points_dict[to_code]["NormG"])
+﻿                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Gravimetry.py", line 163, in get_gravimetric_correction
+﻿    correction = (1/equator_normal_g) * (height_A * (gA - gB) + ((gA + gB)/2 -gB) * dH_AB)
+﻿                                         ~~~~~~~~~^~~~~~~~~~~
+﻿TypeError: unsupported operand type(s) for *: 'NoneType' and 'float'
+</msg><msg code="0" type="0">Failed script Calculate Gravimetric Correction...</msg><msg code="-2147467259" type="100">Failed to execute (CalculateGravCorrection).</msg><msg code="0" type="3">Failed at Tuesday, 8 July 2025 16:50:23 (Elapsed Time: 16.52 seconds)</msg></messages>

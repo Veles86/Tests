@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 15 July 2025 16:24:33</msg><msg code="0" type="0">Adding ALLOWED to AllLevellingSegme_Statistics...</msg><msg code="539" type="100">ERROR 000539: ﻿Traceback (most recent call last):
+﻿  File "&lt;expression&gt;", line 1, in &lt;module&gt;
+﻿NameError: name 'SQRT' is not defined
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Tuesday, 15 July 2025 16:24:34 (Elapsed Time: 0.74 seconds)</msg></messages>

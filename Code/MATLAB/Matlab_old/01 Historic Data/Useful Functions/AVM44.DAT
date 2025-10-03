@@ -1,0 +1,18 @@
+For M5|Adr     1|TO  avm44.dat                  |                      |                      |                      | 
+For M5|Adr     2|TO  301022I                    |                      |                      |                      | 
+For M5|Adr     3|TO  748556 1 2 1111            |                      |                      |                      | 
+For M5|Adr     4|TO  Start-Line         BF   450|                      |                      |                      | 
+For M5|Adr     5|KD1       K2                450|                      |                      |Z         0.00000 m   | 
+For M5|Adr     6|KD1       K2      23.0 C  1 450|Rb        1.49564 m   |HD          3.838 m   |                      | 
+For M5|Adr     7|KD1        1      23.0 C  1 450|Rf        1.73823 m   |HD          3.756 m   |                      | 
+For M5|Adr     8|KD1        1      23.0 C    450|                      |                      |Z        -0.24259 m   | 
+For M5|Adr     9|KD1        1      23.0 C  1 450|Rb        1.53298 m   |HD          5.843 m   |                      | 
+For M5|Adr    10|KD1    1580B      23.0 C  1 450|Rf        0.89421 m   |HD          5.851 m   |                      | 
+For M5|Adr    11|KD1    1580B      23.0 C    450|                      |                      |Z         0.39618 m   | 
+For M5|Adr    12|KD1    1580B                450|Sh        0.39618 m   |dz       -0.39618 m   |Z         0.00000 m   | 
+For M5|Adr    13|KD2    1580B        2       450|Db           9.68 m   |Df           9.61 m   |Z         0.39618 m   | 
+For M5|Adr    14|TO  End-Line                450|                      |                      |                      | 
+For M5|Adr    15|TO  Cont-Line               450|                      |                      |                      | 
+For M5|Adr    16|KD1    1580B                450|Sh        0.39618 m   |dz       -0.39618 m   |Z         0.00000 m   | 
+For M5|Adr    17|KD2    1580B        2       450|Db           9.68 m   |Df           9.61 m   |Z         0.39618 m   | 
+For M5|Adr    18|TO  End-Line                450|                      |                      |                      | 

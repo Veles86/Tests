@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Wednesday, 2 July 2025 20:42:14</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Tools\ExtractUsedPointsData.py", line 6, in &lt;module&gt;
+﻿    from Utils.Configs import CONTROL_POINTS_FULL_DATA
+﻿ModuleNotFoundError: No module named 'Utils'
+</msg><msg code="0" type="0">Failed script Extract Used Points Data...</msg><msg code="-2147467259" type="100">Failed to execute (ExtractUsedPointsData).</msg><msg code="0" type="3">Failed at Wednesday, 2 July 2025 20:42:15 (Elapsed Time: 0.33 seconds)</msg></messages>

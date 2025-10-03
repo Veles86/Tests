@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 226TA   2619b        0.75089   5378.  125    3.08  0100                  903.RAW                     luba       227_226TA-4915.rez
+2619b     391U        6.12917   2482.   54   -2.99  0100                  903.RAW                     luba       227_226TA-4915.rez
+ 391U    1631W        0.72913   1630.   42   -1.54  0200                  903.RAW                     luba       227_226TA-4915.rez
+1631W    6173        -5.77278     94.    6    0.14  0200                  903.RAW                     luba       227_226TA-4915.rez
+6173     4915         4.36583   3864.   79   -2.38  0100                  903.RAW                     luba       227_226TA-4915.rez

@@ -1,0 +1,30 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 204U    7553MPI      6.52186   1927.   46    2.00  1019     7553MPI-204U.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+7553MPI  5419MPI     -9.94504   1182.   26    0.37  1019  5419MPI-7553MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5419MPI  7554MPI     -7.77544    938.   26    0.30  1019  7554MPI-5419MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+7554MPI  5420MPI     21.76648   1668.   37    1.02  1119  5420MPI-7554MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5420MPI   207U       16.21290    765.   25    0.00  1019     207U-5420MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+ 207U    5421MPI     11.74809   1347.   42    1.10  1119     5421MPI-207U.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5421MPI   208U        4.80988   1016.   22    1.61  1119     208U-5421MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+ 208U    5422MPI     13.34822   1476.   30    2.03  1119       5422U-208U.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5422MPI   209U        4.93055    965.   20    1.02  1119     209U-5422MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+ 209U    5423MPI    -10.55000   1413.   37    1.15  1119     5423MPI-209U.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5423MPI   210U      -31.92392    829.   49    1.25  1219     210U-5423MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+ 210U    5425MPI    -19.62337    886.   34    0.98  1119     5425MPI-210U.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5425MPI  3813MPI     37.04232   1467.   78    1.94  1219  3813MPI-5425MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+3813MPI  3814MPI     67.49967   1962.   89    0.28  1119  3814MPI-3813MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+3814MPI  5424MPI      8.97220   1243.   72    1.77  1119  5424MPI-3814MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5424MPI   213U        5.98664   1617.   94    1.30  1119     213U-5424MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+ 213U    5418MPI      8.65311   1032.   63    0.18  1219     5418MPI-213U.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5418MPI   214U       13.01096   1245.   56   -0.49  1119     214U-5418MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+ 214U    5417MPI     25.61674   1396.   64    0.16  1219     5417MPI-214U.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5417MPI  4208MPI     13.08850    960.   49   -1.20  1219  4208MPI-5417MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+4208MPI  5416MPI      9.79797   1128.   40    2.06  1219  5416MPI-4208MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5416MPI   216U       17.17260   1297.   37    1.00  1219     216U-5416MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+ 216U    5507MPI      5.11552   1253.   57    0.57  1219     5507MPI-216U.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5507MPI   217U        8.73665   1013.   41    2.10  1219     217U-5507MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+ 217U    5508MPI    -46.87975   1113.   59   -0.78  1219     5508MPI-217U.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5508MPI  5510MPI    -30.66478    473.   42    0.40  1219  5510MPI-5508MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5510MPI   218U       40.33232    663.   52    0.22  1219     218U-5510MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+ 218U    5509MPI      2.76945   1044.   49    1.04  1219     5509MPI-218U.DAT.raw          3786 - line 1_2       0172_204U-219U.rez
+5509MPI   219U       19.96146    971.   63    1.93  1219     219U-5509MPI.DAT.raw          3786 - line 1_2       0172_204U-219U.rez

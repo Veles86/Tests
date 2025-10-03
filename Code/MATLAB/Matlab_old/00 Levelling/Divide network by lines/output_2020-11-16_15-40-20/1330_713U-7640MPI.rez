@@ -1,0 +1,8 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 713U    4351MPI    -69.97377   2545.   55    2.00  1219         713U-4351MPI.raw                     3728    1330_713U-7640MPI.rez
+4351MPI  4080MPI    -49.05518   2513.   52    0.88  1218      4080MPI-4351MPI.raw                     3728    1330_713U-7640MPI.rez
+4080MPI  4079MPI    -26.04340   2177.   43    2.44  1218      4079MPI-4080MPI.raw                     3728    1330_713U-7640MPI.rez
+4079MPI  4118MPI    -11.32622   2535.   46    2.00  1218      4079MPI-4118MPI.raw                     3728    1330_713U-7640MPI.rez
+4118MPI  4075MPI     -1.38380   2315.   43    1.51  1218      4118MPI-4075MPI.raw                     3728    1330_713U-7640MPI.rez
+4075MPI  4074MPI     14.75938   2656.   49   -0.90  1118      4074MPI-4075MPI.raw                     3728    1330_713U-7640MPI.rez
+4074MPI  7640MPI      0.61309   1535.   29    1.16  1118      4074MPI-7640MPI.raw                     3728    1330_713U-7640MPI.rez

@@ -1,0 +1,7 @@
+﻿Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File
+  83L     300PIK      1.22654   380.   9  -0.15  0123            NAT12.DAT.raw
+ 300PIK    54M        7.19540   588.  11   0.05  0122            NAT08.DAT.raw
+  54M      84L       -4.20354   300.   7  -2.45  0101            NAT03.DAT.raw
+  84L      53M        3.92904   521.   9   5.29  0122            NAT02.DAT.raw
+  53M      80L       -9.32937   662.  13  -0.24  0121            NAT05.DAT.raw
+  80L      83L        1.18928   877.  18  -0.66  0121            NAT04.DAT.raw

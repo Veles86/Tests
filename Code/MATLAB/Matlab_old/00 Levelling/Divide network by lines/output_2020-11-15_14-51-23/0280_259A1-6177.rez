@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 259A1   2866b        0.37238    461.   10   -0.35  0201                  913.RAW                     luba      0280_259A1-6177.rez
+2866b      58PU       0.79965   1265.   26   -1.07  0201                  913.RAW                     luba      0280_259A1-6177.rez
+  58PU   5084        -3.14497    601.   12   -0.17  0201                  913.RAW                     luba      0280_259A1-6177.rez
+5084     6207         1.43508   2168.   43   -2.77  0201                  913.RAW                     luba      0280_259A1-6177.rez
+6207     6177       -10.38149   1384.   28    0.87  0201                  913.RAW                     luba      0280_259A1-6177.rez

@@ -1,0 +1,10 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File
+ 910U    7320b       -0.50488    516.   15   -0.23  0120       7320B-910U.DAT.raw
+7320b    1517JAD      6.07362   1094.   32   -0.07  0320    1517JAD-7320B.DAT.raw
+1517JAD  4190MPI     -8.46567   1098.   36    0.26  0320  4190MPI-1517JAD.DAT.raw
+4190MPI  4189MPI     -8.06195    678.   19   -0.02  0120  4189MPI-4190MPI.DAT.raw
+4189MPI  4188MPI     18.88442    935.   25    0.98  0120  4188MPI-4189MPI.DAT.raw
+4188MPI  7319b        2.78612   1868.   43    0.21  0120    7319B-4188MPI.DAT.raw
+7319b    1518JAD     -7.66204   1171.   34    1.60  0320    1518JAD-7319B.DAT.raw
+1518JAD  7326b       -4.36551   1595.   41    1.06  0320    7326B-1518JAD.DAT.raw
+7326b    1516JAD     -2.39841    777.   17    0.54  0220    1516JAD-7326B.DAT.raw

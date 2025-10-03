@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 7 July 2025 17:12:50</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 16, in &lt;module&gt;
+﻿    from Utils.Calculations import calculate_missing_heights
+﻿  File "E:\git\LevellingThesis\Code\Utils\Calculations.py", line 18, in &lt;module&gt;
+﻿    from Utils.Generalization import classify_points, sort_segments, generalize_sorted_segments
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 16
+    &gt;&gt;&gt;&gt;&gt;&gt;&gt; 7c09840f062554b0dcae6b0c864126d42222398e
+            ^
+﻿SyntaxError: invalid decimal literal
+</msg><msg code="0" type="0">Failed script Find Independent Loops...</msg><msg code="-2147467259" type="100">Failed to execute (FindIndependentLoops).</msg><msg code="0" type="3">Failed at Monday, 7 July 2025 17:13:11 (Elapsed Time: 21.07 seconds)</msg></messages>

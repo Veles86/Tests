@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 17 July 2025 17:43:46</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 231, in &lt;module&gt;
+﻿    find_loops(levelling_lines_input, source_points_input, loops_type, loops_output)
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 41, in find_loops
+﻿    polygons_data = extract_data_from_cycles(G)
+﻿                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Loops.py", line 153, in extract_data_from_cycles
+﻿    g_corr -= grav_corr_value
+﻿TypeError: unsupported operand type(s) for -=: 'float' and 'NoneType'
+</msg><msg code="0" type="0">Failed script Find Independent Loops...</msg><msg code="-2147467259" type="100">Failed to execute (FindIndependentLoops).</msg><msg code="0" type="3">Failed at Thursday, 17 July 2025 17:43:53 (Elapsed Time: 6.86 seconds)</msg></messages>

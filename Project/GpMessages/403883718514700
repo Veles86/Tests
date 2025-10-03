@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 1 July 2025 21:08:01</msg><msg code="0" type="0">
+Feature OID: 1</msg><msg code="0" type="0">
+Original - Parts: 1</msg><msg code="0" type="0">  Part 1:</msg><msg code="0" type="0">    (201233.4469999997, 465378.6429999992)</msg><msg code="0" type="0">    (199732.76099999994, 466276.9749999996)</msg><msg code="0" type="0">    (197498.48699999973, 467591.2449999992)</msg><msg code="0" type="0">    (196662.06300000008, 469837.1339999996)</msg><msg code="0" type="0">    (195116.0410000002, 472670.23399999924)</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\Tests\FlipPolyline.py", line 53, in &lt;module&gt;
+﻿    test_polylines(feature_class)
+﻿  File "E:\git\LevellingThesis\Code\Tests\FlipPolyline.py", line 38, in test_polylines
+﻿    print_polyline_coords(FlipLine(geom), "Reversed")
+﻿  File "E:\git\LevellingThesis\Code\Tests\FlipPolyline.py", line 24, in print_polyline_coords
+﻿    AddMessage(f"\n{label} - Parts: {polyline.partCount}")
+﻿                                     ^^^^^^^^^^^^^^^^^^
+﻿AttributeError: 'Result' object has no attribute 'partCount'
+</msg><msg code="0" type="0">Failed script Flip Polylines...</msg><msg code="-2147467259" type="100">Failed to execute (FlipPolylines).</msg><msg code="0" type="3">Failed at Tuesday, 1 July 2025 21:08:01 (Elapsed Time: 0.49 seconds)</msg></messages>

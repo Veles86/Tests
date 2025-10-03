@@ -1,0 +1,46 @@
+For M5|Adr     1|TO  23TM-5TM.dat               |                      |                      |                      
+For M5|Adr     2|TO  230818 JERIES              |                      |                      |                      
+For M5|Adr     3|TO 749230 69031 69031 1111    |                      |                      |                      
+For M5|Adr     4|TO  Start-Line         BF    2L|                      |                      |                      
+For M5|Adr   133|KD1     23TM                 2L|                      |                      |Z       102.42695 m   
+For M5|Adr   134|KD1     23TM      10:36:203  2L|Rb        1.49167 m   |HD         15.644 m   |                      
+For M5|Adr   135|KD1       1B      10:37:103  2L|Rf        1.55420 m   |HD         16.670 m   |                      
+For M5|Adr   136|KD1       1B      10:37:10   2L|                      |                      |Z       102.36442 m   
+For M5|Adr   137|KD1       1B      10:38:063  2L|Rb        1.35965 m   |HD         19.146 m   |                      
+For M5|Adr   138|KD1       2B      10:39:153  2L|Rf        1.77337 m   |HD         17.648 m   |                      
+For M5|Adr   139|KD1       2B      10:39:15   2L|                      |                      |Z       101.95070 m   
+For M5|Adr   140|KD1       2B      10:40:163  2L|Rb        0.45083 m   |HD         17.676 m   |                      
+For M5|Adr   141|KD1       3B      10:41:313  2L|Rf        1.76919 m   |HD         15.223 m   |                      
+For M5|Adr   142|KD1       3B      10:41:31   2L|                      |                      |Z       100.63234 m   
+For M5|Adr   143|KD1       3B      10:42:323  2L|Rb        0.46309 m   |HD         20.712 m   |                      
+For M5|Adr   144|KD1       4B      10:43:283  2L|Rf        1.90519 m   |HD          6.299 m   |                      
+For M5|Adr   145|KD1       4B      10:43:28   2L|                      |                      |Z        99.19024 m   
+For M5|Adr   146|KD1       4B      10:44:233  2L|Rb        0.62210 m   |HD         13.147 m   |                      
+For M5|Adr   147|KD1       5B      10:45:133  2L|Rf        1.73680 m   |HD         18.765 m   |                      
+For M5|Adr   148|KD1       5B      10:45:13   2L|                      |                      |Z        98.07554 m   
+For M5|Adr   149|KD1       5B      10:46:193  2L|Rb        1.44446 m   |HD         13.680 m   |                      
+For M5|Adr   150|KD1       6B      10:47:063  2L|Rf        1.58521 m   |HD         15.183 m   |                      
+For M5|Adr   151|KD1       6B      10:47:06   2L|                      |                      |Z        97.93479 m   
+For M5|Adr   152|KD1       6B      10:48:023  2L|Rb        1.38847 m   |HD         15.447 m   |                      
+For M5|Adr   153|KD1       7B      10:48:593  2L|Rf        1.63799 m   |HD         18.696 m   |                      
+For M5|Adr   154|KD1       7B      10:48:59   2L|                      |                      |Z        97.68527 m   
+For M5|Adr   155|KD1       7B      10:49:553  2L|Rb        1.39440 m   |HD         15.934 m   |                      
+For M5|Adr   156|KD1       8B      10:51:093  2L|Rf        1.62822 m   |HD         19.533 m   |                      
+For M5|Adr   157|KD1       8B      10:51:09   2L|                      |                      |Z        97.45145 m   
+For M5|Adr   158|KD1       8B      10:52:233  2L|Rb        1.36789 m   |HD         20.634 m   |                      
+For M5|Adr   159|KD1       9B      10:53:203  2L|Rf        1.62865 m   |HD         19.249 m   |                      
+For M5|Adr   160|KD1       9B      10:53:20   2L|                      |                      |Z        97.19069 m   
+For M5|Adr   161|KD1       9B      10:54:163  2L|Rb        1.26518 m   |HD         20.736 m   |                      
+For M5|Adr   162|KD1      10B      10:55:123  2L|Rf        1.74630 m   |HD         20.915 m   |                      
+For M5|Adr   163|KD1      10B      10:55:12   2L|                      |                      |Z        96.70957 m   
+For M5|Adr   164|KD1      10B      10:59:233  2L|Rb        1.24331 m   |HD         18.369 m   |                      
+For M5|Adr   165|KD1      11B      11:00:293  2L|Rf        1.64258 m   |HD         14.323 m   |                      
+For M5|Adr   166|KD1      11B      11:00:29   2L|                      |                      |Z        96.31030 m   
+For M5|Adr   171|KD1      11B      11:03:183  2L|Rb        1.71903 m   |HD         11.046 m   |                      
+For M5|Adr   172|KD1      12B      11:03:513  2L|Rf        0.91539 m   |HD          8.895 m   |                      
+For M5|Adr   173|KD1      12B      11:03:51   2L|                      |                      |Z        97.11394 m   
+For M5|Adr   174|KD1      12B      11:04:463  2L|Rb        1.76561 m   |HD         12.185 m   |                      
+For M5|Adr   175|KD1      5TM      11:05:273  2L|Rf        1.32929 m   |HD         10.949 m   |                      
+For M5|Adr   176|KD1      5TM      11:05:27   2L|                      |                      |Z        97.55026 m   
+For M5|Adr   177|KD1      5TM                 2L|Sh        -4.8767 m   |                      |                      
+For M5|Adr   178|KD2      5TM       13        2L|Db         214.36 m   |Df         202.35 m   |Z        97.55026 m   

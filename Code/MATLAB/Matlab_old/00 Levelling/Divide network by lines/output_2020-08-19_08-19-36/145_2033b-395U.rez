@@ -1,0 +1,11 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+2033b    1520JAD     -2.94822   1375.   31    0.16  0120    1520JAD-2033B.DAT.raw              3786-area_b       145_2033b-395U.rez
+1520JAD   912U      -10.04425   1295.   45    1.74  0120     912U-1520JAD.DAT.raw              3786-area_b       145_2033b-395U.rez
+ 912U    1814b        1.06478    169.    7    0.03  1219       1814B-912U.DAT.raw              3786-area_b       145_2033b-395U.rez
+1814b    1815b        4.31248    760.   24    0.02  1219      1815B-1814B.DAT.raw              3786-area_b       145_2033b-395U.rez
+1815b    1845b        7.83456    834.   24    0.60  1219      1845B-1815B.DAT.raw              3786-area_b       145_2033b-395U.rez
+1845b    1844b       18.14860    605.   27    1.02  1219      1844B-1845B.DAT.raw              3786-area_b       145_2033b-395U.rez
+1844b    1843b        0.63783    494.   21   -0.27  1219      1843B-1844B.DAT.raw              3786-area_b       145_2033b-395U.rez
+1843b    1840b       15.74006   1791.   74   -0.30  1219      1840B-1843B.DAT.raw              3786-area_b       145_2033b-395U.rez
+1840b    1839b        4.85354    684.   38    0.52  1219      1839B-1840B.DAT.raw              3786-area_b       145_2033b-395U.rez
+1839b     395U      -18.21652   1139.   34    0.24  1219       395U-1839B.DAT.raw              3786-area_b       145_2033b-395U.rez

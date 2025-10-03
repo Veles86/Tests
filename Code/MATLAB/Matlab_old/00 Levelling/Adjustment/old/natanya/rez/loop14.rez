@@ -1,0 +1,6 @@
+﻿Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File
+ 100L      95L        9.64660   340.  10  -2.45  0101          LOP14N4.DAT.raw
+  95L      93L       -1.15756   433.  10  -3.64  0101          LOP14N6.DAT.raw
+  93L      94L       -1.02304   615.  11  -3.23  0101          LOP14N8.DAT.raw
+  94L      99L       -3.85402   813.  18  -3.49  0101         LOP14N10.DAT.raw
+  99L     100L       -3.62399   374.   7   2.64  0101          LOP14N2.DAT.raw

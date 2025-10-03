@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 19 May 2025 23:02:23</msg><msg code="0" type="0">Starting the generalization process...</msg><msg code="0" type="0">Classifying points...</msg><msg code="0" type="0">Found 34 junction points, 37 regular points and 3 dead-end points.</msg><msg code="0" type="0">Sorting segments...</msg><msg code="1" type="100">MATLAB error: only a scalar struct can be returned from MATLAB</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 80, in &lt;module&gt;
+﻿    generalize_segments(levelling_segments_input, source_points_input, points_classification_output, sorted_segments_output, generalized_lines_output)
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 28, in generalize_segments
+﻿    sorted_segments = sort_segments_matlab(levelling_segments_input, source_points_input, junction_points_codes, regular_points_codes, dead_end_points_codes, sorted_segments_output, print_messages = True)
+﻿                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 421, in sort_segments_matlab
+﻿    ﻿
+﻿  File "C:\Users\ilyak\AppData\Local\ESRI\conda\envs\arcgispro-py3-clone\Lib\site-packages\matlab\engine\matlabengine.py", line 71, in __call__
+﻿    _stderr, feval=True).result()
+﻿                         ^^^^^^^^
+﻿  File "C:\Users\ilyak\AppData\Local\ESRI\conda\envs\arcgispro-py3-clone\Lib\site-packages\matlab\engine\futureresult.py", line 62, in result
+﻿    return self.__future.result(timeout)
+﻿           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "C:\Users\ilyak\AppData\Local\ESRI\conda\envs\arcgispro-py3-clone\Lib\site-packages\matlab\engine\fevalfuture.py", line 76, in result
+﻿    self._result = pythonengine.getFEvalResult(self._future,self._nargout, None, out=self._out, err=self._err)
+﻿                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿ValueError: only a scalar struct can be returned from MATLAB
+</msg><msg code="0" type="0">Failed script Generalize Segments By Junctions...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegmentsByJunctions).</msg><msg code="0" type="3">Failed at Monday, 19 May 2025 23:02:38 (Elapsed Time: 15.14 seconds)</msg></messages>

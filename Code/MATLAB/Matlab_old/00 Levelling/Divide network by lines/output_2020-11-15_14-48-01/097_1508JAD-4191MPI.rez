@@ -1,0 +1,6 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+1508JAD  4325MPI    -25.61055   1353.   54    0.02  0220  4325MPI-1508JAD.DAT.raw            3786 - area b  097_1508JAD-4191MPI.rez
+4325MPI  4192MPI      2.90293   1286.   43   -0.11  0120  4192MPI-4325MPI.DAT.raw            3786 - area b  097_1508JAD-4191MPI.rez
+4192MPI  1701W        3.19627    291.   11    0.58  0220    1701W-4192MPI.DAT.raw            3786 - area b  097_1508JAD-4191MPI.rez
+1701W     282TA      -0.35403    266.    7   -0.14  0220      282TA-1701W.DAT.raw            3786 - area b  097_1508JAD-4191MPI.rez
+ 282TA   4191MPI    -17.44262    910.   35   -0.54  0120    4191MPI-282TA.DAT.raw            3786 - area b  097_1508JAD-4191MPI.rez

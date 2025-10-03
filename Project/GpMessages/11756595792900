@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 5 October 2024 22:04:08</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\OneDrive\Research\GIS\Code\GeneralizeSegments.py", line 84, in &lt;module&gt;
+﻿    output_points_fc = arcpy.GetParameterAsText(3)  # Output feature class for classified points
+﻿                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\__init__.py", line 739, in GetParameterAsText
+﻿    return gp.getParameterAsText(index)
+﻿           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 242, in getParameterAsText
+﻿    self._gp.GetParameterAsText(*gp_fixargs(args, True)))
+﻿    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿RuntimeError: Object: Error in getting parameter as text
+</msg><msg code="0" type="0">Failed script Generalize Segments...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegments).</msg><msg code="0" type="3">Failed at Saturday, 5 October 2024 22:04:16 (Elapsed Time: 8.28 seconds)</msg></messages>

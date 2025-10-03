@@ -1,0 +1,328 @@
+For M5|Adr     1|TO  1572U-1571U.DAT            |                      |                      |                      | 
+For M5|Adr     2|TO  140722 BASEL               |                      |                      |                      | 
+For M5|Adr     3|TO  748188  58086 70303 1132   |                      |                      |                      | 
+For M5|Adr     4|TO  Start-Line       BFFB   49L|                      |                      |                      | 
+For M5|Adr     3|KD1    1572U                49L|                      |                      |Z       100.00000 m   | 
+For M5|Adr     4|KD1    1572U      30.0 C  3 49L|Rb        0.98377 m   |HD          8.160 m   |                      | 
+For M5|Adr     5|KD1    1701G      30.0 C  3 49L|Rf        1.45022 m   |HD          7.997 m   |                      | 
+For M5|Adr     6|KD1    1701G      30.0 C  3 49L|Rf        1.43260 m   |HD          8.005 m   |                      | 
+For M5|Adr     7|KD1    1572U      30.0 C  3 49L|Rb        0.96605 m   |HD          8.155 m   |                      | 
+For M5|Adr     8|KD1    1701G      30.0 C    49L|                      |                      |Z        99.53350 m   | 
+For M5|Adr     9|KD1    1701G      30.0 C  3 49L|Rb        0.82185 m   |HD         10.335 m   |                      | 
+For M5|Adr    10|KD1    1702G      30.0 C  3 49L|Rf        1.67312 m   |HD         10.424 m   |                      | 
+For M5|Adr    11|KD1    1702G      30.0 C  3 49L|Rf        1.68621 m   |HD         10.437 m   |                      | 
+For M5|Adr    12|KD1    1701G      30.0 C  3 49L|Rb        0.83482 m   |HD         10.324 m   |                      | 
+For M5|Adr    13|KD1    1702G      30.0 C    49L|                      |                      |Z        98.68217 m   | 
+For M5|Adr    14|KD1    1702G      30.0 C  3 49L|Rb        0.81288 m   |HD          6.441 m   |                      | 
+For M5|Adr    15|KD1    1703G      30.0 C  3 49L|Rf        1.65329 m   |HD          6.515 m   |                      | 
+For M5|Adr    16|KD1    1703G      30.0 C  3 49L|Rf        1.67830 m   |HD          6.530 m   |                      | 
+For M5|Adr    17|KD1    1702G      30.0 C  3 49L|Rb        0.83780 m   |HD          6.418 m   |                      | 
+For M5|Adr    18|KD1    1703G      30.0 C    49L|                      |                      |Z        97.84171 m   | 
+For M5|Adr    19|KD1    1703G      30.0 C  3 49L|Rb        0.75137 m   |HD          5.948 m   |                      | 
+For M5|Adr    20|KD1    1704G      30.0 C  3 49L|Rf        1.71721 m   |HD          6.047 m   |                      | 
+For M5|Adr    21|KD1    1704G      30.0 C  3 49L|Rf        1.70240 m   |HD          6.045 m   |                      | 
+For M5|Adr    22|KD1    1703G      30.0 C  3 49L|Rb        0.73637 m   |HD          5.943 m   |                      | 
+For M5|Adr    23|KD1    1704G      30.0 C    49L|                      |                      |Z        96.87578 m   | 
+For M5|Adr    24|KD1    1704G      30.0 C  3 49L|Rb        0.72111 m   |HD          5.380 m   |                      | 
+For M5|Adr    25|KD1    1705G      30.0 C  3 49L|Rf        1.68701 m   |HD          5.345 m   |                      | 
+For M5|Adr    26|KD1    1705G      30.0 C  3 49L|Rf        1.70699 m   |HD          5.345 m   |                      | 
+For M5|Adr    27|KD1    1704G      30.0 C  3 49L|Rb        0.74107 m   |HD          5.384 m   |                      | 
+For M5|Adr    28|KD1    1705G      30.0 C    49L|                      |                      |Z        95.90987 m   | 
+For M5|Adr    29|KD1    1705G      30.0 C  3 49L|Rb        0.68624 m   |HD          5.307 m   |                      | 
+For M5|Adr    30|KD1    1706G      30.0 C  3 49L|Rf        1.78215 m   |HD          5.783 m   |                      | 
+For M5|Adr    31|KD1    1706G      30.0 C  3 49L|Rf        1.79642 m   |HD          5.781 m   |                      | 
+For M5|Adr    32|KD1    1705G      30.0 C  3 49L|Rb        0.70050 m   |HD          5.306 m   |                      | 
+For M5|Adr    33|KD1    1706G      30.0 C    49L|                      |                      |Z        94.81395 m   | 
+For M5|Adr    34|KD1    1706G      30.0 C  3 49L|Rb        0.68561 m   |HD          5.594 m   |                      | 
+For M5|Adr    35|KD1    1707G      30.0 C  3 49L|Rf        1.67643 m   |HD          4.549 m   |                      | 
+For M5|Adr    36|KD1    1707G      30.0 C  3 49L|Rf        1.69370 m   |HD          4.551 m   |                      | 
+For M5|Adr    37|KD1    1706G      30.0 C  3 49L|Rb        0.70280 m   |HD          5.592 m   |                      | 
+For M5|Adr    38|KD1    1707G      30.0 C    49L|                      |                      |Z        93.82309 m   | 
+For M5|Adr    39|KD1    1707G      31.0 C  3 49L|Rb        0.71132 m   |HD          5.031 m   |                      | 
+For M5|Adr    40|KD1    1708G      31.0 C  3 49L|Rf        1.81952 m   |HD          5.372 m   |                      | 
+For M5|Adr    41|KD1    1708G      31.0 C  3 49L|Rf        1.83924 m   |HD          5.370 m   |                      | 
+For M5|Adr    42|KD1    1707G      31.0 C  3 49L|Rb        0.73092 m   |HD          5.030 m   |                      | 
+For M5|Adr    43|KD1    1708G      31.0 C    49L|                      |                      |Z        92.71483 m   | 
+For M5|Adr    50|KD1    1708G      31.0 C  3 49L|Rb        0.81111 m   |HD          4.279 m   |                      | 
+For M5|Adr    51|KD1    1709G      31.0 C  3 49L|Rf        1.73140 m   |HD          4.047 m   |                      | 
+For M5|Adr    52|KD1    1709G      31.0 C  3 49L|Rf        1.71265 m   |HD          4.054 m   |                      | 
+For M5|Adr    53|KD1    1708G      31.0 C  3 49L|Rb        0.79233 m   |HD          4.274 m   |                      | 
+For M5|Adr    54|KD1    1709G      31.0 C    49L|                      |                      |Z        91.79453 m   | 
+For M5|Adr    57|KD1    1709G      31.0 C  3 49L|Rb        0.72536 m   |HD          4.661 m   |                      | 
+For M5|Adr    58|KD1    1710G      31.0 C  3 49L|Rf        1.78383 m   |HD          4.898 m   |                      | 
+For M5|Adr    59|KD1    1710G      31.0 C  3 49L|Rf        1.80288 m   |HD          4.900 m   |                      | 
+For M5|Adr    60|KD1    1709G      31.0 C  3 49L|Rb        0.74428 m   |HD          4.658 m   |                      | 
+For M5|Adr    61|KD1    1710G      31.0 C    49L|                      |                      |Z        90.73599 m   | 
+For M5|Adr    62|KD1    1710G      31.0 C  3 49L|Rb        0.74891 m   |HD          4.349 m   |                      | 
+For M5|Adr    63|KD1    1711G      31.0 C  3 49L|Rf        1.80781 m   |HD          4.713 m   |                      | 
+For M5|Adr    64|KD1    1711G      31.0 C  3 49L|Rf        1.79616 m   |HD          4.722 m   |                      | 
+For M5|Adr    65|KD1    1710G      31.0 C  3 49L|Rb        0.73718 m   |HD          4.348 m   |                      | 
+For M5|Adr    66|KD1    1711G      31.0 C    49L|                      |                      |Z        89.67705 m   | 
+For M5|Adr    67|KD1    1711G      31.0 C  3 49L|Rb        0.73150 m   |HD          4.425 m   |                      | 
+For M5|Adr    68|KD1    1712G      31.0 C  3 49L|Rf        1.80537 m   |HD          4.710 m   |                      | 
+For M5|Adr    69|KD1    1712G      31.0 C  3 49L|Rf        1.79424 m   |HD          4.710 m   |                      | 
+For M5|Adr    70|KD1    1711G      31.0 C  3 49L|Rb        0.72031 m   |HD          4.425 m   |                      | 
+For M5|Adr    71|KD1    1712G      31.0 C    49L|                      |                      |Z        88.60315 m   | 
+For M5|Adr    72|KD1    1712G      31.0 C  3 49L|Rb        0.78534 m   |HD          3.914 m   |                      | 
+For M5|Adr    73|KD1    1713G      31.0 C  3 49L|Rf        1.66956 m   |HD          3.745 m   |                      | 
+For M5|Adr    74|KD1    1713G      31.0 C  3 49L|Rf        1.69038 m   |HD          3.741 m   |                      | 
+For M5|Adr    75|KD1    1712G      31.0 C  3 49L|Rb        0.80601 m   |HD          3.912 m   |                      | 
+For M5|Adr    76|KD1    1713G      31.0 C    49L|                      |                      |Z        87.71886 m   | 
+For M5|Adr    77|KD1    1713G      31.0 C  3 49L|Rb        0.67800 m   |HD          4.759 m   |                      | 
+For M5|Adr    78|KD1    1714G      31.0 C  3 49L|Rf        1.85047 m   |HD          4.955 m   |                      | 
+For M5|Adr    79|KD1    1714G      31.0 C  3 49L|Rf        1.83226 m   |HD          4.955 m   |                      | 
+For M5|Adr    80|KD1    1713G      31.0 C  3 49L|Rb        0.65968 m   |HD          4.754 m   |                      | 
+For M5|Adr    81|KD1    1714G      31.0 C    49L|                      |                      |Z        86.54633 m   | 
+For M5|Adr    82|KD1    1714G      31.0 C  3 49L|Rb        0.72209 m   |HD          4.535 m   |                      | 
+For M5|Adr    83|KD1    1715G      31.0 C  3 49L|Rf        1.80803 m   |HD          4.747 m   |                      | 
+For M5|Adr    84|KD1    1715G      31.0 C  3 49L|Rf        1.78984 m   |HD          4.750 m   |                      | 
+For M5|Adr    85|KD1    1714G      31.0 C  3 49L|Rb        0.70379 m   |HD          4.536 m   |                      | 
+For M5|Adr    86|KD1    1715G      31.0 C    49L|                      |                      |Z        85.46034 m   | 
+For M5|Adr    87|KD1    1715G      31.0 C  3 49L|Rb        0.74687 m   |HD          4.361 m   |                      | 
+For M5|Adr    88|KD1    1716G      31.0 C  3 49L|Rf        1.66922 m   |HD          3.984 m   |                      | 
+For M5|Adr    89|KD1    1716G      31.0 C  3 49L|Rf        1.68359 m   |HD          3.981 m   |                      | 
+For M5|Adr    90|KD1    1715G      31.0 C  3 49L|Rb        0.76110 m   |HD          4.361 m   |                      | 
+For M5|Adr    91|KD1    1716G      31.0 C    49L|                      |                      |Z        84.53792 m   | 
+For M5|Adr    98|KD1    1716G      31.0 C  3 49L|Rb        0.80136 m   |HD          4.270 m   |                      | 
+For M5|Adr    99|KD1    1717G      31.0 C  3 49L|Rf        1.67886 m   |HD          3.779 m   |                      | 
+For M5|Adr   100|KD1    1717G      31.0 C  3 49L|Rf        1.69417 m   |HD          3.785 m   |                      | 
+For M5|Adr   101|KD1    1716G      31.0 C  3 49L|Rb        0.81665 m   |HD          4.266 m   |                      | 
+For M5|Adr   102|KD1    1717G      31.0 C    49L|                      |                      |Z        83.66041 m   | 
+For M5|Adr   103|KD1    1717G      31.0 C  3 49L|Rb        0.75998 m   |HD          4.182 m   |                      | 
+For M5|Adr   104|KD1    1718G      31.0 C  3 49L|Rf        1.76383 m   |HD          4.358 m   |                      | 
+For M5|Adr   105|KD1    1718G      31.0 C  3 49L|Rf        1.77788 m   |HD          4.361 m   |                      | 
+For M5|Adr   106|KD1    1717G      31.0 C  3 49L|Rb        0.77392 m   |HD          4.180 m   |                      | 
+For M5|Adr   107|KD1    1718G      31.0 C    49L|                      |                      |Z        82.65650 m   | 
+For M5|Adr   108|KD1    1718G      31.0 C  3 49L|Rb        0.75025 m   |HD          4.401 m   |                      | 
+For M5|Adr   109|KD1    1719G      31.0 C  3 49L|Rf        1.78308 m   |HD          4.136 m   |                      | 
+For M5|Adr   110|KD1    1719G      31.0 C  3 49L|Rf        1.80188 m   |HD          4.137 m   |                      | 
+For M5|Adr   111|KD1    1718G      31.0 C  3 49L|Rb        0.76893 m   |HD          4.402 m   |                      | 
+For M5|Adr   112|KD1    1719G      31.0 C    49L|                      |                      |Z        81.62361 m   | 
+For M5|Adr   113|KD1    1719G      31.0 C  3 49L|Rb        0.69214 m   |HD          4.771 m   |                      | 
+For M5|Adr   114|KD1    1720G      31.0 C  3 49L|Rf        1.84395 m   |HD          4.641 m   |                      | 
+For M5|Adr   115|KD1    1720G      31.0 C  3 49L|Rf        1.86185 m   |HD          4.616 m   |                      | 
+For M5|Adr   116|KD1    1719G      31.0 C  3 49L|Rb        0.71003 m   |HD          4.797 m   |                      | 
+For M5|Adr   117|KD1    1720G      31.0 C    49L|                      |                      |Z        80.47180 m   | 
+For M5|Adr   118|KD1    1720G      31.0 C  3 49L|Rb        0.74756 m   |HD          4.405 m   |                      | 
+For M5|Adr   119|KD1    1721G      31.0 C  3 49L|Rf        1.85721 m   |HD          4.492 m   |                      | 
+For M5|Adr   120|KD1    1721G      32.0 C  3 49L|Rf        1.87557 m   |HD          4.492 m   |                      | 
+For M5|Adr   121|KD1    1720G      32.0 C  3 49L|Rb        0.76580 m   |HD          4.404 m   |                      | 
+For M5|Adr   122|KD1    1721G      32.0 C    49L|                      |                      |Z        79.36209 m   | 
+For M5|Adr   123|KD1    1721G      32.0 C  3 49L|Rb        0.73927 m   |HD          4.158 m   |                      | 
+For M5|Adr   124|KD1    1722G      32.0 C  3 49L|Rf        1.84567 m   |HD          4.460 m   |                      | 
+For M5|Adr   125|KD1    1722G      32.0 C  3 49L|Rf        1.86456 m   |HD          4.449 m   |                      | 
+For M5|Adr   126|KD1    1721G      32.0 C  3 49L|Rb        0.75806 m   |HD          4.171 m   |                      | 
+For M5|Adr   127|KD1    1722G      32.0 C    49L|                      |                      |Z        78.25564 m   | 
+For M5|Adr   128|KD1    1722G      32.0 C  3 49L|Rb        0.71143 m   |HD          4.508 m   |                      | 
+For M5|Adr   129|KD1    1723G      32.0 C  3 49L|Rf        1.88094 m   |HD          4.189 m   |                      | 
+For M5|Adr   130|KD1    1723G      32.0 C  3 49L|Rf        1.85214 m   |HD          4.203 m   |                      | 
+For M5|Adr   131|KD1    1722G      32.0 C  3 49L|Rb        0.68245 m   |HD          4.495 m   |                      | 
+For M5|Adr   132|KD1    1723G      32.0 C    49L|                      |                      |Z        77.08604 m   | 
+For M5|Adr   133|KD1    1723G      32.0 C  3 49L|Rb        0.55822 m   |HD          4.939 m   |                      | 
+For M5|Adr   134|KD1    1724G      32.0 C  3 49L|Rf        1.81556 m   |HD          4.564 m   |                      | 
+For M5|Adr   135|KD1    1724G      32.0 C  3 49L|Rf        1.83428 m   |HD          4.559 m   |                      | 
+For M5|Adr   136|KD1    1723G      32.0 C  3 49L|Rb        0.57677 m   |HD          4.946 m   |                      | 
+For M5|Adr   137|KD1    1724G      32.0 C    49L|                      |                      |Z        75.82861 m   | 
+For M5|Adr   138|KD1    1724G      32.0 C  3 49L|Rb        0.71982 m   |HD          4.450 m   |                      | 
+For M5|Adr   139|KD1    1725G      32.0 C  3 49L|Rf        1.86038 m   |HD          4.761 m   |                      | 
+For M5|Adr   140|KD1    1725G      32.0 C  3 49L|Rf        1.87525 m   |HD          4.745 m   |                      | 
+For M5|Adr   141|KD1    1724G      32.0 C  3 49L|Rb        0.73458 m   |HD          4.455 m   |                      | 
+For M5|Adr   142|KD1    1725G      32.0 C    49L|                      |                      |Z        74.68800 m   | 
+For M5|Adr   143|KD1    1725G      32.0 C  3 49L|Rb        0.77592 m   |HD          4.273 m   |                      | 
+For M5|Adr   144|KD1    1726G      32.0 C  3 49L|Rf        1.77323 m   |HD          4.299 m   |                      | 
+For M5|Adr   145|KD1    1726G      32.0 C  3 49L|Rf        1.75516 m   |HD          4.294 m   |                      | 
+For M5|Adr   146|KD1    1725G      32.0 C  3 49L|Rb        0.75775 m   |HD          4.277 m   |                      | 
+For M5|Adr   147|KD1    1726G      32.0 C    49L|                      |                      |Z        73.69064 m   | 
+For M5|Adr   148|KD1    1726G      32.0 C  3 49L|Rb        0.70667 m   |HD          4.942 m   |                      | 
+For M5|Adr   149|KD1    1727G      32.0 C  3 49L|Rf        1.78070 m   |HD          4.897 m   |                      | 
+For M5|Adr   150|KD1    1727G      32.0 C  3 49L|Rf        1.79997 m   |HD          4.891 m   |                      | 
+For M5|Adr   151|KD1    1726G      32.0 C  3 49L|Rb        0.72587 m   |HD          4.945 m   |                      | 
+For M5|Adr   152|KD1    1727G      32.0 C    49L|                      |                      |Z        72.61657 m   | 
+For M5|Adr   153|KD1    1727G      32.0 C  3 49L|Rb        0.82248 m   |HD          4.281 m   |                      | 
+For M5|Adr   154|KD1    1728G      32.0 C  3 49L|Rf        1.70501 m   |HD          4.122 m   |                      | 
+For M5|Adr   155|KD1    1728G      32.0 C  3 49L|Rf        1.72028 m   |HD          4.128 m   |                      | 
+For M5|Adr   156|KD1    1727G      32.0 C  3 49L|Rb        0.83762 m   |HD          4.274 m   |                      | 
+For M5|Adr   157|KD1    1728G      32.0 C    49L|                      |                      |Z        71.73398 m   | 
+For M5|Adr   158|KD1    1728G      32.0 C  3 49L|Rb        0.81133 m   |HD          4.327 m   |                      | 
+For M5|Adr   159|KD1    1729G      32.0 C  3 49L|Rf        1.65396 m   |HD          4.303 m   |                      | 
+For M5|Adr   160|KD1    1729G      32.0 C  3 49L|Rf        1.66806 m   |HD          4.301 m   |                      | 
+For M5|Adr   161|KD1    1728G      32.0 C  3 49L|Rb        0.82537 m   |HD          4.328 m   |                      | 
+For M5|Adr   162|KD1    1729G      32.0 C    49L|                      |                      |Z        70.89132 m   | 
+For M5|Adr   163|KD1    1729G      33.0 C  3 49L|Rb        0.81454 m   |HD          4.697 m   |                      | 
+For M5|Adr   164|KD1    1730G      33.0 C  3 49L|Rf        1.71313 m   |HD          4.851 m   |                      | 
+For M5|Adr   165|KD1    1730G      33.0 C  3 49L|Rf        1.73077 m   |HD          4.852 m   |                      | 
+For M5|Adr   166|KD1    1729G      33.0 C  3 49L|Rb        0.83212 m   |HD          4.695 m   |                      | 
+For M5|Adr   167|KD1    1730G      33.0 C    49L|                      |                      |Z        69.99270 m   | 
+For M5|Adr   168|KD1    1730G      33.0 C  3 49L|Rb        0.79698 m   |HD          4.982 m   |                      | 
+For M5|Adr   169|KD1    1731G      33.0 C  3 49L|Rf        1.73693 m   |HD          4.761 m   |                      | 
+For M5|Adr   170|KD1    1731G      33.0 C  3 49L|Rf        1.75882 m   |HD          4.786 m   |                      | 
+For M5|Adr   171|KD1    1730G      33.0 C  3 49L|Rb        0.81884 m   |HD          4.959 m   |                      | 
+For M5|Adr   172|KD1    1731G      33.0 C    49L|                      |                      |Z        69.05273 m   | 
+For M5|Adr   173|KD1    1731G      33.0 C  3 49L|Rb        0.92045 m   |HD          3.899 m   |                      | 
+For M5|Adr   174|KD1    1732G      33.0 C  3 49L|Rf        1.70435 m   |HD          3.917 m   |                      | 
+For M5|Adr   175|KD1    1732G      33.0 C  3 49L|Rf        1.71949 m   |HD          3.913 m   |                      | 
+For M5|Adr   176|KD1    1731G      33.0 C  3 49L|Rb        0.93540 m   |HD          3.905 m   |                      | 
+For M5|Adr   177|KD1    1732G      33.0 C    49L|                      |                      |Z        68.26874 m   | 
+For M5|Adr   178|KD1    1732G      33.0 C  3 49L|Rb        0.78843 m   |HD          4.764 m   |                      | 
+For M5|Adr   179|KD1    1733G      33.0 C  3 49L|Rf        1.78240 m   |HD          4.783 m   |                      | 
+For M5|Adr   180|KD1    1733G      33.0 C  3 49L|Rf        1.80183 m   |HD          4.774 m   |                      | 
+For M5|Adr   181|KD1    1732G      33.0 C  3 49L|Rb        0.80774 m   |HD          4.770 m   |                      | 
+For M5|Adr   182|KD1    1733G      33.0 C    49L|                      |                      |Z        67.27471 m   | 
+For M5|Adr   183|KD1    1733G      33.0 C  3 49L|Rb        0.80026 m   |HD          4.670 m   |                      | 
+For M5|Adr   184|KD1    1734G      33.0 C  3 49L|Rf        1.72788 m   |HD          5.057 m   |                      | 
+For M5|Adr   185|KD1    1734G      33.0 C  3 49L|Rf        1.74570 m   |HD          5.051 m   |                      | 
+For M5|Adr   186|KD1    1733G      33.0 C  3 49L|Rb        0.81795 m   |HD          4.675 m   |                      | 
+For M5|Adr   187|KD1    1734G      33.0 C    49L|                      |                      |Z        66.34702 m   | 
+For M5|Adr   188|KD1    1734G      33.0 C  3 49L|Rb        0.74167 m   |HD          5.311 m   |                      | 
+For M5|Adr   189|KD1    1735G      33.0 C  3 49L|Rf        1.77510 m   |HD          5.213 m   |                      | 
+For M5|Adr   190|KD1    1735G      33.0 C  3 49L|Rf        1.79260 m   |HD          5.206 m   |                      | 
+For M5|Adr   191|KD1    1734G      33.0 C  3 49L|Rb        0.75910 m   |HD          5.318 m   |                      | 
+For M5|Adr   192|KD1    1735G      33.0 C    49L|                      |                      |Z        65.31356 m   | 
+For M5|Adr   193|KD1    1735G      33.0 C  3 49L|Rb        0.83890 m   |HD          4.647 m   |                      | 
+For M5|Adr   194|KD1    1736G      33.0 C  3 49L|Rf        1.75587 m   |HD          5.354 m   |                      | 
+For M5|Adr   195|KD1    1736G      33.0 C  3 49L|Rf        1.76786 m   |HD          5.350 m   |                      | 
+For M5|Adr   196|KD1    1735G      33.0 C  3 49L|Rb        0.85082 m   |HD          4.652 m   |                      | 
+For M5|Adr   197|KD1    1736G      33.0 C    49L|                      |                      |Z        64.39655 m   | 
+For M5|Adr   198|KD1    1736G      34.0 C  3 49L|Rb        0.78750 m   |HD          5.596 m   |                      | 
+For M5|Adr   199|KD1    1737G      34.0 C  3 49L|Rf        1.75287 m   |HD          5.060 m   |                      | 
+For M5|Adr   200|KD1    1737G      34.0 C  3 49L|Rf        1.77469 m   |HD          5.069 m   |                      | 
+For M5|Adr   201|KD1    1736G      34.0 C  3 49L|Rb        0.80923 m   |HD          5.589 m   |                      | 
+For M5|Adr   202|KD1    1737G      34.0 C    49L|                      |                      |Z        63.43114 m   | 
+For M5|Adr   203|KD1    1737G      33.0 C  3 49L|Rb        0.91321 m   |HD          4.296 m   |                      | 
+For M5|Adr   204|KD1    1738G      34.0 C  3 49L|Rf        1.78276 m   |HD          4.760 m   |                      | 
+For M5|Adr   205|KD1    1738G      34.0 C  3 49L|Rf        1.76590 m   |HD          4.766 m   |                      | 
+For M5|Adr   206|KD1    1737G      34.0 C  3 49L|Rb        0.89632 m   |HD          4.287 m   |                      | 
+For M5|Adr   207|KD1    1738G      34.0 C    49L|                      |                      |Z        62.56157 m   | 
+For M5|Adr   208|KD1    1738G      34.0 C  3 49L|Rb        0.82396 m   |HD          4.749 m   |                      | 
+For M5|Adr   209|KD1    1739G      34.0 C  3 49L|Rf        1.72578 m   |HD          4.288 m   |                      | 
+For M5|Adr   210|KD1    1739G      34.0 C  3 49L|Rf        1.70468 m   |HD          4.299 m   |                      | 
+For M5|Adr   211|KD1    1738G      34.0 C  3 49L|Rb        0.80269 m   |HD          4.733 m   |                      | 
+For M5|Adr   212|KD1    1739G      34.0 C    49L|                      |                      |Z        61.65967 m   | 
+For M5|Adr   213|KD1    1739G      34.0 C  3 49L|Rb        0.83557 m   |HD          4.714 m   |                      | 
+For M5|Adr   214|KD1    1740G      34.0 C  3 49L|Rf        1.73238 m   |HD          4.626 m   |                      | 
+For M5|Adr   215|KD1    1740G      34.0 C  3 49L|Rf        1.71947 m   |HD          4.630 m   |                      | 
+For M5|Adr   216|KD1    1739G      34.0 C  3 49L|Rb        0.82254 m   |HD          4.708 m   |                      | 
+For M5|Adr   217|KD1    1740G      34.0 C    49L|                      |                      |Z        60.76280 m   | 
+For M5|Adr   218|KD1    1740G      34.0 C  3 49L|Rb        0.78671 m   |HD          4.956 m   |                      | 
+For M5|Adr   219|KD1    1741G      34.0 C  3 49L|Rf        1.75116 m   |HD          4.655 m   |                      | 
+For M5|Adr   220|KD1    1741G      34.0 C  3 49L|Rf        1.73524 m   |HD          4.659 m   |                      | 
+For M5|Adr   221|KD1    1740G      34.0 C  3 49L|Rb        0.77078 m   |HD          4.953 m   |                      | 
+For M5|Adr   222|KD1    1741G      34.0 C    49L|                      |                      |Z        59.79834 m   | 
+For M5|Adr   223|KD1    1741G      34.0 C  3 49L|Rb        0.79412 m   |HD          4.940 m   |                      | 
+For M5|Adr   224|KD1    1742G      34.0 C  3 49L|Rf        1.74555 m   |HD          4.905 m   |                      | 
+For M5|Adr   225|KD1    1742G      34.0 C  3 49L|Rf        1.73141 m   |HD          4.906 m   |                      | 
+For M5|Adr   226|KD1    1741G      34.0 C  3 49L|Rb        0.77982 m   |HD          4.938 m   |                      | 
+For M5|Adr   227|KD1    1742G      34.0 C    49L|                      |                      |Z        58.84683 m   | 
+For M5|Adr   228|KD1    1742G      34.0 C  3 49L|Rb        0.77236 m   |HD          4.988 m   |                      | 
+For M5|Adr   229|KD1    1743G      34.0 C  3 49L|Rf        1.74384 m   |HD          4.761 m   |                      | 
+For M5|Adr   230|KD1    1743G      34.0 C  3 49L|Rf        1.72810 m   |HD          4.765 m   |                      | 
+For M5|Adr   231|KD1    1742G      34.0 C  3 49L|Rb        0.75647 m   |HD          4.989 m   |                      | 
+For M5|Adr   232|KD1    1743G      34.0 C    49L|                      |                      |Z        57.87528 m   | 
+For M5|Adr   233|KD1    1743G      34.0 C  3 49L|Rb        0.71003 m   |HD          5.063 m   |                      | 
+For M5|Adr   234|KD1    1744G      34.0 C  3 49L|Rf        1.81278 m   |HD          5.423 m   |                      | 
+For M5|Adr   235|KD1    1744G      34.0 C  3 49L|Rf        1.79753 m   |HD          5.422 m   |                      | 
+For M5|Adr   236|KD1    1743G      34.0 C  3 49L|Rb        0.69464 m   |HD          5.067 m   |                      | 
+For M5|Adr   237|KD1    1744G      34.0 C    49L|                      |                      |Z        56.77246 m   | 
+For M5|Adr   238|KD1    1744G      34.0 C  3 49L|Rb        0.75597 m   |HD          4.487 m   |                      | 
+For M5|Adr   239|KD1    1745G      34.0 C  3 49L|Rf        1.71632 m   |HD          4.244 m   |                      | 
+For M5|Adr   240|KD1    1745G      34.0 C  3 49L|Rf        1.73124 m   |HD          4.243 m   |                      | 
+For M5|Adr   241|KD1    1744G      34.0 C  3 49L|Rb        0.77079 m   |HD          4.489 m   |                      | 
+For M5|Adr   242|KD1    1745G      34.0 C    49L|                      |                      |Z        55.81206 m   | 
+For M5|Adr   243|KD1    1745G      34.0 C  3 49L|Rb        0.75444 m   |HD          4.581 m   |                      | 
+For M5|Adr   244|KD1    1746G      34.0 C  3 49L|Rf        1.68597 m   |HD          4.470 m   |                      | 
+For M5|Adr   245|KD1    1746G      34.0 C  3 49L|Rf        1.70561 m   |HD          4.466 m   |                      | 
+For M5|Adr   246|KD1    1745G      34.0 C  3 49L|Rb        0.77397 m   |HD          4.588 m   |                      | 
+For M5|Adr   247|KD1    1746G      34.0 C    49L|                      |                      |Z        54.88047 m   | 
+For M5|Adr   248|KD1    1746G      34.0 C  3 49L|Rb        0.73779 m   |HD          5.478 m   |                      | 
+For M5|Adr   249|KD1    1747G      34.0 C  3 49L|Rf        1.76513 m   |HD          5.447 m   |                      | 
+For M5|Adr   250|KD1    1747G      34.0 C  3 49L|Rf        1.77929 m   |HD          5.445 m   |                      | 
+For M5|Adr   251|KD1    1746G      34.0 C  3 49L|Rb        0.75192 m   |HD          5.482 m   |                      | 
+For M5|Adr   252|KD1    1747G      34.0 C    49L|                      |                      |Z        53.85312 m   | 
+For M5|Adr   253|KD1    1747G      34.0 C  3 49L|Rb        0.75024 m   |HD          5.229 m   |                      | 
+For M5|Adr   254|KD1    1748G      35.0 C  3 49L|Rf        1.80300 m   |HD          5.592 m   |                      | 
+For M5|Adr   255|KD1    1748G      35.0 C  3 49L|Rf        1.82826 m   |HD          5.591 m   |                      | 
+For M5|Adr   256|KD1    1747G      35.0 C  3 49L|Rb        0.77537 m   |HD          5.230 m   |                      | 
+For M5|Adr   257|KD1    1748G      35.0 C    49L|                      |                      |Z        52.80029 m   | 
+For M5|Adr   258|KD1    1748G      35.0 C  3 49L|Rb        0.82719 m   |HD          4.189 m   |                      | 
+For M5|Adr   259|KD1    1749G      35.0 C  3 49L|Rf        1.76953 m   |HD          4.550 m   |                      | 
+For M5|Adr   260|KD1    1749G      35.0 C  3 49L|Rf        1.78302 m   |HD          4.554 m   |                      | 
+For M5|Adr   261|KD1    1748G      35.0 C  3 49L|Rb        0.84059 m   |HD          4.185 m   |                      | 
+For M5|Adr   262|KD1    1749G      35.0 C    49L|                      |                      |Z        51.85791 m   | 
+For M5|Adr   263|KD1    1749G      35.0 C  3 49L|Rb        0.74721 m   |HD          4.526 m   |                      | 
+For M5|Adr   264|KD1    1750G      35.0 C  3 49L|Rf        1.84763 m   |HD          4.516 m   |                      | 
+For M5|Adr   265|KD1    1750G      35.0 C  3 49L|Rf        1.86063 m   |HD          4.513 m   |                      | 
+For M5|Adr   266|KD1    1749G      35.0 C  3 49L|Rb        0.76005 m   |HD          4.531 m   |                      | 
+For M5|Adr   267|KD1    1750G      35.0 C    49L|                      |                      |Z        50.75741 m   | 
+For M5|Adr   268|KD1    1750G      35.0 C  3 49L|Rb        0.75105 m   |HD          3.961 m   |                      | 
+For M5|Adr   269|KD1    1751G      35.0 C  3 49L|Rf        1.79060 m   |HD          4.217 m   |                      | 
+For M5|Adr   270|KD1    1751G      35.0 C  3 49L|Rf        1.77050 m   |HD          4.221 m   |                      | 
+For M5|Adr   271|KD1    1750G      35.0 C  3 49L|Rb        0.73099 m   |HD          3.961 m   |                      | 
+For M5|Adr   272|KD1    1751G      35.0 C    49L|                      |                      |Z        49.71788 m   | 
+For M5|Adr   273|KD1    1751G      35.0 C  3 49L|Rb        0.67671 m   |HD          4.442 m   |                      | 
+For M5|Adr   274|KD1    1752G      35.0 C  3 49L|Rf        1.82744 m   |HD          4.380 m   |                      | 
+For M5|Adr   275|KD1    1752G      35.0 C  3 49L|Rf        1.84453 m   |HD          4.379 m   |                      | 
+For M5|Adr   276|KD1    1751G      35.0 C  3 49L|Rb        0.69377 m   |HD          4.442 m   |                      | 
+For M5|Adr   277|KD1    1752G      35.0 C    49L|                      |                      |Z        48.56713 m   | 
+For M5|Adr   284|KD1    1752G      35.0 C  3 49L|Rb        0.58807 m   |HD          4.888 m   |                      | 
+For M5|Adr   285|KD1    1753G      35.0 C  3 49L|Rf        1.83798 m   |HD          4.171 m   |                      | 
+For M5|Adr   286|KD1    1753G      35.0 C  3 49L|Rf        1.82108 m   |HD          4.170 m   |                      | 
+For M5|Adr   287|KD1    1752G      35.0 C  3 49L|Rb        0.57119 m   |HD          4.889 m   |                      | 
+For M5|Adr   288|KD1    1753G      35.0 C    49L|                      |                      |Z        47.31723 m   | 
+For M5|Adr   289|KD1    1753G      35.0 C  3 49L|Rb        0.71642 m   |HD          3.619 m   |                      | 
+For M5|Adr   290|KD1    1754G      35.0 C  3 49L|Rf        1.82601 m   |HD          4.152 m   |                      | 
+For M5|Adr   291|KD1    1754G      35.0 C  3 49L|Rf        1.84280 m   |HD          4.149 m   |                      | 
+For M5|Adr   292|KD1    1753G      35.0 C  3 49L|Rb        0.73318 m   |HD          3.624 m   |                      | 
+For M5|Adr   293|KD1    1754G      35.0 C    49L|                      |                      |Z        46.20763 m   | 
+For M5|Adr   294|KD1    1754G      35.0 C  3 49L|Rb        0.78132 m   |HD          3.378 m   |                      | 
+For M5|Adr   295|KD1    1755G      35.0 C  3 49L|Rf        1.80921 m   |HD          3.695 m   |                      | 
+For M5|Adr   296|KD1    1755G      35.0 C  3 49L|Rf        1.83140 m   |HD          3.682 m   |                      | 
+For M5|Adr   297|KD1    1754G      35.0 C  3 49L|Rb        0.80343 m   |HD          3.397 m   |                      | 
+For M5|Adr   298|KD1    1755G      35.0 C    49L|                      |                      |Z        45.17970 m   | 
+For M5|Adr   299|KD1    1755G      35.0 C  3 49L|Rb        0.82465 m   |HD          3.393 m   |                      | 
+For M5|Adr   300|KD1    1756G      35.0 C  3 49L|Rf        1.79558 m   |HD          3.611 m   |                      | 
+For M5|Adr   301|KD1    1756G      35.0 C  3 49L|Rf        1.80735 m   |HD          3.614 m   |                      | 
+For M5|Adr   302|KD1    1755G      35.0 C  3 49L|Rb        0.83633 m   |HD          3.390 m   |                      | 
+For M5|Adr   303|KD1    1756G      35.0 C    49L|                      |                      |Z        44.20872 m   | 
+For M5|Adr   304|KD1    1756G      35.0 C  3 49L|Rb        0.76099 m   |HD          3.950 m   |                      | 
+For M5|Adr   305|KD1    1757G      35.0 C  3 49L|Rf        1.79551 m   |HD          4.214 m   |                      | 
+For M5|Adr   306|KD1    1757G      35.0 C  3 49L|Rf        1.77693 m   |HD          4.214 m   |                      | 
+For M5|Adr   307|KD1    1756G      35.0 C  3 49L|Rb        0.74226 m   |HD          3.955 m   |                      | 
+For M5|Adr   308|KD1    1757G      35.0 C    49L|                      |                      |Z        43.17413 m   | 
+For M5|Adr   309|KD1    1757G      35.0 C  3 49L|Rb        0.54362 m   |HD          5.486 m   |                      | 
+For M5|Adr   310|KD1    1758G      35.0 C  3 49L|Rf        1.79592 m   |HD          5.356 m   |                      | 
+For M5|Adr   311|KD1    1758G      35.0 C  3 49L|Rf        1.82254 m   |HD          5.350 m   |                      | 
+For M5|Adr   312|KD1    1757G      35.0 C  3 49L|Rb        0.57015 m   |HD          5.489 m   |                      | 
+For M5|Adr   313|KD1    1758G      35.0 C    49L|                      |                      |Z        41.92178 m   | 
+For M5|Adr   320|KD1    1758G      35.0 C  3 49L|Rb        0.58826 m   |HD          5.765 m   |                      | 
+For M5|Adr   321|KD1    1759G      35.0 C  3 49L|Rf        1.81055 m   |HD          5.429 m   |                      | 
+For M5|Adr   322|KD1    1759G      35.0 C  3 49L|Rf        1.79131 m   |HD          5.435 m   |                      | 
+For M5|Adr   323|KD1    1758G      35.0 C  3 49L|Rb        0.56902 m   |HD          5.758 m   |                      | 
+For M5|Adr   324|KD1    1759G      35.0 C    49L|                      |                      |Z        40.69949 m   | 
+For M5|Adr   325|KD1    1759G      35.0 C  3 49L|Rb        0.66559 m   |HD          5.633 m   |                      | 
+For M5|Adr   326|KD1    1760G      35.0 C  3 49L|Rf        1.72076 m   |HD          5.107 m   |                      | 
+For M5|Adr   327|KD1    1760G      35.0 C  3 49L|Rf        1.74075 m   |HD          5.111 m   |                      | 
+For M5|Adr   328|KD1    1759G      35.0 C  3 49L|Rb        0.68546 m   |HD          5.630 m   |                      | 
+For M5|Adr   329|KD1    1760G      35.0 C    49L|                      |                      |Z        39.64426 m   | 
+For M5|Adr   330|KD1    1760G      35.0 C  3 49L|Rb        0.66576 m   |HD          6.270 m   |                      | 
+For M5|Adr   331|KD1    1761G      35.0 C  3 49L|Rf        1.80604 m   |HD          6.855 m   |                      | 
+For M5|Adr   332|KD1    1761G      35.0 C  3 49L|Rf        1.82734 m   |HD          6.859 m   |                      | 
+For M5|Adr   333|KD1    1760G      35.0 C  3 49L|Rb        0.68706 m   |HD          6.271 m   |                      | 
+For M5|Adr   334|KD1    1761G      35.0 C    49L|                      |                      |Z        38.50398 m   | 
+For M5|Adr   335|KD1    1761G      36.0 C  3 49L|Rb        0.91069 m   |HD          4.544 m   |                      | 
+For M5|Adr   336|KD1    1762G      36.0 C  3 49L|Rf        1.54965 m   |HD          4.632 m   |                      | 
+For M5|Adr   337|KD1    1762G      36.0 C  3 49L|Rf        1.56922 m   |HD          4.634 m   |                      | 
+For M5|Adr   338|KD1    1761G      36.0 C  3 49L|Rb        0.93028 m   |HD          4.542 m   |                      | 
+For M5|Adr   339|KD1    1762G      36.0 C    49L|                      |                      |Z        37.86503 m   | 
+For M5|Adr   340|KD1    1762G      36.0 C  3 49L|Rb        0.78282 m   |HD          8.218 m   |                      | 
+For M5|Adr   341|KD1    1763G      36.0 C  3 49L|Rf        1.16105 m   |HD          8.641 m   |                      | 
+For M5|Adr   342|KD1    1763G      36.0 C  3 49L|Rf        1.17718 m   |HD          8.644 m   |                      | 
+For M5|Adr   343|KD1    1762G      36.0 C  3 49L|Rb        0.79899 m   |HD          8.219 m   |                      | 
+For M5|Adr   344|KD1    1763G      36.0 C    49L|                      |                      |Z        37.48682 m   | 
+For M5|Adr   345|KD1    1763G      36.0 C  3 49L|Rb        1.04596 m   |HD          3.868 m   |                      | 
+For M5|Adr   346|KD1    1571U      36.0 C  3 49L|Rf        1.44565 m   |HD          3.336 m   |                      | 
+For M5|Adr   347|KD1    1571U      36.0 C  3 49L|Rf        1.41789 m   |HD          3.340 m   |                      | 
+For M5|Adr   348|KD1    1763G      36.0 C  3 49L|Rb        1.01824 m   |HD          3.864 m   |                      | 
+For M5|Adr   349|KD1    1571U      36.0 C    49L|                      |                      |Z        37.08715 m   | 
+For M5|Adr   350|KD1    1571U                49L|Sh      -62.91285 m   |dz       62.91285 m   |Z       100.00000 m   | 
+For M5|Adr   351|KD2    1571U       64       49L|Db         313.55 m   |Df         313.88 m   |Z        37.08715 m   | 
+For M5|Adr   352|TO  End-Line                49L|                      |                      |                      | 

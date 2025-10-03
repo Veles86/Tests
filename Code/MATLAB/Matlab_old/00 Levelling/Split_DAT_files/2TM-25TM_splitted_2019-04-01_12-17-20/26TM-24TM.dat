@@ -1,0 +1,28 @@
+For M5|Adr     1|TO  26TM-24TM.dat              |                      |                      |                      
+For M5|Adr     2|TO  170718 FADI                |                      |                      |                      
+For M5|Adr     3|TO  743261 58086 58086 1111    |                      |                      |                      
+For M5|Adr     4|TO  Start-Line         BF   3LB|                      |                      |                      
+For M5|Adr   442|KD1     26TM      11:25:53  3LB|                      |                      |Z        95.05012 m   
+For M5|Adr   443|KD1     26TM      11:58:433 3LB|Rb        1.74071 m   |HD         17.035 m   |                      
+For M5|Adr   444|KD1      1CV      12:00:373 3LB|Rf        0.63334 m   |HD         16.263 m   |                      
+For M5|Adr   445|KD1      1CV      12:00:37  3LB|                      |                      |Z        96.15749 m   
+For M5|Adr   446|KD1      1CV      12:02:453 3LB|Rb        1.59024 m   |HD         20.179 m   |                      
+For M5|Adr   447|KD1      2CV      12:04:183 3LB|Rf        0.87472 m   |HD         18.661 m   |                      
+For M5|Adr   448|KD1      2CV      12:04:18  3LB|                      |                      |Z        96.87301 m   
+For M5|Adr   449|KD1      2CV      12:06:333 3LB|Rb        1.75374 m   |HD         18.739 m   |                      
+For M5|Adr   450|KD1      3CV      12:07:593 3LB|Rf        0.96395 m   |HD         20.281 m   |                      
+For M5|Adr   451|KD1      3CV      12:07:59  3LB|                      |                      |Z        97.66280 m   
+For M5|Adr   452|KD1      3CV      12:09:513 3LB|Rb        1.50235 m   |HD         17.986 m   |                      
+For M5|Adr   453|KD1      4CV      12:12:073 3LB|Rf        0.92866 m   |HD         17.669 m   |                      
+For M5|Adr   454|KD1      4CV      12:12:07  3LB|                      |                      |Z        98.23649 m   
+For M5|Adr   455|KD1      4CV      12:13:153 3LB|Rb        1.20578 m   |HD         17.681 m   |                      
+For M5|Adr   456|KD1      5CV      12:14:223 3LB|Rf        1.44383 m   |HD         17.515 m   |                      
+For M5|Adr   457|KD1      5CV      12:14:22  3LB|                      |                      |Z        97.99844 m   
+For M5|Adr   458|KD1      5CV      12:15:353 3LB|Rb        1.34712 m   |HD         18.029 m   |                      
+For M5|Adr   459|KD1      6CV      12:16:463 3LB|Rf        1.70570 m   |HD         21.794 m   |                      
+For M5|Adr   460|KD1      6CV      12:16:46  3LB|                      |                      |Z        97.63986 m   
+For M5|Adr   461|KD1      6CV      12:18:273 3LB|Rb        1.41815 m   |HD         16.306 m   |                      
+For M5|Adr   462|KD1     24TM      12:19:593 3LB|Rf        1.49021 m   |HD         19.704 m   |                      
+For M5|Adr   463|KD1     24TM      12:19:59  3LB|                      |                      |Z        97.56780 m   
+For M5|Adr   464|KD1     24TM                3LB|Sh         2.5177 m   |                      |                      
+For M5|Adr   465|KD2     24TM        7       3LB|Db         125.96 m   |Df         131.89 m   |Z        97.56780 m   

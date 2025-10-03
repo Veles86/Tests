@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 11 January 2025 9:02:17</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 8, in &lt;module&gt;
+﻿    from Utils.Helpers import start_editing, stop_editing, reverse_line_segments, get_first_segment_with_point, \
+﻿ImportError: cannot import name 'reverse_line_segments' from 'Utils.Helpers' (E:\git\LevellingThesis\Code\Utils\Helpers.py)
+</msg><msg code="0" type="0">Failed script Find Loops...</msg><msg code="-2147467259" type="100">Failed to execute (FindLoops).</msg><msg code="0" type="3">Failed at Saturday, 11 January 2025 9:02:17 (Elapsed Time: 0.41 seconds)</msg></messages>

@@ -1,0 +1,4 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+ 316A     425U       23.28871   1550.   30    0.11  0885                     1425                  1998-r2       0440_316A-418U.rez
+ 425U    4784        40.48616   2010.   30   -3.02  0885                     1425                  1998-r2       0440_316A-418U.rez
+4784      418U        1.36322   1260.   22    0.31  0885                     1425                  1998-r2       0440_316A-418U.rez

@@ -1,0 +1,5 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source
+  40F    2105bX       3.23641    948.   16    0.77  1088                     2048                  1998-r1
+2105bX   42241X       3.24304    539.   10   -2.31  1088                     2048                  1998-r1
+42241X   2104bX      -8.53802   1249.   19    2.33  1088                     2048                  1998-r1
+2104bX    809b       -5.07051   1201.   19    0.29  1088                     2048                  1998-r1

@@ -1,0 +1,3 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+2033b    5518MPI      7.36071   1666.   37    1.32  0120    2033B-5518MPI.DAT.raw            3786 - area b      162_2033b-2039b.rez
+5518MPI  2039b       21.21545   1545.   37   -1.74  0120    5518MPI-2039B.DAT.raw            3786 - area b      162_2033b-2039b.rez

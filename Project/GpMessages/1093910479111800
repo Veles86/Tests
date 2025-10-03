@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 13 May 2025 14:41:29</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 231, in &lt;module&gt;
+﻿    find_loops(levelling_lines_input, source_points_input, loops_type, loops_output)
+﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 42, in find_loops
+﻿    create_polygons_from_loops(polygons_data,polygons_from_cycles)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Loops.py", line 316, in create_polygons_from_loops
+﻿    cur.insertRow(row)
+﻿RuntimeError: The value type is incompatible with the field type. [SetUpsNum]
+</msg><msg code="0" type="0">Failed script Find Independent Loops...</msg><msg code="-2147467259" type="100">Failed to execute (FindIndependentLoops).</msg><msg code="0" type="3">Failed at Tuesday, 13 May 2025 14:42:13 (Elapsed Time: 43.43 seconds)</msg></messages>

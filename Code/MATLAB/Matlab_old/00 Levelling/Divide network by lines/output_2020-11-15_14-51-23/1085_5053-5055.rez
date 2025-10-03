@@ -1,0 +1,5 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+5053     9999A        6.65127    974.   16    1.30  0293                     2076                  1998-r1       1085_5053-5055.rez
+9999A    5054       -33.31472   1224.   25    2.90  0293                     2076                  1998-r1       1085_5053-5055.rez
+5054     50541      -23.67815   1473.   22    0.50  0393                     2077                  1998-r1       1085_5053-5055.rez
+50541    5055       -12.47955   1219.   19    2.80  0393                     2076                  1998-r1       1085_5053-5055.rez

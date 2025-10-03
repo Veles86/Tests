@@ -1,0 +1,9 @@
+Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
+4665      191H       45.01548   1096.   48   -3.00  0301                  914.RAW                     luba        954_4665-6209.rez
+ 191H     114H       37.84206    639.   36   -0.29  0301                  914.RAW                     luba        954_4665-6209.rez
+ 114H    3596        26.48140    481.   31   -1.23  0301                  914.RAW                     luba        954_4665-6209.rez
+3596     1386W      108.47038   1294.   93   -2.82  0301                  914.RAW                     luba        954_4665-6209.rez
+1386W    6178         2.72262   2560.  135   -1.21  0301                  914.RAW                     luba        954_4665-6209.rez
+6178      291H      -48.59727    706.   46    0.86  0301                  914.RAW                     luba        954_4665-6209.rez
+ 291H     290H      -43.73908    567.   40    0.23  0301                  914.RAW                     luba        954_4665-6209.rez
+ 290H    6209      -117.96669   1411.  105    2.43  0301                  914.RAW                     luba        954_4665-6209.rez

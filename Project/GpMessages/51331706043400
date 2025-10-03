@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 1 February 2025 12:22:56</msg><msg code="0" type="0">Reading codes from levelling lines...</msg><msg code="0" type="0">Filtering control points...</msg><msg code="0" type="0">Calculating gg coordinates...</msg><msg code="0" type="0">Geographic coordinates have been calculated</msg><msg code="0" type="0">Calculating theoretic normal gravity...</msg><msg code="0" type="0">Theoretic normal gravity has been calculated</msg><msg code="0" type="0">Filling missing heights...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 103, in &lt;module&gt;
+﻿    filter_control_points(levelling_lines_fc, control_points_fc, output_fc, calc_gg_coordinates, calc_norm_g, fill_missing_heights, known_points_query, calc_grav_corr)
+﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 58, in filter_control_points
+﻿    calculate_missing_heights(levelling_lines_fc, filtered_points_fc, known_points_query)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Calculations.py", line 352, in calculate_missing_heights
+﻿    sorted_segments = sort_segments(lines_with_missing_heights, filtered_coordinates,  junction_points_codes, regular_points_codes, dead_end_points_codes, print_messages = False, sorted_segments_output=None)
+﻿                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿TypeError: sort_segments() got multiple values for argument 'sorted_segments_output'
+</msg><msg code="0" type="0">Failed script Create Filtered Control Points Feature Class...</msg><msg code="-2147467259" type="100">Failed to execute (CreateFilteredControlPointsFeatureClass).</msg><msg code="0" type="3">Failed at Saturday, 1 February 2025 12:23:03 (Elapsed Time: 6.81 seconds)</msg></messages>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 3 July 2025 23:26:29</msg><msg code="0" type="0">Starting the generalization process...</msg><msg code="0" type="0">Classifying points...</msg><msg code="0" type="0">Found 180 junction points, 1216 regular points and 25 dead-end points.</msg><msg code="0" type="0">Sorting segments...</msg><msg code="0" type="0">Calling MATLAB function to sort segments...</msg><msg code="0" type="0">MATLAB function call completed.</msg><msg code="0" type="0">Generalizing sorted segments...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 86, in &lt;module&gt;
+﻿    generalize_segments(levelling_segments_input, source_points_input, points_classification_output, sorted_segments_output, generalized_lines_output)
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 32, in generalize_segments
+﻿    generalized_lines = generalize_sorted_segments(sorted_segments, generalized_lines_output, print_messages=True)
+﻿                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 899, in generalize_sorted_segments
+﻿    fill_missing_data_for_generalized_lines(generalized_lines)
+﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 97, in fill_missing_data_for_generalized_lines
+﻿    row[1] = 1 if code_counts[row[0]] &gt; 1 else 0
+﻿    ~~~^^^
+﻿IndexError: list assignment index out of range
+</msg><msg code="0" type="0">Failed script Generalize Segments By Junctions...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegmentsByJunctions).</msg><msg code="0" type="3">Failed at Thursday, 3 July 2025 23:30:01 (Elapsed Time: 3 minutes 31 seconds)</msg></messages>

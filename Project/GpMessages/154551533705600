@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 24 October 2024 04:53:51</msg><msg code="0" type="0">Starting the generalization process...</msg><msg code="0" type="0">Classifying points...</msg><msg code="0" type="0">Found 8 junction points, 13 regular points and 4 dead-end points.</msg><msg code="0" type="0">Sorting segments...</msg><msg code="0" type="0">temp code: 461834</msg><msg code="0" type="0">starting line number: 0</msg><msg code="0" type="0">Pulled segment with points ['1416b', '926U']</msg><msg code="0" type="0">Pulled segment with points [414416, 461834]</msg><msg code="0" type="0">prev point code: 461834, last point code: 461834</msg><msg code="0" type="0">points are equal, need to reverse</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 260, in &lt;module&gt;
+﻿    generalize_segments(levelling_segments_input, source_points_input, generalized_lines_output, points_classification_output)
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 219, in generalize_segments
+﻿    sorted_segments = sort_segments(levelling_segments_input, junction_points_codes, regular_points_codes, dead_end_points_codes)
+﻿                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 161, in sort_segments
+﻿    add_segment(sorted_segments, reversed_temp_segment,line_number)
+﻿  File "E:\git\LevellingThesis\Code\Helpers.py", line 230, in add_segment
+﻿    Append(inputs=segment_for_addition,target=line_segments,field_mapping=None,match_fields=None,update_geometry="NOT_UPDATE_GEOMETRY")
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 7545, in Append
+﻿    raise e
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 7542, in Append
+﻿    retval = convertArcObjectToPythonObject(gp.Append_management(*gp_fixargs((inputs, target, schema_type, field_mapping, subtype, expression, match_fields, update_geometry), True)))
+﻿                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 512, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: ERROR 000466: memory\reversed_line_segment does not match the schema of target memory\sorted_segments
+Failed to execute (Append).
+
+</msg><msg code="0" type="0">Failed script Generalize Segments...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegments).</msg><msg code="0" type="3">Failed at Thursday, 24 October 2024 04:53:58 (Elapsed Time: 6.70 seconds)</msg></messages>
