@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 17 February 2025 0:06:38</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 210, in &lt;module&gt;
-﻿    find_loops(levelling_lines_input, source_points_input, loops_type, loops_output)
-﻿  File "E:\git\LevellingThesis\Code\FindLoops.py", line 66, in find_loops
-﻿    polygons_data_new.append(temp_polygons_data[0])
-﻿                             ~~~~~~~~~~~~~~~~~~^^^
-﻿IndexError: list index out of range
-</msg><msg code="0" type="0">Failed script Find Loops...</msg><msg code="-2147467259" type="100">Failed to execute (FindLoops).</msg><msg code="0" type="3">Failed at Monday, 17 February 2025 0:06:55 (Elapsed Time: 16.76 seconds)</msg></messages>

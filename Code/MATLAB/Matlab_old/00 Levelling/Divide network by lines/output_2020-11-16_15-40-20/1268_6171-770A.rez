@@ -1,7 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
-6171     6172         3.22889   2445.   51   -1.22  0200                  903.RAW                     luba       1268_6171-770A.rez
-6172     6182         8.35992   2941.   55    2.36  0200                  903.RAW                     luba       1268_6171-770A.rez
-6182     6167        -3.33057   4501.   82   -1.43  0200                  903.RAW                     luba       1268_6171-770A.rez
-6167      445U       -8.38403   1177.   24    0.34  0200                  903.RAW                     luba       1268_6171-770A.rez
- 445U    4142       -11.97636   2206.   46    0.32  0200                  903.RAW                     luba       1268_6171-770A.rez
-4142      770A       17.65202   1970.   32   -2.87  0200                  903.RAW                     luba       1268_6171-770A.rez

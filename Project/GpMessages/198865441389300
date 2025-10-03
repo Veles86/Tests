@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Sunday, 6 July 2025 14:20:15</msg><msg code="-2147467259" type="100">﻿  File "E:\git\LevellingThesis\Code\OptimizeLoop.py", line 50
-    SelectByAttribute(in_layer_or_view=levelling_lines, selection_type="CLEAR_SELECTION"
-                     ^
-﻿SyntaxError: '(' was never closed
-</msg><msg code="0" type="0">Failed script Optimize Loop...</msg><msg code="-2147467259" type="100">Failed to execute (OptimizeLoop).</msg><msg code="0" type="3">Failed at Sunday, 6 July 2025 14:20:20 (Elapsed Time: 4.37 seconds)</msg></messages>

@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 27 January 2025 23:26:17</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\Data Update\UpdatePointsData.py", line 5, in &lt;module&gt;
-﻿    from Utils.Helpers import start_editing, stop_editing
-﻿ModuleNotFoundError: No module named 'Utils'
-</msg><msg code="0" type="0">Failed script Update Points Data...</msg><msg code="-2147467259" type="100">Failed to execute (UpdatePointsData).</msg><msg code="0" type="3">Failed at Monday, 27 January 2025 23:26:17 (Elapsed Time: 0.07 seconds)</msg></messages>

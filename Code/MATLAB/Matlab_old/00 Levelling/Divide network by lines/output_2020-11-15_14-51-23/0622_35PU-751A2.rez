@@ -1,7 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
-  35PU    750A        2.07594     13.    1    0.10  0786                     2016                  1998-r1      0622_35PU-751A2.rez
- 750A     750A1     -20.46668   1394.   20    1.30  0886                     2016                  1998-r1      0622_35PU-751A2.rez
- 750A1     33PU       2.76414   1786.   22   -0.70  0886                     2016                  1998-r1      0622_35PU-751A2.rez
-  33PU    751A1       3.16775   1279.   18   -0.09  0886                     2016                  1998-r1      0622_35PU-751A2.rez
- 751A1   4829        26.47779    843.   19   -0.05  0886                     2016                  1998-r1      0622_35PU-751A2.rez
-4829      751A2      -2.59975   1042.   17    1.20  0886                     2016                  1998-r1      0622_35PU-751A2.rez

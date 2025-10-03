@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Sunday, 6 July 2025 14:49:40</msg><msg code="0" type="0">Found 3 duplicated lines in the selected loop.</msg><msg code="0" type="0">All unique lines for line number 70: [85, 86]</msg><msg code="0" type="0">All unique lines for line number 90: [109, 110]</msg><msg code="0" type="0">All unique lines for line number 108: [132, 133]</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\OptimizeLoop.py", line 97, in &lt;module&gt;
-﻿    optimize_loop(selected_loop, levelling_lines,output_optimized_loop, output_optimized_loop_segments)
-﻿  File "E:\git\LevellingThesis\Code\OptimizeLoop.py", line 72, in optimize_loop
-﻿    combinations = list(itertools.product(*options))
-﻿                   ^^^^
-﻿UnboundLocalError: cannot access local variable 'list' where it is not associated with a value
-</msg><msg code="0" type="0">Failed script Optimize Loop...</msg><msg code="-2147467259" type="100">Failed to execute (OptimizeLoop).</msg><msg code="0" type="3">Failed at Sunday, 6 July 2025 14:49:55 (Elapsed Time: 15.15 seconds)</msg></messages>

@@ -1,5 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
-  40F    5435MPI      5.71671   1492.   31    2.15  1019          5435MPI-40F.raw              3786-line_3         759_40F-795A.rez
-5435MPI  5436MPI     20.18326   2416.   45    2.56  1119      5436MPI-5435MPI.raw              3786-line_3         759_40F-795A.rez
-5436MPI  5437MPI     24.18340   1732.   33    0.48  1119      5437MPI-5436MPI.raw              3786-line_3         759_40F-795A.rez
-5437MPI   795A       13.65188   2332.   45    3.24  0100         5437MPI-795A.raw              3786-line_3         759_40F-795A.rez

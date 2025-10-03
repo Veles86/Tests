@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 5 July 2025 6:06:07</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 9, in &lt;module&gt;
-﻿    from Utils.Generalization import sort_segments_matlab, sort_segments_matlab_new
-﻿ImportError: cannot import name 'sort_segments_matlab_new' from 'Utils.Generalization' (E:\git\LevellingThesis\Code\Utils\Generalization.py)
-</msg><msg code="0" type="0">Failed script Generalize Segments By Junctions...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegmentsByJunctions).</msg><msg code="0" type="3">Failed at Saturday, 5 July 2025 6:06:17 (Elapsed Time: 9.90 seconds)</msg></messages>

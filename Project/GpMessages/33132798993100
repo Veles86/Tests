@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 10 July 2025 11:21:24</msg><msg code="0" type="0">Sorting segments...</msg><msg code="0" type="0">Calling MATLAB function to sort segments...</msg><msg code="0" type="0">MATLAB function call completed.</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\SortingOnlyOfClassifiedData.py", line 65, in &lt;module&gt;
-﻿    sort_segments_matlab(levelling_segments_input, source_points_input, junction_points_codes, regular_points_codes, dead_end_points_codes, sorted_segments_output, print_messages = True)
-﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 802, in sort_segments_matlab
-﻿    row[1] = line_numbers[idx]
-﻿             ~~~~~~~~~~~~^^^^^
-﻿IndexError: list index out of range
-</msg><msg code="0" type="0">Failed script Sorting Only of Already Classified Data...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegmentsByJunctions11).</msg><msg code="0" type="3">Failed at Thursday, 10 July 2025 11:21:35 (Elapsed Time: 11.41 seconds)</msg></messages>

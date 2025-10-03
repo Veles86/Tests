@@ -1,5 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
-  20BY   5444MPI      8.37930   1956.   37    0.10  1219         5444MPI-20BY.raw                     3728     182_20BY-5446MPI.rez
-5444MPI  4100MPI      2.94245   1974.   36   -0.14  1219      4100MPI-5444MPI.raw                     3728     182_20BY-5446MPI.rez
-4100MPI  5445MPI     -8.16178   1676.   31   -2.05  1219      4100MPI-5445MPI.raw                     3728     182_20BY-5446MPI.rez
-5445MPI  5446MPI     -0.78014   1920.   40    0.50  1219      5445MPI-5446MPI.raw                     3728     182_20BY-5446MPI.rez

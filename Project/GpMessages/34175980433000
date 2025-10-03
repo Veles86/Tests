@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 10 July 2025 11:38:47</msg><msg code="0" type="0">Classifying points...</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\ClassifyPointsOnly.py", line 58, in &lt;module&gt;
-﻿    classify_points(levelling_segments_input, source_points_input, points_classification_output, print_messages = True)
-﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 675, in classify_points
-﻿    xy, name = point_cache[point_code]["SHAPE@XY"], point_cache[point_code]["Name"]        
-﻿               ~~~~~~~~~~~^^^^^^^^^^^^
-﻿KeyError: 493691
-</msg><msg code="0" type="0">Failed script Classify Points Only...</msg><msg code="-2147467259" type="100">Failed to execute (ClassifyPointsOnly).</msg><msg code="0" type="3">Failed at Thursday, 10 July 2025 11:38:50 (Elapsed Time: 3.07 seconds)</msg></messages>

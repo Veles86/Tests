@@ -1,8 +1,0 @@
-﻿Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File
-  26S      13S       -2.65516   353.   8  -0.35  0101          LOP22N4.DAT.raw
-  13S      18S       -1.20860   180.   5  -0.59  0101          LOP22N6.DAT.raw
-  18S      59M       -2.09634   306.   7   1.01  0101          LOP22N8.DAT.raw
-  59M      61M        1.73858   154.   5   0.23  0101         LOP22N10.DAT.raw
-  61M      55M       -0.82014    78.   3  -0.09  0101         LOP22N12.DAT.raw
-  55M      97L       -2.08736   439.   9   0.45  0101         LOP22N14.DAT.raw
- 100L      25S        6.43420   889.  15   4.78  0101          LOP22N2.DAT.raw

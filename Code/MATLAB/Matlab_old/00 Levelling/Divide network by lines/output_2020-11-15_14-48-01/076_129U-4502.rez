@@ -1,9 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
- 129U     584A        2.18844    195.    6    0.27  0802                  925.RAW                     luba        076_129U-4502.rez
- 584A    3752       -76.19090   3935.   94    0.32  0802                  925.RAW                     luba        076_129U-4502.rez
-3752     3751      -112.29816   2756.   86   -0.19  0902                  925.RAW                     luba        076_129U-4502.rez
-3751      122U       -6.97645    340.   10    0.02  0902                  925.RAW                     luba        076_129U-4502.rez
- 122U    6225       -97.52661   1916.   60   -1.48  0902                  925.RAW                     luba        076_129U-4502.rez
-6225      582A     -130.90022   3405.   86   -2.44  0902                  925.RAW                     luba        076_129U-4502.rez
- 582A    4503       -81.93700   2407.   54    0.82  0802                  925.RAW                     luba        076_129U-4502.rez
-4503     4502       -61.84213   1621.   40   -0.57  0802                  925.RAW                     luba        076_129U-4502.rez

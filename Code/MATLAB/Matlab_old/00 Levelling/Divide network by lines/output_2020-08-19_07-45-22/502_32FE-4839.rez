@@ -1,8 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
-  32FE   3972MPI     -5.01396   1410.   27   -1.26  1117         3972MPI-32FE.raw                     3728        502_32FE-4839.rez
-3972MPI  3971MPI     -0.23904   1792.   31   -0.48  0717      3972MPI-3971MPI.raw                     3728        502_32FE-4839.rez
-3971MPI    32U       -0.63613   2276.   41   -1.08  0717          32U-3971MPI.raw                     3728        502_32FE-4839.rez
-  32U    3980MPI     12.52901   2587.   45    0.06  0717          3980MPI-32U.raw                     3728        502_32FE-4839.rez
-3980MPI  5111        35.31995   2481.   43    1.16  0717         3980MPI-5111.raw                     3728        502_32FE-4839.rez
-5111       29U        6.54253    767.   17    1.40  1017             29U-5111.raw                     3728        502_32FE-4839.rez
-  29U    4839        15.54528   2006.   45    0.83  1017             29U-4839.raw                     3728        502_32FE-4839.rez

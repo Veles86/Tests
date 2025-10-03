@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 11 January 2025 8:47:13</msg><msg code="0" type="0">PYTHONHOME environment variable: Unknown</msg><msg code="0" type="0">Python executable: C:\Users\ilyak\AppData\Local\ESRI\conda\envs\arcgispro-py3-clone\python.exe</msg><msg code="0" type="0">Python version: 3.11.10</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 70, in &lt;module&gt;
-﻿    filter_control_points(levelling_lines_fc, control_points_fc, output_fc)
-﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 53, in filter_control_points
-﻿    temp_fc = extract_coordinates_from_external_source(levelling_lines_fc, control_points_fc, True)
-﻿              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-﻿TypeError: extract_coordinates_from_external_source() takes 2 positional arguments but 3 were given
-</msg><msg code="0" type="0">Failed script Create Filtered Control Points Feature Class...</msg><msg code="-2147467259" type="100">Failed to execute (CreateFilteredControlPointsFeatureClass).</msg><msg code="0" type="3">Failed at Saturday, 11 January 2025 8:47:14 (Elapsed Time: 0.37 seconds)</msg></messages>

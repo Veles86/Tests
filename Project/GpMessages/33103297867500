@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 10 July 2025 11:20:55</msg><msg code="0" type="50">The script is running in DEBUGGING mode. Please ensure that the input data is correct and the output paths are valid.</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\SortingOnlyOfClassifiedData.py", line 64, in &lt;module&gt;
-﻿    junction_points_codes, regular_points_codes, dead_end_points_codes = points_classification_to_tuple(points_classification_input)
-﻿                                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-﻿  File "E:\git\LevellingThesis\Code\SortingOnlyOfClassifiedData.py", line 18, in points_classification_to_tuple
-﻿    with SearchCursor(points_classification_input, ["Code","Type"]) as cursor:
-﻿         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-﻿RuntimeError: cannot open 'E:\git\LevellingThesis\Data\Thesis.gdb\common_line_segments_recent_luba_ClassifyPointsOnly'
-</msg><msg code="0" type="0">Failed script Sorting Only of Already Classified Data...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegmentsByJunctions11).</msg><msg code="0" type="3">Failed at Thursday, 10 July 2025 11:21:04 (Elapsed Time: 9.54 seconds)</msg></messages>

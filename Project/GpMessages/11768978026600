@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 12 July 2025 3:34:31</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\SummarizeLoopsData.py", line 45, in &lt;module&gt;
-﻿    summarize_loops_data(loops_input)
-﻿  File "E:\git\LevellingThesis\Code\SummarizeLoopsData.py", line 30, in summarize_loops_data
-﻿    for row in cursor:
-﻿RuntimeError: Cannot find field 'AbsMeasHeightDiffMM'
-</msg><msg code="0" type="0">Failed script Summarize Loops Data...</msg><msg code="-2147467259" type="100">Failed to execute (SummarizeLoopsData).</msg><msg code="0" type="3">Failed at Saturday, 12 July 2025 3:34:31 (Elapsed Time: 0.43 seconds)</msg></messages>

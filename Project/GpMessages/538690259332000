@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 28 January 2025 0:45:41</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\Data Update\AddTheoreticalGValue.py", line 9, in &lt;module&gt;
-﻿    from Utils.Gravimetry import calculate_theoretical_grav_value
-﻿ImportError: cannot import name 'calculate_theoretical_grav_value' from 'Utils.Gravimetry' (E:\git\LevellingThesis\Code\Utils\Gravimetry.py)
-</msg><msg code="0" type="0">Failed script Add Theoretic G Value...</msg><msg code="-2147467259" type="100">Failed to execute (AddTheoreticGValue).</msg><msg code="0" type="3">Failed at Tuesday, 28 January 2025 0:45:44 (Elapsed Time: 2.93 seconds)</msg></messages>

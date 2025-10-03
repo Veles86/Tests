@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 1 February 2025 12:19:01</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 12, in &lt;module&gt;
-﻿    from Utils.Calculations import calculate_missing_heights
-﻿  File "E:\git\LevellingThesis\Code\Utils\Calculations.py", line 352
-    sorted_segments = sort_segments(lines_with_missing_heights, filtered_coordinates, sorted_segments_output=None, junction_points_codes, regular_points_codes, dead_end_points_codes, print_messages = False)
-                                                                                                                                                                                                             ^
-﻿SyntaxError: positional argument follows keyword argument
-</msg><msg code="0" type="0">Failed script Create Filtered Control Points Feature Class...</msg><msg code="-2147467259" type="100">Failed to execute (CreateFilteredControlPointsFeatureClass).</msg><msg code="0" type="3">Failed at Saturday, 1 February 2025 12:19:07 (Elapsed Time: 6.33 seconds)</msg></messages>

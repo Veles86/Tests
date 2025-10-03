@@ -1,7 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source
- 113U    3560       106.47365   2466.   73   -0.30  1202                  925.RAW                     luba
-3560     6260        70.94464   5282.  112    0.36  1202                  925.RAW                     luba
-6260     6259       -36.62507   5289.  112   -0.34  0103                  925.RAW                     luba
-6259         KNSW    -8.25690   2687.   90   -1.17  0302                  925.RAW                     luba
-    KNSW     KNNW   -40.10495   3076.  108    0.81  0303                  925.RAW                     luba
-    KNNW 6142      -117.35835   8134.  256    1.25  0303                  925.RAW                     luba

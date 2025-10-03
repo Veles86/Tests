@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 6 May 2025 18:42:22</msg><msg code="0" type="0">LineDirection field found.</msg><msg code="0" type="0">Reversed 0 lines.</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\Data Update\TurnAllLinesByCodeDirection.py", line 49, in &lt;module&gt;
-﻿    turn_lines_by_code_direction(lines_fc)
-﻿  File "E:\git\LevellingThesis\Code\Data Update\TurnAllLinesByCodeDirection.py", line 38, in turn_lines_by_code_direction
-﻿    reverse_segments(lines_to_reverse,"segments")
-﻿  File "E:\git\LevellingThesis\Code\Utils\Lines.py", line 127, in reverse_segments
-﻿    for row in cursor:
-﻿RuntimeError: Cannot find field 'SegmentName'
-</msg><msg code="0" type="0">Failed script Turn All Lines By Code Direction...</msg><msg code="-2147467259" type="100">Failed to execute (TurnAllLinesByCodeDirection).</msg><msg code="0" type="3">Failed at Tuesday, 6 May 2025 18:42:22 (Elapsed Time: 0.70 seconds)</msg></messages>

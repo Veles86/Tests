@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 5 July 2025 7:48:12</msg><msg code="4111" type="100">ERROR 004111: Attribute Rule Error: The Geometry has no Z values [
-Rule name: Calculate Segment's Basic Attributes and Geometry,
-Triggering event: Update,
-Class name: Segments,
-GlobalID: {14DF1783-6869-49F8-9A68-041C9CC748E2}].</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Saturday, 5 July 2025 7:48:15 (Elapsed Time: 2.48 seconds)</msg></messages>

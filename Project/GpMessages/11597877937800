@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 1 February 2025 1:20:44</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\CreateFilteredCoordinatesFC.py", line 9, in &lt;module&gt;
-﻿    from Utils.Points import extract_coordinates_from_external_source
-﻿  File "E:\git\LevellingThesis\Code\Utils\Points.py", line 13, in &lt;module&gt;
-﻿    from arcpy.edit import FlipLine, ListFields
-﻿ImportError: cannot import name 'ListFields' from 'arcpy.edit' (C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\edit.py)
-</msg><msg code="0" type="0">Failed script Create Filtered Control Points Feature Class...</msg><msg code="-2147467259" type="100">Failed to execute (CreateFilteredControlPointsFeatureClass).</msg><msg code="0" type="3">Failed at Saturday, 1 February 2025 1:20:53 (Elapsed Time: 9.35 seconds)</msg></messages>

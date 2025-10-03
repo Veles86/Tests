@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 10 July 2025 16:30:07</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\Data Update\CalculateGravimetricCorrections.py", line 18, in &lt;module&gt;
-﻿    calculate_gravimetric_corrections(lines_fc, points_fc)
-﻿  File "E:\git\LevellingThesis\Code\Utils\Gravimetry.py", line 35, in calculate_gravimetric_corrections
-﻿    for row in cursor:
-﻿RuntimeError: Cannot find field 'GlobalID'
-</msg><msg code="0" type="0">Failed script Calculate Gravimetric Correction...</msg><msg code="-2147467259" type="100">Failed to execute (CalculateGravCorrection).</msg><msg code="0" type="3">Failed at Thursday, 10 July 2025 16:30:08 (Elapsed Time: 0.53 seconds)</msg></messages>

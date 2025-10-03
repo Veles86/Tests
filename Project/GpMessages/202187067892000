@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Sunday, 6 July 2025 15:15:37</msg><msg code="0" type="0">Found 3 duplicated lines in the selected loop.</msg><msg code="0" type="0">Total number of combinations: 8</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\OptimizeLoop.py", line 120, in &lt;module&gt;
-﻿    optimize_loop(selected_loop, levelling_lines,points_data,output_optimized_loop)
-﻿  File "E:\git\LevellingThesis\Code\OptimizeLoop.py", line 81, in optimize_loop
-﻿    field_mapping = fr'MeasHeightDiff "MeasHeightDiff" true true false 8 Double 0 0,First,#,{temp_loop},MeasHeightDiff,-1,-1;'+\
-﻿                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-﻿UnboundLocalError: cannot access local variable 'temp_loop' where it is not associated with a value
-</msg><msg code="0" type="0">Failed script Optimize Loop...</msg><msg code="-2147467259" type="100">Failed to execute (OptimizeLoop).</msg><msg code="0" type="3">Failed at Sunday, 6 July 2025 15:15:42 (Elapsed Time: 5.39 seconds)</msg></messages>

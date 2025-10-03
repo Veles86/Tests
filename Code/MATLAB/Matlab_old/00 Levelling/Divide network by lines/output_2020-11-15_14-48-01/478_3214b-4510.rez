@@ -1,8 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
-3214b    5443MPI     55.92618   2322.   66    2.51  1019        3214b-5443MPI.raw            3786 - line 3       478_3214b-4510.rez
-5443MPI  3746MPI     85.41517   2232.   89    2.10  1019      3746MPI-5443MPI.raw            3786 - line 3       478_3214b-4510.rez
-3746MPI   874U      -36.08284   3026.   65    2.11  0120         874U-3746MPI.raw            3786 - line 3       478_3214b-4510.rez
- 874U    5534MPI    -18.50094   2632.   52   -1.68  0820         874U-5534MPI.raw            3786 - line 3       478_3214b-4510.rez
-5534MPI  5535MPI    -41.49527   2629.   49    1.18  0920      5535MPI-5534MPI.raw            3786 - line 3       478_3214b-4510.rez
-5535MPI  5536MPI     10.35051   1715.   35    1.60  0920      5535MPI-5536MPI.raw            3786 - line 3       478_3214b-4510.rez
-5536MPI  4510        15.92737   1651.   34   -1.80  0920         5536MPI-4510.raw            3786 - line 3       478_3214b-4510.rez

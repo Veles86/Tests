@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 26 October 2024 03:15:16</msg><msg code="-2147467259" type="100">﻿  File "E:\git\LevellingThesis\Code\GeneralizeSegments.py", line 6
-    from Helpers import extract_coordinates_from_external_source,start_editing, stop_editing, reverse_line_segments, get_first_segment_with_point, add_segment, delete_segment,get_last_segment_end_point_code,get_segments_end_point_names,get_segments_end_point_codes, check_self_loops(sorted_segments, source_points_input)
-                                                                                                                                                                                                                                                                                          ^
-﻿SyntaxError: invalid syntax
-</msg><msg code="0" type="0">Failed script Generalize Segments...</msg><msg code="-2147467259" type="100">Failed to execute (GeneralizeSegments).</msg><msg code="0" type="3">Failed at Saturday, 26 October 2024 03:15:16 (Elapsed Time: 0.45 seconds)</msg></messages>

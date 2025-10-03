@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 7 July 2025 18:20:11</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\Data Update\CalculateApprovedHeightDiffs.py", line 14, in &lt;module&gt;
-﻿    from Utils.Points import get_point_height
-﻿ImportError: cannot import name 'get_point_height' from 'Utils.Points' (E:\git\LevellingThesis\Code\Utils\Points.py)
-</msg><msg code="0" type="0">Failed script Calculate Approved Height Diffs...</msg><msg code="-2147467259" type="100">Failed to execute (CalculateApprovedHeightDiffs).</msg><msg code="0" type="3">Failed at Monday, 7 July 2025 18:20:21 (Elapsed Time: 10.54 seconds)</msg></messages>

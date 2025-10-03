@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 23 January 2025 17:49:24</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\ResearchToolbox.atbx\ScriptMatlab.tool\tool.script.execute.py", line 11, in &lt;module&gt;
-﻿  File "C:\Users\ilyak\AppData\Local\ESRI\conda\envs\arcgispro-py3-clone\Lib\site-packages\matlab\engine\__init__.py", line 82, in &lt;module&gt;
-﻿    raise EnvironmentError(secondExceptionMessage)
-﻿OSError: Please reinstall MATLAB Engine for Python or contact MathWorks Technical Support for assistance:
-First issue: DLL load failed while importing matlabengineforpython_abi3: The specified procedure could not be found.
-Second issue: DLL load failed while importing matlabengineforpython_abi3: The specified procedure could not be found.
-</msg><msg code="0" type="0">Failed script ScriptMatlab...</msg><msg code="-2147467259" type="100">Failed to execute (ScriptMatlab).</msg><msg code="0" type="3">Failed at Thursday, 23 January 2025 17:49:27 (Elapsed Time: 3.41 seconds)</msg></messages>

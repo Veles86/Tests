@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 6 May 2025 23:51:03</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\Data Update\AddGeographicCoordinates.py", line 3, in &lt;module&gt;
-﻿    from Utils.Points import calculate_geographic_coordinates
-﻿ModuleNotFoundError: No module named 'Utils'
-</msg><msg code="0" type="0">Failed script Add Geographic Coordinates...</msg><msg code="-2147467259" type="100">Failed to execute (AddGeographicCoordinates).</msg><msg code="0" type="3">Failed at Tuesday, 6 May 2025 23:51:03 (Elapsed Time: 0.14 seconds)</msg></messages>

@@ -1,9 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
- 433A    5529MPI    -49.92961   2167.   49    2.08  0720         433A-5529MPI.raw            3786 - line 3       868_433A-7115b.rez
-5529MPI  5455MPI    -11.11637   1758.   33   -0.76  0720   5445MPIMPI-5529MPI.raw            3786 - line 3       868_433A-7115b.rez
-5455MPI  5528MPI      3.54780   1595.   29   -1.10  0720      5445MPI-5528MPI.raw            3786 - line 3       868_433A-7115b.rez
-5528MPI  5530MPI     18.49968   2192.   39   -2.16  0720      5530MPI-5528MPI.raw            3786 - line 3       868_433A-7115b.rez
-5530MPI  5531MPI     31.05879   1554.   33   -0.82  0720      5530MPI-5531MPI.raw            3786 - line 3       868_433A-7115b.rez
-5531MPI  5532MPI    -15.65653   2282.   70   -0.66  0720      5531MPI-5532MPI.raw            3786 - line 3       868_433A-7115b.rez
-5532MPI  5533MPI     -0.61059   1986.   69    2.56  0720      5533MPI-5532MPI.raw            3786 - line 3       868_433A-7115b.rez
-5533MPI  7115b      -38.38845   2193.   75    0.66  0720        7115B-5533MPI.raw            3786 - line 3       868_433A-7115b.rez

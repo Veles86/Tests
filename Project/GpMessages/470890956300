@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 21 January 2025 19:15:20</msg><msg code="0" type="0">Adding test_rank to ControlPoints_IG0512...</msg><msg code="539" type="100">ERROR 000539: ﻿Traceback (most recent call last):
-﻿  File "&lt;expression&gt;", line 1, in &lt;module&gt;
-﻿TypeError: unsupported operand type(s) for -: 'str' and 'int'
-</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Tuesday, 21 January 2025 19:15:20 (Elapsed Time: 0.46 seconds)</msg></messages>

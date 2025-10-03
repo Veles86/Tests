@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 5 July 2025 8:12:01</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\Data Update\ReconstructSegmentsGeometry.py", line 46, in &lt;module&gt;
-﻿    reconstruct_segments_geometry(points_fc,segments_fc)
-﻿  File "E:\git\LevellingThesis\Code\Data Update\ReconstructSegmentsGeometry.py", line 35, in reconstruct_segments_geometry
-﻿    cursor.updateRow([start_code, end_code, new_line])
-﻿RuntimeError: Cannot acquire a lock.
-</msg><msg code="0" type="0">Failed script Reconstruct Segments Geometry...</msg><msg code="-2147467259" type="100">Failed to execute (ReconstructSegmentsGeometry).</msg><msg code="0" type="3">Failed at Saturday, 5 July 2025 8:12:02 (Elapsed Time: 1.38 seconds)</msg></messages>

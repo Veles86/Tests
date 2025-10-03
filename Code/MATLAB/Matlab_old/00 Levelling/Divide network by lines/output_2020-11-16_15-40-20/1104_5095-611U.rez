@@ -1,5 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
-5095     4160MPI     16.06236   1391.   29   -1.76  1019         5095-4160MPI.raw              3786-line_3       1104_5095-611U.rez
-4160MPI  4161MPI      0.80743   2107.   51    1.12  1019      4160MPI-4161MPI.raw              3786-line_3       1104_5095-611U.rez
-4161MPI  4162MPI     -3.16184   2122.   62    2.58  1019      4162MPI-4161MPI.raw              3786-line_3       1104_5095-611U.rez
-4162MPI   611U        6.56786   2432.   46    2.20  1019         4162MPI-611U.raw              3786-line_3       1104_5095-611U.rez

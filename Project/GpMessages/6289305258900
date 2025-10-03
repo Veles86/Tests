@@ -1,3 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Sunday, 6 July 2025 20:02:04</msg><msg code="1" type="100">ERROR 000496: table is being edited
-Failed to execute (AddFields).
-</msg><msg code="0" type="0">Failed script Calculate Geometry Attributes...</msg><msg code="-2147467259" type="100">Failed to execute (CalculateGeometryAttributes).</msg><msg code="0" type="3">Failed at Sunday, 6 July 2025 20:02:05 (Elapsed Time: 0.89 seconds)</msg></messages>

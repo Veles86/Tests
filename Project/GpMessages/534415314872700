@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 27 January 2025 23:34:26</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\Data Update\UpdatePointsData.py", line 8, in &lt;module&gt;
-﻿    from Utils.Helpers import start_editing, stop_editing, get_feature_layer_workspace
-﻿ImportError: cannot import name 'get_feature_layer_workspace' from 'Utils.Helpers' (E:\git\LevellingThesis\Code\Utils\Helpers.py)
-</msg><msg code="0" type="0">Failed script Update Points Data...</msg><msg code="-2147467259" type="100">Failed to execute (UpdatePointsData).</msg><msg code="0" type="3">Failed at Monday, 27 January 2025 23:34:26 (Elapsed Time: 0.08 seconds)</msg></messages>

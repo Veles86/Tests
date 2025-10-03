@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 5 July 2025 0:31:20</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\Validations\CheckProperGeneralization.py", line 13, in &lt;module&gt;
-﻿    from Utils.Generalization import check_lines_connectivity, check_proper_division
-﻿  File "E:\git\LevellingThesis\Code\Utils\Generalization.py", line 6, in &lt;module&gt;
-﻿    from arcpy.management import CreateFeatureclass, AddField, SelectLayerByAttribute as SelectByAttribute,GetCount, Dissolve, Sort, Append, DeleteField,EnableEditorTracking, SelectLayerByLopcation as SelectByLocation
-﻿ImportError: cannot import name 'SelectLayerByLopcation' from 'arcpy.management' (C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py)
-</msg><msg code="0" type="0">Failed script Check Proper Generalization...</msg><msg code="-2147467259" type="100">Failed to execute (CheckProperGeneralization).</msg><msg code="0" type="3">Failed at Saturday, 5 July 2025 0:31:30 (Elapsed Time: 9.62 seconds)</msg></messages>

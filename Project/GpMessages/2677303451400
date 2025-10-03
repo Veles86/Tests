@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 5 October 2024 19:32:48</msg><msg code="-2147467259" type="100">Failed to execute. Parameters are not valid.</msg><msg code="32659" type="100">updateParameters Error: ﻿Traceback (most recent call last):
-﻿  File "E:\OneDrive\Research\GIS\Code\ResearchToolbox.atbx\CreateControlPoints.tool\tool.script.validate.py", line 32, in &lt;module&gt;
-﻿  File "E:\OneDrive\Research\GIS\Code\ResearchToolbox.atbx\CreateControlPoints.tool\tool.script.validate.py", line 18, in updateParameters
-﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\__init__.py", line 1600, in __getitem__
-﻿    return self.__getattribute__(key) if isinstance(key, str) else super().__getitem__(key)
-﻿                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^
-﻿IndexError: list index out of range
-</msg><msg code="-2147467259" type="100">Failed to execute (CreateControlPoints).</msg><msg code="0" type="3">Failed at Saturday, 5 October 2024 19:32:49 (Elapsed Time: 0.36 seconds)</msg></messages>

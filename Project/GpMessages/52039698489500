@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, 10 July 2025 16:36:31</msg><msg code="1" type="100">You must select exactly one feature.</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\OptimizeLoop.py", line 125, in &lt;module&gt;
-﻿    optimize_loop(selected_loop, levelling_lines,points_data,output_optimized_loop)
-﻿  File "E:\git\LevellingThesis\Code\OptimizeLoop.py", line 25, in optimize_loop
-﻿    raise arcpy.ExecuteError
-﻿arcgisscripting.ExecuteError﻿
-</msg><msg code="0" type="0">Failed script Optimize Loop...</msg><msg code="-2147467259" type="100">Failed to execute (OptimizeLoop).</msg><msg code="0" type="3">Failed at Thursday, 10 July 2025 16:36:33 (Elapsed Time: 1.55 seconds)</msg></messages>

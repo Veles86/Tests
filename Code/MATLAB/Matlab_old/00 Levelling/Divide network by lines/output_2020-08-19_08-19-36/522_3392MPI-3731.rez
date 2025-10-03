@@ -1,9 +1,0 @@
-Point_A   Point_B   Height_Difference    Distance    Num_Across Difference_Between_BF Date_Measured       Name_File     Source     File
-3392MPI   529U        7.40319   5356.  140   -2.00  0705                  938.RAW                     luba     522_3392MPI-3731.rez
- 529U     480U       13.32030   4703.  125   -0.94  0605                  938.RAW                     luba     522_3392MPI-3731.rez
- 480U     481U      176.39888   5813.  192    3.18  0405                  938.RAW                     luba     522_3392MPI-3731.rez
- 481U     825U        9.70638   2727.   87   -0.47  0505                  938.RAW                     luba     522_3392MPI-3731.rez
- 825U     482U       10.79738   2228.   70   -2.83  0505                  938.RAW                     luba     522_3392MPI-3731.rez
- 482U    3482MPI     20.50826   4271.  115   -2.03  0805                  938.RAW                     luba     522_3392MPI-3731.rez
-3482MPI   501U      106.15412   5330.  162   -2.66  0805                  938.RAW                     luba     522_3392MPI-3731.rez
- 501U    3731        -9.59183   1738.   52   -1.27  0805                  938.RAW                     luba     522_3392MPI-3731.rez

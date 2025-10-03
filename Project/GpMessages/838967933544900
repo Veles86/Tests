@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 10 May 2025 15:52:25</msg><msg code="0" type="0">Adding AllowedMisc to Teum1998SegmentsFixed_generalized_Dar1_Only_FindIndependentLoops...</msg><msg code="539" type="100">ERROR 000539: ﻿Traceback (most recent call last):
-﻿  File "&lt;expression&gt;", line 1, in &lt;module&gt;
-﻿NameError: name 'sqrt' is not defined
-</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Saturday, 10 May 2025 15:52:25 (Elapsed Time: 0.23 seconds)</msg></messages>

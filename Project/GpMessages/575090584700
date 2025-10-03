@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 11 January 2025 15:33:38</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\ResearchToolbox.atbx\ScriptMatlab.tool\tool.script.execute.py", line 11, in &lt;module&gt;
-﻿ModuleNotFoundError: No module named 'matlab'
-</msg><msg code="0" type="0">Failed script ScriptMatlab...</msg><msg code="-2147467259" type="100">Failed to execute (ScriptMatlab).</msg><msg code="0" type="3">Failed at Saturday, 11 January 2025 15:33:39 (Elapsed Time: 0.66 seconds)</msg></messages>

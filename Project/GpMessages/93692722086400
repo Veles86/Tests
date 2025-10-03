@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, 15 July 2025 9:14:27</msg><msg code="0" type="0">Adding DTOT to known_g_values_old_XYTableToPoint...</msg><msg code="539" type="100">ERROR 000539: ﻿Traceback (most recent call last):
-﻿  File "&lt;expression&gt;", line 1, in &lt;module&gt;
-﻿TypeError: unsupported operand type(s) for ^: 'float' and 'float'
-</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Tuesday, 15 July 2025 9:14:30 (Elapsed Time: 2.99 seconds)</msg></messages>

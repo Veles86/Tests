@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 26 October 2024 00:44:53</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
-﻿  File "E:\git\LevellingThesis\Code\ExtractCoordinatesByCode.py", line 4, in &lt;module&gt;
-﻿    from arcpy.da import SearchCursor, InsertCursor, UpdateCursor, DeleteCursor
-﻿ImportError: cannot import name 'DeleteCursor' from 'arcpy.da' (C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\da.py)
-</msg><msg code="0" type="0">Failed script Create Control Points...</msg><msg code="-2147467259" type="100">Failed to execute (CreateControlPoints).</msg><msg code="0" type="3">Failed at Saturday, 26 October 2024 00:44:53 (Elapsed Time: 0.22 seconds)</msg></messages>
